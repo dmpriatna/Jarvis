@@ -66,6 +66,7 @@
 /***********************************************************************************************/
 
 body {
+  background: #F1EBE5;
   font-family: 'Raleway', sans-serif;
   color: #737272;
   line-height: 24px;
@@ -409,7 +410,7 @@ p {
 }
 
 .navbar-default .navbar-nav > li > a {
-  color: #060606;
+  color: #3A9A83;
   text-transform: uppercase;
   -webkit-transition: color .3s ease-in-out;
   -moz-transition: color .3s ease-in-out;
@@ -420,8 +421,10 @@ p {
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > 
 .active > a:focus {
-  background: transparent;
-  color: #fc6e51;
+  background: #3A9A83;
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 10px;
+  color: #ffffff;
 }
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
@@ -569,7 +572,7 @@ p {
   font-size: 43px;
   font-weight: 500;
   letter-spacing: 8px;
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 .div-line {
@@ -3135,6 +3138,10 @@ p.copyright {
     margin-bottom: 30px;
   }
 
+  .acenter-dflex {
+    display: initial !important;
+  }
+  
 }
 
 @media screen and (max-width: 640px) {
@@ -3196,9 +3203,53 @@ p.copyright {
 /* Additional */
 
 .navbar-brand {
+	height: auto;
 	padding: 0;
 	position: absolute;
 	top: 50%;
 	transform: translateY(-50%);
-	width: 90px;
+	width: 37%;
+}
+
+.no-transform {
+  text-transform: none;
+}
+
+.acenter-dflex {
+  align-items: center;
+  display: flex;
+}
+
+.tright {
+  text-align: right;
+}
+
+.btn-default {
+  background-color: #3A9A83;
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 10px;
+  color: #ffffff;
+  padding: 5px 10px;
+  width: fit-content;
+}
+
+.count-info {
+  background-color: #d1ad79;
+  border-bottom-right-radius: 25px;
+  border-top-left-radius: 25px;
+  line-height: 100px;
+  margin: 25px;
+  padding: 25px;
+  text-align: center;
+}
+
+.testimoni-info {
+  background-color: #ffffff;
+  border-bottom-right-radius: 25px;
+  border-top-left-radius: 25px;
+  content: "";
+  line-height: 100px;
+  margin: 25px;
+  padding: 25px;
+  text-align: center;
 }
