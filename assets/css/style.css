@@ -885,6 +885,7 @@ a:hover .overlay .overlay-inner p, a:hover .overlay .overlay-inner span {
      -moz-transform: translateY(30px);
       -ms-transform: translateY(30px);
        -o-transform: translateY(30px);
+       transform: translateY(30px);
 }
 
 a:hover .overlay {
@@ -3234,6 +3235,11 @@ p.copyright {
   width: fit-content;
 }
 
+.btn-default.invert {
+  background-color: #F1EBE5;
+  color: #402702;
+}
+
 .count-info {
   background-color: #d1ad79;
   border-bottom-right-radius: 25px;
@@ -3250,7 +3256,36 @@ p.copyright {
   border-top-left-radius: 25px;
   content: "";
   line-height: 100px;
-  margin: 25px;
-  padding: 25px;
+  margin: 25px 0;
+  padding: 50%;
   text-align: center;
+}
+
+.porto-info
+{
+  border-color: #402702;
+  border-style: solid;
+  border-width: 1px;
+  border-bottom-right-radius: 15px;
+  border-top-left-radius: 15px;
+  color: #402702;
+  margin: 0 50px;
+  padding: 20px;
+  text-align: center;
+}
+
+.porto-info.invert
+{
+  align-content: space-between;
+  align-items: center;
+  border-color: #FFFBF8;
+  display: grid;
+  justify-content: space-between;
+  justify-items: center;
+  min-height: 400px;
+}
+
+.porto-info.invert > p
+{
+  color: #FFFBF8;
 }
