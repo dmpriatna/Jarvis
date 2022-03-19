@@ -919,12 +919,8 @@ footer {
     opacity: 0;
 }
 
-#one .content {
+.one .content {
     opacity: 1;
-}
-
-.slideswitch:target~.slide .navigation {
-    display: none !important;
 }
 
 .slideswitch:target~.slide#one .content,
@@ -935,21 +931,17 @@ footer {
     opacity: 0;
 }
 
-.slideswitch[ id="one"]:target~.slide#one .navigation,
-.slideswitch[ id="two"]:target~.slide#two .navigation,
-.slideswitch[ id="three"]:target~.slide#three .navigation,
-.slideswitch[ id="four"]:target~.slide#four .navigation,
-.slideswitch[ id="five"]:target~.slide#five .navigation {
-    display: block !important;
-}
-
-.slideswitch[ id="one"]:target~.slide#one .content,
-.slideswitch[ id="two"]:target~.slide#two .content,
+.slideswitch[ id="one"]:target~.slide.one .content,
+.slideswitch[ id="two"]:target~.slide.two .content,
 .slideswitch[ id="three"]:target~.slide#three .content,
 .slideswitch[ id="four"]:target~.slide#four .content,
 .slideswitch[ id="five"]:target~.slide#five .content {
     animation-name: fade_in;
     animation-duration: 0.5s;
+}
+
+.slideswitch[ id="two"]:target~.ul-me.two {
+    background: #8B6B54;
 }
 
 .slideswitch[ id="one"]:target~#one .slide_from_left,
@@ -1086,4 +1078,57 @@ path {
     100% {
         transform: scale(1, 1);
     }
+}
+
+.form-daftar input {
+    background: #BEB09F;
+    border: 1px solid #BEB09F;
+    border-radius: 5px;
+    padding: 10px;
+    width: 100%;
+}
+
+.form-daftar input::placeholder {
+    color: white;
+}
+
+.form-daftar input[type=checkbox] {
+    left: 0;
+}
+
+.keluar {
+    text-align: center;
+    background: #C4C4C4;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+}
+
+.daftar {
+    text-align: center;
+    background: #8B6B54;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+}
+
+.s4-content {
+    opacity: 0;
+    position: absolute;
+}
+
+#s4-1 .s4-content {
+    opacity: 1;
+}
+
+.anchor:target ~ .container#s4-1 .s4-content,
+.anchor:target ~ .ancontainerchor#s4-2 .s4-content,
+.anchor:target ~ .container#s4-3 .s4-content {
+    opacity: 0;
+}
+
+.anchor[id="s4-1"]:target ~ .container#s4-1 .s4-content,
+.anchor[id="s4-2"]:target ~ .container#s4-2 .s4-content,
+.anchor[id="s4-3"]:target ~ .container#s4-3 .s4-content {
+    opacity: 1;
 }

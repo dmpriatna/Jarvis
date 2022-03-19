@@ -1,3 +1,7 @@
+function toNatar(params) {
+    location.assign('/natar')
+}
+
 /*
 	Salient by TEMPLATE STOCK
 	templatestock.co @templatestock
