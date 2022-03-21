@@ -4,6 +4,8 @@ include_once 'core/helper.php';
 include_once 'core/request.php';
 include_once 'core/router.php';
 
+require_once 'core/myContext.php';
+
 $router = new Router(new Request);
 
 $router->get('/', function() {
@@ -29,7 +31,10 @@ $router->get('/api/test', function() {
 });
 
 $router->post('/api/test', function($request) {
-  return <<<HTML
-    <h1>Hai, kamu berhasil..!</h1>
-  HTML;
+  return json_encode($request->Body());
+});
+
+$router->post('/api/saveUser', function($request) {
+  $entity = new UserEntity();
+  return $entity->Save($request->Body());
 });

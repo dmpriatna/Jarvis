@@ -687,6 +687,7 @@ section.contact-me {
 }
 
 @media screen and (max-width: 1280px) {
+
     .right-image-post h4,
     .left-image-post h4 {
         margin-top: 0px;
@@ -1113,22 +1114,66 @@ path {
 }
 
 .s4-content {
-    opacity: 0;
+    display: none;
     position: absolute;
 }
 
 #s4-1 .s4-content {
-    opacity: 1;
+    display: inherit;
 }
 
-.anchor:target ~ .container#s4-1 .s4-content,
-.anchor:target ~ .ancontainerchor#s4-2 .s4-content,
-.anchor:target ~ .container#s4-3 .s4-content {
-    opacity: 0;
+.anchor:target~.container#s4-1 .s4-content,
+.anchor:target~.container#s4-2 .s4-content,
+.anchor:target~.container#s4-3 .s4-content {
+    display: none;
 }
 
-.anchor[id="s4-1"]:target ~ .container#s4-1 .s4-content,
-.anchor[id="s4-2"]:target ~ .container#s4-2 .s4-content,
-.anchor[id="s4-3"]:target ~ .container#s4-3 .s4-content {
-    opacity: 1;
+.anchor[id="s4-1"]:target~.container#s4-1 .s4-content,
+.anchor[id="s4-2"]:target~.container#s4-2 .s4-content,
+.anchor[id="s4-3"]:target~.container#s4-3 .s4-content {
+    display: inherit;
+}
+
+.preloader {
+    background-color: #FFF;
+    bottom: 0;
+    display: none;
+    left: 0;
+    position: fixed;
+    right: 0;
+    opacity: 0.5;
+    top: 0;
+    z-index: 999;
+}
+
+.loading {
+    background-image: url("/views/NATAR/assets/loading_circle.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 200px;
+    left: 50%;
+    margin: -100px 0 0 -100px;
+    position: absolute;
+    top: 50%;
+    width: 200px;
+}
+
+.hero-content {
+    background-image: url("/views/NATAR/assets/images/hero.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.content-hero {
+    background-color: #181818;
+    border-radius: 20px;
+    color: #fff;
+    min-height: 500px;
+    opacity: 0.6;
+}
+
+.section[data-section=section4] {
+    height: calc(100vh + 50px);
 }

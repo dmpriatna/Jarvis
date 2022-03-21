@@ -24,6 +24,10 @@ https://www.tooplate.com/view/2116-blugoon
 -->
 
 <body>
+  <!-- Preload the Whole Page -->
+  <div class="preloader">
+    <div class="loading"></div>
+  </div>
   <div id="page-wraper">
     <!-- Sidebar Menu -->
     <div class="responsive-nav">
@@ -73,9 +77,22 @@ https://www.tooplate.com/view/2116-blugoon
 
     <section class="section about-me" data-section="section1">
       <div class="container">
-        <div class="top-header">
-          <div style="padding-top: 50px;"></div>
-          <img src="/views/NATAR/assets/images/hero.png" alt="umkm random" />
+        <div style="padding-top: 50px;"></div>
+        <div class="hero-content">
+          <div class="content-hero">
+            <svg height="100%" viewBox="0 0 500 150" width="100%" xmlns="http://www.w3.org/2000/svg">
+              <text x="10" y="40" font-family="lora" font-size="45" fill="#fff">Mendampingi</text>
+              <text x="10" y="90" font-family="lora" font-size="45" fill="#fff">Peningkatan Proses</text>
+              <text x="10" y="140" font-family="lora" font-size="45" fill="#fff">Bisnis Wirausaha Pemula</text>
+            </svg>
+            <div style="margin-top: 30px;">&nbsp;</div>
+            <svg height="100%" viewBox="0 0 500 60" width="100%" xmlns="http://www.w3.org/2000/svg">
+              <text x="10" y="11" font-family="lora" font-size="15" fill="#fff">Natar merupakan platform yang memberi Wirausaha Pemula akses</text>
+              <text x="10" y="30" font-family="lora" font-size="15" fill="#fff">mendapatkan pendampingan untuk mengidentifikasi posisi bisnisnya</text>
+              <text x="10" y="50" font-family="lora" font-size="15" fill="#fff">sehingga dapat berkembang.</text>
+            </svg>
+            <div style="background: white; color: black; border-radius: 5px; cursor: pointer; font-size: 24px; margin: 15px 0 0 15px; padding: 5px 15px; width: max-content;">Coba Gratis</div>
+          </div>
         </div>
       </div>
     </section>
@@ -84,13 +101,13 @@ https://www.tooplate.com/view/2116-blugoon
       <div class="container">
         <div class="row" style="padding: 0 15px;">
           <svg height="100%" viewBox="0 0 500 100" width="100%" xmlns="http://www.w3.org/2000/svg">
-            <text x="0" y="40" font-size="45">Kenapa Natar Harus</text>
-            <text x="0" y="90" font-size="45">Jadi Pendampingmu?</text>
+            <text x="0" y="40" font-family="lora" font-size="45">Kenapa Natar Harus</text>
+            <text x="0" y="90" font-family="lora" font-size="45">Jadi Pendampingmu?</text>
           </svg>
           <div>&nbsp;</div>
           <svg height="100%" viewBox="0 0 500 40" width="100%" xmlns="http://www.w3.org/2000/svg">
-            <text x="0" y="10" font-size="12">Natar merupakan platform yang memberi Wirausaha Pemula akses mendapatkan</text>
-            <text x="0" y="30" font-size="12">pendampingan untuk mengidentifikasi posisi bisnisnya sehingga dapat berkembang.</text>
+            <text x="0" y="10" font-family="lora" font-size="12">Natar merupakan platform yang memberi Wirausaha Pemula akses mendapatkan</text>
+            <text x="0" y="30" font-family="lora" font-size="12">pendampingan untuk mengidentifikasi posisi bisnisnya sehingga dapat berkembang.</text>
           </svg>
         </div>
         <div>&nbsp;</div>
@@ -126,8 +143,8 @@ https://www.tooplate.com/view/2116-blugoon
       <div class="container">
         <div class="row" style="padding: 0 15px;">
           <svg height="100%" viewBox="0 0 500 100" width="100%" xmlns="http://www.w3.org/2000/svg">
-            <text x="0" y="40" font-size="45">Cara #PastiNaikTingkat</text>
-            <text x="0" y="90" font-size="45">Bersama Natar!</text>
+            <text x="0" y="40" font-family="lora" font-size="45">Cara #PastiNaikTingkat</text>
+            <text x="0" y="90" font-family="lora" font-size="45">Bersama Natar!</text>
           </svg>
         </div>
         <div class="row">
@@ -175,8 +192,8 @@ https://www.tooplate.com/view/2116-blugoon
         <div class="s4-content">
           <div class="row" style="padding: 0 15px;">
             <svg height="100%" viewBox="0 0 500 100" width="100%" xmlns="http://www.w3.org/2000/svg">
-              <text x="0" y="40" font-size="45">Coba Layanan Gratis</text>
-              <text x="0" y="90" font-size="45">Natar!</text>
+              <text x="0" y="40" font-family="lora" font-size="45">Coba Layanan Gratis</text>
+              <text x="0" y="90" font-family="lora" font-size="45">Natar!</text>
             </svg>
           </div>
           <div class="row">
@@ -190,7 +207,7 @@ https://www.tooplate.com/view/2116-blugoon
                   <li>Diskon ke Pelatihan Berbayar</li>
                   <li>Grup Komunitas Wirausaha Pemula</li>
                 </ul>
-                <div class="btn">Daftar Gratis</div>
+                <div class="btn" onclick="daftar()" style="cursor: pointer;">Daftar Gratis</div>
               </div>
             </div>
             <div class="col-md-4">
@@ -203,7 +220,7 @@ https://www.tooplate.com/view/2116-blugoon
                   <li>Bebas Bertanya setiap harinya</li>
                   <li>Bertanya Seputar Teknis dalam Bisnis</li>
                 </ul>
-                <div class="btn">Daftar Gratis</div>
+                <div class="btn" onclick="daftar()" style="cursor: pointer;">Daftar Gratis</div>
               </div>
             </div>
             <div class="col-md-4">
@@ -216,7 +233,7 @@ https://www.tooplate.com/view/2116-blugoon
                   <li>10 Menit setiap harinya</li>
                   <li>Dikonsultasi oleh Konsultan Berpengalaman</li>
                 </ul>
-                <div class="btn"><a href="#s4-2" onclick="daftar(this)">Daftar Gratis</a></div>
+                <div class="btn" onclick="daftar()" style="cursor: pointer;">Daftar Gratis</div>
               </div>
             </div>
           </div>
@@ -226,7 +243,7 @@ https://www.tooplate.com/view/2116-blugoon
         <div class="s4-content">
           <div class="row" style="padding: 0 15px;">
             <svg height="100%" viewBox="0 0 500 50" width="100%" xmlns="http://www.w3.org/2000/svg">
-              <text x="50%" y="40" font-size="45" text-anchor="middle">Mengisi Biodata Singkat</text>
+              <text x="50%" y="40" font-family="lora" font-size="45" text-anchor="middle">Mengisi Biodata Singkat</text>
             </svg>
           </div>
           <div class="row" style="border: 1px solid #8B6B54; border-radius: 5px; margin: 20px 0;">
@@ -259,26 +276,31 @@ https://www.tooplate.com/view/2116-blugoon
               <div class="row justify-content-center">
                 <div class="col-md-4 keluar">Keluar</div>
                 <div class="col-md-2"></div>
-                <div class="col-md-4 daftar"><a href="#s4-3">Daftar</a></div>
+                <div class="col-md-4 daftar" onclick="save()" style="cursor: pointer;">Daftar</div>
               </div>
             </div>
           </div>
         </div>
       </div>
       <div id="s4-3" class="container">
-        <div class="s4-content">
+        <div class="s4-content" style="width: inherit;">
           <div class="row" style="padding: 0 15px;">
             <svg height="100%" viewBox="0 0 500 50" width="100%" xmlns="http://www.w3.org/2000/svg">
-              <text x="50%" y="40" font-size="45" text-anchor="middle">Datamu Telah Tersimpan</text>
+              <text x="50%" y="40" font-family="lora" font-size="45" text-anchor="middle">Datamu Telah Tersimpan</text>
             </svg>
           </div>
-          <!-- <div class="row justify-content-center">
-            <H3>Terima kasih Parausahawan!</H3>
-            <p>Langsung klik link dibawah ini  untuk langsung menuju Layanan Gratis Natar!</p>
-            <div>Channel Telegram Natar</div>
-            <div>atau</div>
-            <div>Channel Telegram Natar</div>
-          </div> -->
+          <div class="row">
+            <div class="col-md-12" style="display: grid; justify-items: center;">
+              <H3>Terima kasih Parausahawan!</H3>
+              <p>Langsung klik link dibawah ini  untuk langsung menuju Layanan Gratis Natar!</p>
+              <div style="border: 1px solid #8B6B54; border-radius: 5px; cursor: pointer; padding: 5px 0; text-align: center; width: 200px;">Channel Telegram Natar</div>
+              <p>atau</p>
+              <div style="border: 1px solid #8B6B54; border-radius: 5px; cursor: pointer; padding: 5px 0; text-align: center; width: 200px;">Channel Telegram Natar</div>
+              <p>Jika ada permasalahan Bisnis</p>
+              <div style="background: #3D9580; border-radius: 5px; color: #F1EBE5; cursor: pointer; padding: 5px 0; text-align: center; width: 200px;">Konsul ke Natar</div>
+              <P>Didampingi Natar <b>#PastiNaikTingkat</b></P>
+            </div>
+          </div>
         </div>
       </div>
     </section>
@@ -288,7 +310,7 @@ https://www.tooplate.com/view/2116-blugoon
         <div class="row">
           <div class="col-md-9">
             <svg height="100%" viewBox="0 0 370 50" width="100%" xmlns="http://www.w3.org/2000/svg">
-              <text x="0" y="40" font-size="45">Layanan Minggu Ini</text>
+              <text x="0" y="40" font-family="lora" font-size="45">Layanan Minggu Ini</text>
             </svg>
           </div>
           <div class="col-md-3">Lihat Status Pelatihan</div>
@@ -304,9 +326,9 @@ https://www.tooplate.com/view/2116-blugoon
 
     <section class="section footer" data-section="section6">
       <svg height="100%" viewBox="0 0 500 140" width="100%" xmlns="http://www.w3.org/2000/svg">
-        <text x="50%" y="40" font-size="45" text-anchor="middle">Ayo #PastiNaikTingkat</text>
-        <text x="50%" y="90" font-size="45" text-anchor="middle">bersama Natar.</text>
-        <text x="50%" y="120" font-size="15" text-anchor="middle">Ajakin kolegamu untuk meningkat bersama dengan share ke</text>
+        <text x="50%" y="40" font-family="lora" font-size="45" text-anchor="middle">Ayo #PastiNaikTingkat</text>
+        <text x="50%" y="90" font-family="lora" font-size="45" text-anchor="middle">bersama Natar.</text>
+        <text x="50%" y="120" font-family="lora" font-size="15" text-anchor="middle">Ajakin kolegamu untuk meningkat bersama dengan share ke</text>
       </svg>
       <div class="row justify-content-center">
         <div class="col-md-3">
