@@ -24,6 +24,14 @@ $router->get('/temuRancang', function() {
   return include('views/TEMURANCANG/index.html');
 });
 
+$router->get('/preview', function() {
+  return include('views/PROFILE/index.html');
+});
+
+$router->get('/p-contact', function() {
+  return include('views/PROFILE/contact.html');
+});
+
 $router->get('/api/test', function() {
   return <<<HTML
     <h1>Hai, kamu berhasil..!</h1>
