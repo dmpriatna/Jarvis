@@ -1,3 +1,10 @@
+:root
+{
+    --color-theme-1: #42A086;
+    --color-theme-1-40: #42A08666;
+    --color-theme-2: #F1EBE5;
+}
+
 /*******************************/
 /********* General CSS *********/
 /*******************************/
@@ -14,7 +21,7 @@ h3,
 h4,
 h5, 
 h6 {
-    color: #030f27;
+    color: var(--color-theme-1);
 }
 
 a {
@@ -25,7 +32,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-    color: #fdbe33;
+    color: var(--color-theme-2);
     outline: none;
     text-decoration: none;
 }
@@ -45,7 +52,7 @@ a:focus {
 .back-to-top {
     position: fixed;
     display: none;
-    background: #fdbe33;
+    background: var(--color-theme-2);
     color: #121518;
     width: 44px;
     height: 44px;
@@ -59,7 +66,7 @@ a:focus {
 }
 
 .back-to-top:hover {
-    color: #fdbe33;
+    color: var(--color-theme-2);
     background: #121518;
 }
 
@@ -78,7 +85,7 @@ a:focus {
 .top-bar {
     position: relative;
     height: 90px;
-    background: #fdbe33;
+    background: var(--color-theme-2);
 }
 
 .top-bar .logo {
@@ -89,7 +96,7 @@ a:focus {
 
 .top-bar .logo h1 {
     margin: 0;
-    color: #030f27;
+    color: var(--color-theme-1);
     font-size: 60px;
     line-height: 60px;
     font-weight: 700;
@@ -115,7 +122,7 @@ a:focus {
 
 .top-bar .top-bar-icon [class^="flaticon-"]::before {
     margin: 0;
-    color: #030f27;
+    color: var(--color-theme-1);
     font-size: 40px;
 }
 
@@ -125,14 +132,14 @@ a:focus {
 
 .top-bar .top-bar-text h3 {
     margin: 0 0 5px 0;
-    color: #030f27;
+    color: var(--color-theme-1);
     font-size: 16px;
     font-weight: 400;
 }
 
 .top-bar .top-bar-text p {
     margin: 0;
-    color: #030f27;
+    color: var(--color-theme-1);
     font-size: 13px;
     font-weight: 400;
 }
@@ -155,7 +162,7 @@ a:focus {
 /**********************************/
 .nav-bar {
     position: relative;
-    background: #fdbe33;
+    background: var(--color-theme-2);
     transition: .3s;
 }
 
@@ -174,7 +181,7 @@ a:focus {
 
 .nav-bar .navbar {
     height: 100%;
-    background: #030f27 !important;
+    background: var(--color-theme-1) !important;
 }
 
 .navbar-dark .navbar-nav .nav-link,
@@ -187,7 +194,7 @@ a:focus {
 
 .navbar-dark .navbar-nav .nav-link:hover,
 .navbar-dark .navbar-nav .nav-link.active {
-    color: #fdbe33;
+    color: var(--color-theme-2);
     transition: none;
 }
 
@@ -205,9 +212,9 @@ a:focus {
 }
 
 .nav-bar .btn:hover {
-    color: #030f27;
-    background: #fdbe33;
-    border-color: #fdbe33;
+    color: var(--color-theme-1);
+    background: var(--color-theme-2);
+    border-color: var(--color-theme-2);
 }
 
 @media (min-width: 992px) {
@@ -330,9 +337,9 @@ a:focus {
 }
 
 .carousel .carousel-caption .btn:hover {
-    color: #030f27;
-    background: #fdbe33;
-    border-color: #fdbe33;
+    color: var(--color-theme-1);
+    background: var(--color-theme-2);
+    border-color: var(--color-theme-2);
 }
 
 @media (max-width: 767.98px) {
@@ -385,12 +392,12 @@ a:focus {
     margin-bottom: 45px;
     padding: 90px 0;
     text-align: center;
-    background: #fdbe33;
+    background: var(--color-theme-2);
 }
 
 .page-header h2 {
     position: relative;
-    color: #030f27;
+    color: var(--color-theme-1);
     font-size: 60px;
     font-weight: 700;
     margin-bottom: 20px;
@@ -404,14 +411,14 @@ a:focus {
     height: 2px;
     left: calc(50% - 50px);
     bottom: 0;
-    background: #030f27;
+    background: var(--color-theme-1);
 }
 
 .page-header a {
     position: relative;
     padding: 0 12px;
     font-size: 22px;
-    color: #030f27;
+    color: var(--color-theme-1);
 }
 
 .page-header a:hover {
@@ -472,7 +479,7 @@ a:focus {
 }
 
 .section-header p {
-    color: #fdbe33;
+    color: var(--color-theme-2);
     font-size: 18px;
     font-weight: 600;
     margin-bottom: 5px;
@@ -501,12 +508,12 @@ a:focus {
 }
 
 .feature .col-md-12 {
-    background: #030f27;
+    background: var(--color-theme-1);
 }
     
 .feature .col-md-12:nth-child(2n) {
-    color: #030f27;
-    background: #fdbe33;
+    color: var(--color-theme-1);
+    background: var(--color-theme-2);
 }
 
 .feature .feature-item {
@@ -544,19 +551,19 @@ a:focus {
     height: 79px;
     top: -18px;
     left: -9px;
-    background: #030f27;
+    background: var(--color-theme-1);
     border-radius: 60px;
     z-index: 2;
 }
 
 .feature .col-md-12:nth-child(2n) .feature-icon::after {
-    background: #fdbe33;
+    background: var(--color-theme-2);
 }
 
 .feature .feature-icon [class^="flaticon-"]::before {
     position: relative;
     margin: 0;
-    color: #fdbe33;
+    color: var(--color-theme-2);
     font-size: 60px;
     line-height: 60px;
     z-index: 3;
@@ -568,14 +575,14 @@ a:focus {
 
 .feature .feature-text h3 {
     margin: 0 0 10px 0;
-    color: #fdbe33;
+    color: var(--color-theme-2);
     font-size: 25px;
     font-weight: 600;
 }
 
 .feature .feature-text p {
     margin: 0;
-    color: #fdbe33;
+    color: var(--color-theme-2);
     font-size: 18px;
     font-weight: 400;
 }
@@ -583,7 +590,7 @@ a:focus {
 .feature .col-md-12:nth-child(2n) [class^="flaticon-"]::before,
 .feature .col-md-12:nth-child(2n) h3,
 .feature .col-md-12:nth-child(2n) p {
-    color: #030f27;
+    color: var(--color-theme-1);
 }
 
 
@@ -622,15 +629,15 @@ a:focus {
     font-size: 16px;
     font-weight: 500;
     letter-spacing: 1px;
-    color: #030f27;
+    color: var(--color-theme-1);
     border-radius: 0;
-    background: #fdbe33;
+    background: var(--color-theme-2);
     transition: .3s;
 }
 
 .about .about-text a.btn:hover {
-    color: #fdbe33;
-    background: #030f27;
+    color: var(--color-theme-2);
+    background: var(--color-theme-1);
 }
 
 @media (max-width: 767.98px) {
@@ -668,14 +675,14 @@ a:focus {
     margin: 0;
     font-size: 60px;
     line-height: 60px;
-    background-image: linear-gradient(#ffffff, #fdbe33);
+    background-image: linear-gradient(#ffffff, var(--color-theme-2));
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
 .fact .fact-right .fact-icon [class^="flaticon-"]::before {
-    background-image: linear-gradient(#ffffff, #030f27);
+    background-image: linear-gradient(#ffffff, var(--color-theme-1));
 }
 
 .fact .fact-left,
@@ -697,17 +704,17 @@ a:focus {
 }
 
 .fact .fact-left {
-    color: #fdbe33;
-    background: #030f27;
+    color: var(--color-theme-2);
+    background: var(--color-theme-1);
 }
 
 .fact .fact-right {
-    color: #030f27;
-    background: #fdbe33;
+    color: var(--color-theme-1);
+    background: var(--color-theme-2);
 }
 
 .fact .fact-left h2 {
-    color: #fdbe33;
+    color: var(--color-theme-2);
 }
 
 
@@ -764,7 +771,7 @@ a:focus {
     display: flex;
     align-items: center;
     height: 60px;
-    background: #030f27;
+    background: var(--color-theme-1);
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
@@ -776,7 +783,7 @@ a:focus {
     width: calc(100% - 60px);
     font-size: 20px;
     font-weight: 700;
-    color: #fdbe33;
+    color: var(--color-theme-2);
     text-align: left;
     overflow: hidden;
     white-space: nowrap;
@@ -793,8 +800,8 @@ a:focus {
     font-size: 60px;
     line-height: 60px;
     font-weight: 100;
-    color: #030f27;
-    background: #fdbe33;
+    color: var(--color-theme-1);
+    background: var(--color-theme-2);
     border-radius: 0;
     transition: .3s;
 }
@@ -845,7 +852,7 @@ a:focus {
     display: block;
     width: 100px;
     height: 100px;
-    background: #fdbe33;
+    background: var(--color-theme-2);
     border-radius: 50%;
     animation: pulse-border 1500ms ease-out infinite;
 }
@@ -860,13 +867,13 @@ a:focus {
     display: block;
     width: 100px;
     height: 100px;
-    background: #fdbe33;
+    background: var(--color-theme-2);
     border-radius: 50%;
     transition: all 200ms;
 }
 
 .video .btn-play:hover:after {
-    background-color: darken(#fdbe33, 10%);
+    background-color: darken(var(--color-theme-2), 10%);
 }
 
 .video .btn-play img {
@@ -883,7 +890,7 @@ a:focus {
     z-index: 3;
     width: 0;
     height: 0;
-    border-left: 32px solid #030f27;
+    border-left: 32px solid var(--color-theme-1);
     border-top: 22px solid transparent;
     border-bottom: 22px solid transparent;
 }
@@ -952,14 +959,14 @@ a:focus {
     position: relative;
     padding: 25px 15px;
     text-align: center;
-    background: #030f27;
+    background: var(--color-theme-1);
     transition: .5s;
 }
 
 .team .team-text h2 {
     font-size: 20px;
     font-weight: 600;
-    color: #fdbe33;
+    color: var(--color-theme-2);
     transition: .5s;
 }
 
@@ -969,11 +976,11 @@ a:focus {
 }
 
 .team .team-item:hover .team-text {
-    background: #fdbe33;
+    background: var(--color-theme-2);
 }
 
 .team .team-item:hover .team-text h2 {
-    color: #030f27;
+    color: var(--color-theme-1);
     letter-spacing: 1px;
 }
 
@@ -1044,7 +1051,7 @@ a:focus {
     height: 100%;
     top: 0;
     left: calc(50% - .5px);
-    background: #fdbe33;
+    background: var(--color-theme-2);
 }
 
 .faqs #accordion-1 {
@@ -1098,14 +1105,14 @@ a:focus {
 }
 
 .faqs .card-header [data-toggle="collapse"][aria-expanded="true"] {
-    background: #fdbe33;
+    background: var(--color-theme-2);
 }
 
 .faqs .card-header [data-toggle="collapse"]:after {
     font-family: 'font Awesome 5 Free';
     content: "\f067";
     float: right;
-    color: #fdbe33;
+    color: var(--color-theme-2);
     font-size: 12px;
     font-weight: 900;
     transition: .5s;
@@ -1115,7 +1122,7 @@ a:focus {
     font-family: 'font Awesome 5 Free';
     content: "\f068";
     float: right;
-    color: #030f27;
+    color: var(--color-theme-1);
     font-size: 12px;
     font-weight: 900;
     transition: .5s;
@@ -1201,7 +1208,7 @@ a:focus {
 }
 
 .testimonial .testimonial-slider h3 {
-    color: #fdbe33;
+    color: var(--color-theme-2);
     font-size: 22px;
     font-weight: 700;
 }
@@ -1251,7 +1258,7 @@ a:focus {
     display: flex;
     align-items: center;
     height: 60px;
-    background: #030f27;
+    background: var(--color-theme-1);
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
@@ -1263,7 +1270,7 @@ a:focus {
     width: calc(100% - 60px);
     font-size: 18px;
     font-weight: 700;
-    color: #fdbe33;
+    color: var(--color-theme-2);
     text-align: left;
     overflow: hidden;
     white-space: nowrap;
@@ -1280,8 +1287,8 @@ a:focus {
     font-size: 60px;
     line-height: 60px;
     font-weight: 100;
-    color: #030f27;
-    background: #fdbe33;
+    color: var(--color-theme-1);
+    background: var(--color-theme-2);
     border-radius: 0;
     transition: .3s;
 }
@@ -1303,7 +1310,7 @@ a:focus {
     height: 1px;
     left: calc(50% - 50px);
     bottom: 0;
-    background: #fdbe33;
+    background: var(--color-theme-2);
 }
 
 .blog .blog-meta p {
@@ -1332,15 +1339,15 @@ a:focus {
 }
 
 .blog .pagination .page-link {
-    color: #030f27;
+    color: var(--color-theme-1);
     border-radius: 0;
-    border-color: #fdbe33;
+    border-color: var(--color-theme-2);
 }
 
 .blog .pagination .page-link:hover,
 .blog .pagination .page-item.active .page-link {
-    color: #fdbe33;
-    background: #030f27;
+    color: var(--color-theme-2);
+    background: var(--color-theme-1);
 }
 
 .blog .pagination .disabled .page-link {
@@ -1383,8 +1390,8 @@ a:focus {
 }
 
 .single .single-tags a:hover {
-    color: #fdbe33;
-    background: #030f27;
+    color: var(--color-theme-2);
+    background: var(--color-theme-1);
 }
 
 .single .single-bio {
@@ -1497,16 +1504,16 @@ a:focus {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #030f27;
-    background: #fdbe33;
+    color: var(--color-theme-1);
+    background: var(--color-theme-2);
     font-size: 16px;
     transition: .3s;
 }
 
 .single .related-slider .owl-nav .owl-prev:hover,
 .single .related-slider .owl-nav .owl-next:hover {
-    color: #fdbe33;
-    background: #030f27;
+    color: var(--color-theme-2);
+    background: var(--color-theme-1);
 }
 
 .single .single-comment {
@@ -1563,13 +1570,13 @@ a:focus {
 .single .comment-text .btn {
     padding: 3px 10px;
     font-size: 14px;
-    color: #030f27;
+    color: var(--color-theme-1);
     background: #dddddd;
     border-radius: 0;
 }
 
 .single .comment-text .btn:hover {
-    background: #fdbe33;
+    background: var(--color-theme-2);
 }
 
 .single .comment-form {
@@ -1598,13 +1605,13 @@ a:focus {
 
 .single .comment-form .btn {
     padding: 15px 30px;
-    color: #030f27;
-    background: #fdbe33;
+    color: var(--color-theme-1);
+    background: var(--color-theme-2);
 }
 
 .single .comment-form .btn:hover {
-    color: #fdbe33;
-    background: #030f27;
+    color: var(--color-theme-2);
+    background: var(--color-theme-1);
 }
 
 
@@ -1642,7 +1649,7 @@ a:focus {
     height: 2px;
     bottom: 0;
     left: 0;
-    background: #fdbe33;
+    background: var(--color-theme-2);
 }
 
 .sidebar .sidebar-widget .search-widget {
@@ -1666,7 +1673,7 @@ a:focus {
     height: 40px;
     padding: 0;
     font-size: 25px;
-    color: #fdbe33;
+    color: var(--color-theme-2);
     background: none;
     border-radius: 0;
     border: none;
@@ -1674,7 +1681,7 @@ a:focus {
 }
 
 .sidebar .search-widget .btn:hover {
-    color: #030f27;
+    color: var(--color-theme-1);
 }
 
 .sidebar .sidebar-widget .recent-post {
@@ -1686,15 +1693,15 @@ a:focus {
 }
 
 .sidebar .tab-post .nav.nav-pills .nav-link {
-    color: #fdbe33;
-    background: #030f27;
+    color: var(--color-theme-2);
+    background: var(--color-theme-1);
     border-radius: 0;
 }
 
 .sidebar .tab-post .nav.nav-pills .nav-link:hover,
 .sidebar .tab-post .nav.nav-pills .nav-link.active {
-    color: #030f27;
-    background: #fdbe33;
+    color: var(--color-theme-1);
+    background: var(--color-theme-2);
 }
 
 .sidebar .tab-post .tab-content {
@@ -1734,7 +1741,7 @@ a:focus {
     content: '\f105';
     font-family: 'Font Awesome 5 Free';
     font-weight: 900;
-    color: #fdbe33;
+    color: var(--color-theme-2);
     left: 1px;
 }
 
@@ -1758,8 +1765,8 @@ a:focus {
 }
 
 .single .tag-widget a:hover {
-    color: #fdbe33;
-    background: #030f27;
+    color: var(--color-theme-2);
+    background: var(--color-theme-1);
 }
 
 .sidebar .image-widget {
@@ -1800,20 +1807,20 @@ a:focus {
     display: inline-block;
     margin: 5px;
     padding: 8px 15px;
-    color: #030f27;
+    color: var(--color-theme-1);
     font-size: 14px;
     font-weight: 500;
     text-transform: uppercase;
     border-radius: 0;
-    background: #fdbe33;
+    background: var(--color-theme-2);
     border: none;
     transition: .3s;
 }
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-    background: #030f27;
-    color: #fdbe33;
+    background: var(--color-theme-1);
+    color: var(--color-theme-2);
 }
 
 .portfolio .load-more {
@@ -1827,8 +1834,8 @@ a:focus {
 }
 
 .portfolio .load-more .btn:hover {
-    color: #fdbe33;
-    background: #030f27;
+    color: var(--color-theme-2);
+    background: var(--color-theme-1);
 }
 
 .portfolio .portfolio-warp {
@@ -1880,7 +1887,7 @@ a:focus {
     display: flex;
     align-items: center;
     height: 60px;
-    background: #030f27;
+    background: var(--color-theme-1);
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
@@ -1892,7 +1899,7 @@ a:focus {
     width: calc(100% - 60px);
     font-size: 20px;
     font-weight: 700;
-    color: #fdbe33;
+    color: var(--color-theme-2);
     text-align: center;
     overflow: hidden;
     white-space: nowrap;
@@ -1909,7 +1916,7 @@ a:focus {
     font-size: 60px;
     line-height: 60px;
     font-weight: 100;
-    color: #030f27;
+    color: var(--color-theme-1);
     background: #ffffff;
     border-radius: 0;
     transition: .3s;
@@ -1917,7 +1924,7 @@ a:focus {
 
 .portfolio .portfolio-warp:hover a.btn {
     color: #ffffff;
-    background: #fdbe33;
+    background: var(--color-theme-2);
 }
 
 
@@ -1936,11 +1943,11 @@ a:focus {
 }
 
 .contact .col-md-6:first-child {
-    background: #030f27;
+    background: var(--color-theme-1);
 }
 
 .contact .col-md-6:last-child {
-    background: #fdbe33;
+    background: var(--color-theme-2);
 }
 
 .contact .contact-info {
@@ -1961,7 +1968,7 @@ a:focus {
 
 .contact .contact-item [class^="flaticon-"]::before {
     margin: 0;
-    color: #fdbe33;
+    color: var(--color-theme-2);
     font-size: 40px;
 }
 
@@ -1972,7 +1979,7 @@ a:focus {
 }
 
 .contact .contact-text h2 {
-    color: #fdbe33;
+    color: var(--color-theme-2);
     font-size: 20px;
     font-weight: 600;
 }
@@ -1993,20 +2000,20 @@ a:focus {
 }
 
 .contact .contact-form input {
-    color: #ffffff;
+    color: var(--color-theme-1);
     height: 40px;
     border-radius: 0;
     border-width: 1px;
-    border-color: rgba(256, 256, 256, .4);
+    border-color: var(--color-theme-1-40);
     background: transparent;
 }
 
 .contact .contact-form textarea {
-    color: #ffffff;
+    color: var(--color-theme-1);
     height: 185px;
     border-radius: 0;
     border-width: 1px;
-    border-color: rgba(256, 256, 256, .4);
+    border-color: var(--color-theme-1-40);
     background: transparent;
 }
 
@@ -2016,7 +2023,7 @@ a:focus {
 }
 
 .contact .contact-form .form-control::placeholder {
-  color: #ffffff;
+  color: var(--color-theme-1);
   opacity: 1;
 }
 
@@ -2032,15 +2039,15 @@ a:focus {
     padding: 16px 30px;
     font-size: 16px;
     font-weight: 600;
-    color: #fdbe33;
-    background: #030f27;
+    color: var(--color-theme-2);
+    background: var(--color-theme-1);
     border: none;
     border-radius: 0;
     transition: .3s;
 }
 
 .contact .contact-form .btn:hover {
-    color: #030f27;
+    color: var(--color-theme-1);
     background: #ffffff;
 }
 
@@ -2058,7 +2065,7 @@ a:focus {
     position: relative;
     margin-top: 45px;
     padding-top: 90px;
-    background: #030f27;
+    background: var(--color-theme-1);
     color: #ffffff;
 }
 
@@ -2075,7 +2082,7 @@ a:focus {
     padding-bottom: 10px;
     font-size: 20px;
     font-weight: 600;
-    color: #fdbe33;
+    color: var(--color-theme-2);
 }
 
 .footer h2::after {
@@ -2085,7 +2092,7 @@ a:focus {
     height: 2px;
     left: 0;
     bottom: 0;
-    background: #fdbe33;
+    background: var(--color-theme-2);
 }
 
 .footer .footer-link a {
@@ -2104,7 +2111,7 @@ a:focus {
 }
 
 .footer .footer-link a:hover {
-    color: #fdbe33;
+    color: var(--color-theme-2);
     letter-spacing: 1px;
 }
 
@@ -2134,12 +2141,12 @@ a:focus {
 }
 
 .footer .footer-social a:hover {
-    background: #fdbe33;
-    border-color: #fdbe33;
+    background: var(--color-theme-2);
+    border-color: var(--color-theme-2);
 }
 
 .footer .footer-social a:hover i {
-    color: #030f27;
+    color: var(--color-theme-1);
 }
 
 .footer .newsletter .form {
@@ -2163,16 +2170,16 @@ a:focus {
     font-size: 14px;
     font-weight: 500;
     text-transform: uppercase;
-    color: #fdbe33;
+    color: var(--color-theme-2);
     background: #121518;
     border-radius: 0;
-    border: 2px solid #fdbe33;
+    border: 2px solid var(--color-theme-2);
     transition: .3s;
 }
 
 .footer .newsletter .btn:hover {
     color: #121518;
-    background: #fdbe33;
+    background: var(--color-theme-2);
 }
 
 .footer .footer-menu .f-menu {
@@ -2193,7 +2200,7 @@ a:focus {
 }
 
 .footer .footer-menu .f-menu a:hover {
-    color: #fdbe33;
+    color: var(--color-theme-2);
 }
 
 .footer .footer-menu .f-menu a:last-child {
@@ -2217,7 +2224,7 @@ a:focus {
 }
 
 .footer .copyright p a {
-    color: #fdbe33;
+    color: var(--color-theme-2);
     font-weight: 500;
     letter-spacing: 1px;
 }
