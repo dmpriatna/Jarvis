@@ -2341,6 +2341,8 @@ a:focus {
     align-items: center;
     justify-content: center;
     transition: .5s;
+    padding: 0 20px;
+    text-align: center;
 }
 
 .portfolio-item:hover .portfolio-text {
@@ -2410,17 +2412,20 @@ a:focus {
 }
 
 .partner {
-    /* background: url(../img/favicon.png) no-repeat; */
-    /* border-bottom-right-radius: 25px; */
-    /* border-top-left-radius: 25px; */
-    /* content: ""; */
     line-height: 100px;
     margin: 25px 0;
-    /* padding: 50%; */
     text-align: center;
 }
 
 select.form-control {
     background: transparent;
     border-color: var(--color-theme-1-40);
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
+
+.bc-2 {
+    background-color: var(--color-theme-2);
 }
