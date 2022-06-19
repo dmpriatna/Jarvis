@@ -33,6 +33,16 @@ $router->get('/preview', function() {
   return;
 });
 
+$router->get('/more', function() {
+  include('views/CORSO/index.html');
+  return;
+});
+
+$router->get('/break', function() {
+  include('views/DEFAULT/soon.html');
+  return;
+});
+
 $router->get('/api', function() {
   return <<<HTML
     <h1>Are you lost..?</h1>
