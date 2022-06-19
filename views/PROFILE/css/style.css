@@ -12,7 +12,7 @@
 /*******************************/
 body {
     color: #666666;
-    background: #dddddd;
+    background: var(--color-theme-2);
     font-family: Lora;
     font-weight: 400;
 }
@@ -506,7 +506,7 @@ a:focus {
 /*******************************/
 .feature {
     position: relative;
-    margin-bottom: 45px;
+    /* margin-bottom: 45px; */
 }
 
 .feature .col-md-12 {
@@ -515,12 +515,12 @@ a:focus {
 
 .feature .col-md-12:nth-child(2n) {
     color: var(--color-theme-1);
-    background: var(--color-theme-2);
+    background: var(--color-theme-3);
 }
 
 .feature .feature-item {
     min-height: 250px;
-    padding: 30px;
+    padding: 30px 15px;
     display: flex;
     align-items: center;
     justify-content: flex-start;
@@ -970,7 +970,7 @@ a:focus {
 .team .team-text h2 {
     font-size: 20px;
     font-weight: 600;
-    color: var(--color-theme-2);
+    color: var(--color-theme-3);
     transition: .5s;
 }
 
@@ -980,7 +980,7 @@ a:focus {
 }
 
 .team .team-item:hover .team-text {
-    background: var(--color-theme-2);
+    background: var(--color-theme-3);
 }
 
 .team .team-item:hover .team-text h2 {
@@ -1951,7 +1951,7 @@ a:focus {
 }
 
 .contact .col-md-6:first-child {
-    background: var(--color-theme-2);
+    background: var(--color-theme-3);
 }
 
 .contact .col-md-6:last-child {
@@ -2069,7 +2069,7 @@ a:focus {
 
 .invert:hover {
     color: var(--color-theme-2);
-    background: var(--color-theme-1);
+    background: var(--color-theme-3);
 }
 
 .contact .help-block ul {
@@ -2428,4 +2428,8 @@ select.form-control {
 
 .bc-2 {
     background-color: var(--color-theme-2);
+}
+
+.bc-3 {
+    background-color: var(--color-theme-3);
 }

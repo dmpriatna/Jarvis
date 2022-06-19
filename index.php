@@ -9,7 +9,7 @@ require_once 'core/myContext.php';
 $router = new Router(new Request);
 
 $router->get('/', function() {
-  include('views/PARAKARSA/index.html');
+  include('views/PROFILE/index.html');
   return;
 });
 
@@ -28,13 +28,18 @@ $router->get('/temuRancang', function() {
   return;
 });
 
-$router->get('/preview', function() {
-  include('views/PROFILE/index.html');
+$router->get('/archive', function() {
+  include('views/PARAKARSA/index.html');
   return;
 });
 
 $router->get('/more', function() {
   include('views/CORSO/index.html');
+  return;
+});
+
+$router->get('/blank', function() {
+  include('views/PROFILE/blank.html');
   return;
 });
 
