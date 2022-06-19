@@ -60,7 +60,6 @@ class Router
             echo call_user_func_array($method, array($this->request));
         } catch (\Throwable $th) {
             $this->defaultRequestHandler();
-            echo "{$this->request->serverProtocol} 404 Not Found";
             return;
         }
     }

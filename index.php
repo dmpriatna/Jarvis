@@ -9,32 +9,37 @@ require_once 'core/myContext.php';
 $router = new Router(new Request);
 
 $router->get('/', function() {
-  return include('views/PARAKARSA/index.html');
+  include('views/PARAKARSA/index.html');
+  return;
 });
 
 $router->get('/kartanesia', function() {
-  return include('views/KARTANESIA/index.html');
+  include('views/KARTANESIA/index.html');
+  return;
 });
 
 $router->get('/natar', function() {
-  return include('views/NATAR/index.html');
+  include('views/NATAR/index.html');
+  return;
 });
 
 $router->get('/temuRancang', function() {
-  return include('views/TEMURANCANG/index.html');
+  include('views/TEMURANCANG/index.html');
+  return;
 });
 
 $router->get('/preview', function() {
-  return include('views/PROFILE/index.html');
+  include('views/PROFILE/index.html');
+  return;
 });
 
-$router->get('/api/test', function() {
+$router->get('/api', function() {
   return <<<HTML
-    <h1>Hai, kamu berhasil..!</h1>
+    <h1>Are you lost..?</h1>
   HTML;
 });
 
-$router->post('/api/test', function($request) {
+$router->post('/api', function($request) {
   return json_encode($request->Body());
 });
 
