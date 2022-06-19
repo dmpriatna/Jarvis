@@ -2348,7 +2348,7 @@ a:focus {
 }
 
 .bg-testimonial {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/testimoni.jpg), no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/testimonial.jpg), no-repeat center center;
     background-size: cover;
 }
 
