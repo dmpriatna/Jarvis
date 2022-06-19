@@ -2415,3 +2415,8 @@ a:focus {
     padding: 50%;
     text-align: center;
 }
+
+select.form-control {
+    background: transparent;
+    border-color: var(--color-theme-1-40);
+}
