@@ -33,8 +33,13 @@ $router->get('/archive', function() {
   return;
 });
 
-$router->get('/more', function() {
-  include('views/CORSO/index.html');
+$router->get('/preview1', function() {
+  include('views/SITE1/index.html');
+  return;
+});
+
+$router->get('/preview2', function() {
+  include('views/SITE2/index.html');
   return;
 });
 
