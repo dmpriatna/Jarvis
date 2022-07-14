@@ -9,7 +9,32 @@ require_once 'core/myContext.php';
 $router = new Router(new Request);
 
 $router->get('/', function() {
-  include('views/PROFILE/index.html');
+  $content = file_get_contents(dirname(__FILE__).'/views/stage.php');
+  include('views/base.page.php');
+  return;
+});
+
+$router->get('/story', function() {
+  $content = file_get_contents(dirname(__FILE__).'/views/story.php');
+  include('views/base.page.php');
+  return;
+});
+
+$router->get('/project', function() {
+  $content = file_get_contents(dirname(__FILE__).'/views/project.php');
+  include('views/base.page.php');
+  return;
+});
+
+$router->get('/product', function() {
+  $content = file_get_contents(dirname(__FILE__).'/views/product.php');
+  include('views/base.page.php');
+  return;
+});
+
+$router->get('/experience', function() {
+  $content = file_get_contents(dirname(__FILE__).'/views/experience.php');
+  include('views/base.page.php');
   return;
 });
 
@@ -33,18 +58,9 @@ $router->get('/archive', function() {
   return;
 });
 
-$router->get('/preview1', function() {
-  include('views/SITE1/index.html');
-  return;
-});
-
-$router->get('/preview2', function() {
-  include('views/SITE2/index.html');
-  return;
-});
-
 $router->get('/blank', function() {
-  include('views/PROFILE/blank.html');
+  $content = "<div class=\"container py-5\"><div style=\"text-align: center\"><h1>Being to show</h1></div></div>";
+  include('views/base.page.php');
   return;
 });
 
