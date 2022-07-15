@@ -38,6 +38,54 @@ $router->get('/experience', function() {
   return;
 });
 
+$router->get('/impact', function() {
+  $content = file_get_contents(dirname(__FILE__).'/views/impact.php');
+  include('views/base.page.php');
+  return;
+});
+
+$router->get('/actor', function() {
+  $content = file_get_contents(dirname(__FILE__).'/views/actor.php');
+  include('views/base.page.php');
+  return;
+});
+
+$router->get('/advisor', function() {
+  $content = file_get_contents(dirname(__FILE__).'/views/advisor.php');
+  include('views/base.page.php');
+  return;
+});
+
+$router->get('/volunteer', function() {
+  $content = file_get_contents(dirname(__FILE__).'/views/volunteer.php');
+  include('views/base.page.php');
+  return;
+});
+
+$router->get('/pkl', function() {
+  $content = file_get_contents(dirname(__FILE__).'/views/pkl.php');
+  include('views/base.page.php');
+  return;
+});
+
+$router->get('/actor_detail', function() {
+  $content = file_get_contents(dirname(__FILE__).'/views/actor.detail.php');
+  include('views/base.page.php');
+  return;
+});
+
+$router->get('/community', function() {
+  $content = file_get_contents(dirname(__FILE__).'/views/community.php');
+  include('views/base.page.php');
+  return;
+});
+
+$router->get('/community_detail', function() {
+  $content = file_get_contents(dirname(__FILE__).'/views/community.detail.php');
+  include('views/base.page.php');
+  return;
+});
+
 $router->get('/kartanesia', function() {
   include('views/KARTANESIA/index.html');
   return;

@@ -11,6 +11,7 @@
     <!-- Favicon -->
     <link href="picture/favicon.png" rel="icon">
 
+    <link rel="stylesheet" href="font/base-font.css">
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
@@ -100,20 +101,20 @@
                             <div class="nav-item dropdown">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Ecosystems</a>
                                 <div class="dropdown-menu">
-                                    <a href="/blank" class="dropdown-item">ParaPrograms</a>
+                                    <a href="/project" class="dropdown-item">ParaPrograms</a>
                                     <a href="/project" class="dropdown-item">ParaProjects</a>
                                     <a href="/product" class="dropdown-item">ParaProducts</a>
                                 </div>
                             </div>
                             <a href="/experience" class="nav-item nav-link">Experience</a>
-                            <a href="/blank" class="nav-item nav-link">Impact</a>
-                            <a href="/blank" class="nav-item nav-link">Actor</a>
+                            <a href="/impact" class="nav-item nav-link">Impact</a>
+                            <a href="/actor" class="nav-item nav-link">Actor</a>
                             <div class="nav-item dropdown">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Community</a>
                                 <div class="dropdown-menu">
-                                    <a href="/blank" class="dropdown-item">ParaLancer</a>
-                                    <a href="/blank" class="dropdown-item">ParaPreneur</a>
-                                    <a href="/blank" class="dropdown-item">ParaParner</a>
+                                    <a href="/community" class="dropdown-item">ParaLancer</a>
+                                    <a href="/community" class="dropdown-item">ParaPreneur</a>
+                                    <a href="/community" class="dropdown-item">ParaParner</a>
                                 </div>
                             </div>
                             <a href="/#connect" class="nav-item nav-link">Connect</a>

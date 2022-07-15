@@ -1,4 +1,3 @@
-  <link rel="stylesheet" href="font/base-font.css">
   <link rel="stylesheet" href="css/story.nicepage.css" media="screen">
   <link rel="stylesheet" href="css/story.css" media="screen">
   <script class="u-script" type="text/javascript" src="js/story.js" defer=""></script>

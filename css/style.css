@@ -24,6 +24,7 @@ h4,
 h5,
 h6 {
     color: var(--color-theme-1);
+    font-family: 'Modeco';
 }
 
 a {
@@ -2053,6 +2054,11 @@ a:focus {
     transition: .3s;
 }
 
+.stroke {
+    border-color: var(--color-theme-2);
+    border-style: solid;
+}
+
 .normal {
     color: var(--color-theme-2);
     background: var(--color-theme-1);
@@ -2433,4 +2439,25 @@ select.form-control {
 
 .bc-3 {
     background-color: var(--color-theme-3);
+}
+
+.bc-4 {
+    background-color: var(--color-theme-4);
+}
+
+.c-2 {
+    color: var(--color-theme-2);
+}
+
+.c-3 {
+    color: var(--color-theme-3);
+}
+
+.c-4 {
+    color: var(--color-theme-4);
+}
+
+.progress {
+    height: 35px;
+    margin-bottom: 20px;
 }
