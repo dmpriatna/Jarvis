@@ -612,7 +612,7 @@
             <div class="col-md-12 wow fadeInUp" data-wow-delay="0.4s">
                 <div class="team-item">
                     <div class="team-img">
-                        <img src="picture/team-9.jpg" alt="Team Image">
+                        <img src="picture/team-4.jpg" alt="Team Image">
                     </div>
                     <div class="team-text">
                         <h2>Asep Indra Cahyadi</h2>
