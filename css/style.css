@@ -93,7 +93,7 @@ a:focus {
 
 .top-bar .logo {
     padding: 15px 0;
-    text-align: left;
+    text-align: center;
     overflow: hidden;
 }
 
@@ -163,6 +163,10 @@ a:focus {
 /**********************************/
 /*********** Nav Bar CSS **********/
 /**********************************/
+.navbar {
+    padding: 0;
+}
+
 .nav-bar {
     position: relative;
     background: var(--color-theme-2);
@@ -229,9 +233,9 @@ a:focus {
         padding: 0;
     }
 
-    .nav-bar .navbar {
+    /* .nav-bar .navbar {
         padding: 20px;
-    }
+    } */
 
     .nav-bar .navbar-brand {
         display: none;
@@ -2053,6 +2057,10 @@ a:focus {
     border: none;
     border-radius: 0;
     transition: .3s;
+}
+
+.btn.small {
+    padding: 5px;
 }
 
 .stroke-0 {

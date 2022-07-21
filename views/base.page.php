@@ -34,51 +34,55 @@
         <!-- Top Bar Start -->
         <div class="top-bar">
             <div class="container-fluid">
-                <div class="row align-items-center">
-                    <div class="col-lg-4 col-md-12">
-                        <div class="logo">
-                            <a href="/">
-                                <!-- <h1>Builderz</h1> -->
-                                <img src="picture/logo.png" alt="Logo">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-lg-8 col-md-7 d-none d-lg-block">
-                        <div class="row">
-                            <div class="col-4">
+                <div class="row align-items-center no-gutters">
+                    <div class="col-lg-4 col-md-7 d-none d-lg-block">
+                        <div class="line-3 c-1 bc-1"></div>
+                        <div class="row no-gutters" style="margin: 10px 0;">
+                            <div class="col-6">
                                 <div class="top-bar-item">
-                                    <div class="top-bar-icon">
-                                        <i class="flaticon-calendar"></i>
-                                    </div>
+                                    <img src="picture/calendar-1.svg" alt="">
                                     <div class="top-bar-text">
-                                        <h3>We Serving</h3>
-                                        <p>Mon - Fri, 10:00 - 16:00</p>
+                                        <h3>Kami Melayani</h3>
+                                        <p>Sen - Jum, 10:00 - 16:00</p>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-4">
+                            <div class="col-6">
                                 <div class="top-bar-item">
-                                    <div class="top-bar-icon">
-                                        <i class="flaticon-call"></i>
-                                    </div>
+                                    <img src="picture/phone-1.svg" alt="">
                                     <div class="top-bar-text">
                                         <h3>Connect Us</h3>
                                         <p>+62 896 8246 1897</p>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-4">
+                        </div>
+                        <div class="line-1 c-1 bc-1"></div>
+                    </div>
+                    <div class="col-lg-4 col-md-12">
+                        <div class="logo">
+                            <a href="/">
+                                <img src="picture/logo.png" alt="Logo" height="100%">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-7 d-none d-lg-block">
+                        <div class="line-3 c-1 bc-1"></div>
+                        <div class="row no-gutters" style="margin: 10px 0;">
+                            <div class="col">
                                 <div class="top-bar-item">
-                                    <div class="top-bar-icon">
-                                        <i class="flaticon-send-mail"></i>
-                                    </div>
+                                    <img src="picture/location-1.svg" alt="">
                                     <div class="top-bar-text">
                                         <h3>Approach Us</h3>
                                         <p>co-creation@parakarsa.com</p>
                                     </div>
                                 </div>
                             </div>
+                            <div class="align-middle" style="margin-left: 20px;">
+                                <div class="btn stroke-0 small">Join Our Ecosystem</div>
+                            </div>
                         </div>
+                        <div class="line-1 c-1 bc-1"></div>
                     </div>
                 </div>
             </div>
@@ -94,8 +98,8 @@
                         <span class="navbar-toggler-icon"></span>
                     </button>
 
-                    <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
-                        <div class="navbar-nav mr-auto">
+                    <div class="collapse navbar-collapse justify-content-center" id="navbarCollapse">
+                        <div class="navbar-nav">
                             <a href="/" class="nav-item nav-link active">The Stage</a>
                             <a href="/story" class="nav-item nav-link">Story</a>
                             <div class="nav-item dropdown">
@@ -118,9 +122,6 @@
                                 </div>
                             </div>
                             <a href="/connect" class="nav-item nav-link">Connect</a>
-                        </div>
-                        <div class="ml-auto">
-                            <a class="btn" href="/blank">Join Our Ecosystem</a>
                         </div>
                     </div>
                 </nav>

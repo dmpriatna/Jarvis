@@ -81,7 +81,7 @@
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-12 brl-100" style="margin-left: -50px;">
-                    <img src="picture/section-2.png" alt="" width="100%" height="100%" style="border-bottom-left-radius: 100px;">
+                    <img src="picture/section-2.png" alt="section-2" style="border-bottom-left-radius: 100px; height: 100%; width: calc(100% + 65px);">
                 </div>
             </div>
         </div>
