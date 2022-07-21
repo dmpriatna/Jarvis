@@ -117,7 +117,7 @@
                                     <a href="/community" class="dropdown-item">ParaParner</a>
                                 </div>
                             </div>
-                            <a href="/#connect" class="nav-item nav-link">Connect</a>
+                            <a href="/connect" class="nav-item nav-link">Connect</a>
                         </div>
                         <div class="ml-auto">
                             <a class="btn" href="/blank">Join Our Ecosystem</a>
@@ -131,7 +131,7 @@
         <?php echo $content; ?>
 
         <!-- Footer Start -->
-        <div class="footer wow fadeIn" data-wow-delay="0.3s">
+        <div class="footer wow fadeIn" data-wow-delay="0.3s" style="border-top-left-radius: 160px;">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-lg-3">

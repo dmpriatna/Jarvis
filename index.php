@@ -86,6 +86,12 @@ $router->get('/community_detail', function() {
   return;
 });
 
+$router->get('/connect', function() {
+  $content = file_get_contents(dirname(__FILE__).'/views/connect.php');
+  include('views/base.page.php');
+  return;
+});
+
 $router->get('/kartanesia', function() {
   include('views/KARTANESIA/index.html');
   return;

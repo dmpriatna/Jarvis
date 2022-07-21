@@ -956,6 +956,7 @@ a:focus {
 }
 
 .team .team-img img {
+    border-top-right-radius: 50px;
     object-fit: cover;
     height: 100%;
     width: 100%;
@@ -2054,6 +2055,11 @@ a:focus {
     transition: .3s;
 }
 
+.stroke-0 {
+    border-color: var(--color-theme-0);
+    border-style: solid;
+}
+
 .stroke {
     border-color: var(--color-theme-2);
     border-style: solid;
@@ -2433,6 +2439,10 @@ select.form-control {
     margin-top: 50px;
 }
 
+.bc-1 {
+    background-color: var(--color-theme-1);
+}
+
 .bc-2 {
     background-color: var(--color-theme-2);
 }
@@ -2443,6 +2453,14 @@ select.form-control {
 
 .bc-4 {
     background-color: var(--color-theme-4);
+}
+
+.c-0 {
+    color: var(--color-theme-0);
+}
+
+.c-1 {
+    color: var(--color-theme-1);
 }
 
 .c-2 {
@@ -2460,4 +2478,78 @@ select.form-control {
 .progress {
     height: 35px;
     margin-bottom: 20px;
+}
+
+.brr-100
+{
+    border-bottom-right-radius: 100px;
+}
+
+.btr-100
+{
+    border-top-right-radius: 100px;
+}
+
+.brl-100
+{
+    border-bottom-left-radius: 100px;
+}
+
+.btl-100
+{
+    border-top-left-radius: 100px;
+}
+
+.line-1 {
+    border-color: inherit;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.line-3 {
+    border-color: inherit;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.v-line-6 {
+    padding-left: 10px;
+    border-left-color: var(--color-theme-3);
+    border-left-width: 6px;
+    border-left-style: solid;
+}
+
+.f-21-b {
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.f-32-b {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.f-50 {
+    font-size: 50px;
+}
+
+.v-center {
+    padding-right: 50px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);    
+}
+
+.v-center img {
+    height: 50px;
+    width: 50px;
+    margin-right: 20px;
+}
+
+@media (max-width: 768px) {
+    .v-center {
+        position: initial;
+        top: 0;
+        transform: none;
+    }
 }
