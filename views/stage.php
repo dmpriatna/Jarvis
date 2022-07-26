@@ -334,7 +334,9 @@
                         <div class="d-flex"><img src="picture/ribbon.svg" alt="ribbon" style="margin-right: 10px;">
                             <h3>ParaProven</h3>
                         </div>
-                        <p>SME's Co-creation Assistance Program which aims to prove Business Documentation.</p>
+                        <p>Program Pendampingan Co-creation UKM yang bertujuan untuk membuktikan Dokumentasi Bisnis.</p>
+                        <br>
+                        <p>#TerusBerdampingan bersama Parakarsa</p>
                         <br>
                         <div class="btn invert">Join Now</div>
                     </div>
@@ -346,7 +348,9 @@
                         <div class="d-flex"><img src="picture/people.svg" alt="people" style="margin-right: 10px;">
                             <h3>ParaConnect</h3>
                         </div>
-                        <p>SME's & Freelancer Community Program which aims to Connect Activity Engagement.</p>
+                        <p>Program Komunitas UKM & Freelancer yang bertujuan untuk Mengaktivasi dan Meningkatkan Keterlibatan Aktivitas komunitas.</p>
+                        <br>
+                        <p>#TerusBerdampingan bersama Parakarsa</p>
                         <br>
                         <div class="btn normal">Join Now</div>
                     </div>
@@ -358,8 +362,9 @@
                         <div class="d-flex"><img src="picture/papers.svg" alt="papers" style="margin-right: 10px;">
                             <h3>ParaBeyond</h3>
                         </div>
-                        <p>Enterprise & Job Ecosystems Escalation Program which aims Beyond from Previous
-                            Realization.</p>
+                        <p>Program Eskalasi Enterprise & Job Ecosystems yang bertujuan Melampaui Realisasi Sebelumnya.</p>
+                        <br>
+                        <p>#TerusBerdampingan bersama Parakarsa</p>
                         <br>
                         <div class="btn invert">Join Now</div>
                     </div>
