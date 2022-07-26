@@ -175,8 +175,8 @@
         <div class="container py-5">
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <h6 class="text-secondary font-weight-semi-bold text-uppercase mb-3">Projek kami membuat produk dokumentasi</h6>
-                    <h1 class="mb-4 section-title font-weight-bold text-white">Natar</h1>
+                    <h6 class="text-secondary font-weight-semi-bold text-uppercase mb-3 text-white">Projek kami membuat produk dokumentasi</h6>
+                    <h1 class="mb-4 section-title font-weight-bold text-white">Natar (Para Proven)</h1>
                     <p class="text-white">Projek membuat Dokumentasi Bisnis yang bisa diikuti dari tingkatan UMKM Beginner, Intermidiate,
                          & Advance untuk membuktikan bisnisnya dalam keperluan pitching hingga mendapatakan pendanaan.</p>
                     <a href="/more" class="btn invert mt-3 py-2 px-4">Lebih Banyak Project</a> 
