@@ -175,12 +175,11 @@
         <div class="container py-5">
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <h6 class="text-secondary font-weight-semi-bold text-uppercase mb-3">Our Current Projects</h6>
-                    <h1 class="mb-4 section-title text-white">Great Experience to Assist Enthusiasm SME's!</h1>
-                    <p class="text-white">We explore in each community to meet SME's who are enthusiastic about
-                        increasing their business. That way we can provide freelancer resources suitable for
-                        co-creation!</p>
-                    <a href="/more" class="btn invert mt-3 py-2 px-4">More Projects</a>
+                    <h6 class="text-secondary font-weight-semi-bold text-uppercase mb-3">Projek kami membuat produk dokumentasi</h6>
+                    <h1 class="mb-4 section-title font-weight-bold text-white">Natar</h1>
+                    <p class="text-white">Projek membuat Dokumentasi Bisnis yang bisa diikuti dari tingkatan UMKM Beginner, Intermidiate,
+                         & Advance untuk membuktikan bisnisnya dalam keperluan pitching hingga mendapatakan pendanaan.</p>
+                    <a href="/more" class="btn invert mt-3 py-2 px-4">Lebih Banyak Project</a> 
                 </div>
                 <div class="col-lg-6 pt-5 pt-lg-0">
                     <div class="owl-carousel service-carousel position-relative">
