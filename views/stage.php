@@ -215,11 +215,35 @@
     </div>
     <!-- Services End -->
 
+<!-- Extra Section -->
+<div class="container mt-50">
+    <div class="section-header text-center">
+        <h2>Komunitas Terbentuk Oleh Ekosistem Parakarsa</h2>
+    </div>
+    <div class="row" style="text-align: center;">
+        <div class="col-sm-4">
+            <h1 class="mb-2" style="font-size: 5rem;" data-toggle="counter-up">500</h1>
+            <img src="picture/parapreuner.png" alt="" style="width: 100%;" class="btr-100">
+            <div class="btn normal" style="width: inherit;">Para Preuner (UMKM)</div>
+        </div>
+        <div class="col-sm-4">
+            <h1 class="mb-2" style="font-size: 5rem;" data-toggle="counter-up">50</h1>
+            <img src="picture/paralancer.png" alt="" style="width: 100%;" class="btr-100">
+            <div class="btn normal" style="width: inherit;">ParaLancer (Freelancer)</div>
+        </div>
+        <div class="col-sm-4">
+            <h1 class="mb-2" style="font-size: 5rem;" data-toggle="counter-up">20</h1>
+            <img src="picture/parapartner.png" alt="" style="width: 100%;" class="btr-100">
+            <div class="btn normal" style="width: inherit;">ParaPartner (Partner)</div>
+        </div>
+    </div>
+</div>
+<!-- Section Extra End -->
 
     <!-- Extra Section -->
     <div class="container mt-50">
         <div class="section-header text-center">
-            <h2>ParaPartner</h2>
+            <h2>Pendampingan Kami Dipercaya Oleh</h2>
         </div>
         <div class="row">
             <div class="partner col-md-2 col-sm-6">
@@ -523,30 +547,7 @@
 <!-- Team End -->
 
 
-<!-- Extra Section -->
-<div class="container mt-50">
-    <div class="section-header text-center">
-        <h2>Parakarsa Ecosystem</h2>
-    </div>
-    <div class="row" style="text-align: center;">
-        <div class="col-sm-4">
-            <h1 class="mb-2" style="font-size: 5rem;" data-toggle="counter-up">500</h1>
-            <img src="picture/parapreuner.png" alt="" style="width: 100%;" class="btr-100">
-            <div class="btn normal" style="width: inherit;">Para Preuner (UMKM)</div>
-        </div>
-        <div class="col-sm-4">
-            <h1 class="mb-2" style="font-size: 5rem;" data-toggle="counter-up">50</h1>
-            <img src="picture/paralancer.png" alt="" style="width: 100%;" class="btr-100">
-            <div class="btn normal" style="width: inherit;">ParaLancer (Freelancer)</div>
-        </div>
-        <div class="col-sm-4">
-            <h1 class="mb-2" style="font-size: 5rem;" data-toggle="counter-up">20</h1>
-            <img src="picture/parapartner.png" alt="" style="width: 100%;" class="btr-100">
-            <div class="btn normal" style="width: inherit;">ParaPartner (Partner)</div>
-        </div>
-    </div>
-</div>
-<!-- Section Extra End -->
+
 
 
 <!-- Contact Start -->
