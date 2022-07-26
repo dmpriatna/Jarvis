@@ -198,7 +198,7 @@
                             <!-- <div class="icon-box bg-light text-secondary shadow mt-2 mb-4">
                                     <i class="fa fa-2x fa-city"></i>
                                 </div> -->
-                            <h5 class="font-weight-bold mb-4 px-4">TemuRancang</h5>
+                            <h5 class="font-weight-bold mb-4 px-4">Temurancang</h5>
                             <img src="picture/project-2.jpg" alt="">
                         </div>
                         <div class="d-flex flex-column align-items-center text-center bg-white rounded overflow-hidden pt-4">
@@ -224,7 +224,7 @@
         <div class="col-sm-4">
             <h1 class="mb-2" style="font-size: 5rem;" data-toggle="counter-up">500</h1>
             <img src="picture/parapreuner.png" alt="" style="width: 100%;" class="btr-100">
-            <div class="btn normal" style="width: inherit;">Para Preuner (UMKM)</div>
+            <div class="btn normal" style="width: inherit;">ParaPreuner (UMKM)</div>
         </div>
         <div class="col-sm-4">
             <h1 class="mb-2" style="font-size: 5rem;" data-toggle="counter-up">50</h1>
