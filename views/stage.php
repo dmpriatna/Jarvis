@@ -10,7 +10,7 @@
             <div class="carousel-item active">
                 <img src="picture/carousel-2.jpg" alt="Carousel Image">
                 <div class="carousel-caption">
-                    <p class="animated fadeInRight">The Agregator of SME's-Freelancer</p>
+                    <p class="animated fadeInRight">The Agregator of SME's-Freelancers</p>
                     <h1 class="animated fadeInLeft">Assist to Gain Profits With Co-creation</h1>
                     <a class="btn animated fadeInUp" href="/blank">Join Our Ecosystem</a>
                     <br>
