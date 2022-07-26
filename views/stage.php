@@ -268,9 +268,7 @@
     <div class="container py-5">
         <div class="row">
             <div class="col-lg-7 pt-lg-5 pb-5">
-                <h6 class="text-secondary font-weight-semi-bold text-uppercase mb-3">The Impact of Parakarsa
-                </h6>
-                <h1 class="section-title text-white mb-5">What Impress for Them</h1>
+                <h1 class="section-title text-white mb-5">Bagaimana Kesan Mereka?</h1>
                 <div class="owl-carousel testimonial-carousel position-relative">
                     <div class="d-flex flex-column text-white">
                         <div class="d-flex align-items-center mb-3">
