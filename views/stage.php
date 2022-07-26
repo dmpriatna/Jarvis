@@ -10,11 +10,13 @@
             <div class="carousel-item active">
                 <img src="picture/carousel-2.jpg" alt="Carousel Image">
                 <div class="carousel-caption">
-                    <p class="animated fadeInRight">The Agregator of SME's-Freelancers</p>
-                    <h1 class="animated fadeInLeft">Assist to Gain Profits With Co-creation</h1>
+                    <h1 class="animated fadeInRight">Raih Keuntungan dengan Pendampingan Co-creation</h1>
+                    <p class="animated fadeInLeft">Pendampingan  Dokumentasi Lintas disiplin
+                         ilmu untuk mengembangkan, memperbaiki, & Menumbuhkan Bisnis UMKM.</p>
+                         <h6 class="text-white">#TerusBerdampingan</h6>
+                         <br>
                     <a class="btn animated fadeInUp" href="/blank">Join Our Ecosystem</a>
-                    <br>
-                    <h6 class="text-white">#TerusBerdampingan</h6>
+                    
                 </div>
             </div>
 
@@ -175,7 +177,7 @@
         <div class="container py-5">
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <h6 class="text-secondary font-weight-semi-bold text-uppercase mb-3 text-white">Projek kami membuat produk dokumentasi</h6>
+                    <h6 class="text-secondary font-weight-semi-bold text-uppercase mb-3">Projek kami membuat produk dokumentasi</h6>
                     <h1 class="mb-4 section-title font-weight-bold text-white">Natar (Para Proven)</h1>
                     <p class="text-white">Projek membuat Dokumentasi Bisnis yang bisa diikuti dari tingkatan UMKM Beginner, Intermidiate,
                          & Advance untuk membuktikan bisnisnya dalam keperluan pitching hingga mendapatakan pendanaan.</p>
@@ -194,7 +196,7 @@
                             <!-- <div class="icon-box bg-light text-secondary shadow mt-2 mb-4">
                                     <i class="fa fa-2x fa-city"></i>
                                 </div> -->
-                            <h5 class="font-weight-bold mb-4 px-4">Temu Rancang</h5>
+                            <h5 class="font-weight-bold mb-4 px-4">TemuRancang</h5>
                             <img src="picture/project-2.jpg" alt="">
                         </div>
                         <div class="d-flex flex-column align-items-center text-center bg-white rounded overflow-hidden pt-4">
