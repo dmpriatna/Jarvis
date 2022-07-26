@@ -35,8 +35,8 @@
             <div class="carousel-item">
                 <img src="picture/carousel-3.jpg" alt="Carousel Image">
                 <div class="carousel-caption">
-                    <h1 class="animated fadeInRight">The Problem Solver</h1>
-                    <p class="animated fadeInLeft">Co-create Escalates Realization</p>
+                    <h1 class="animated fadeInRight">Wujudkan Program Anda dengan Eskalasi Co-creation. </h1>
+                    <p class="animated fadeInLeft">Eskalasi Kerjasama Program terkait Kewirausahaan dan persiapan kerja untuk melampui reaslisasi sebelumnya. </p>
                     <h6 class="text-white">#TerusBerdampingan bersama Parakarsa</h6>
                     <br>
                     <a class="btn animated fadeInUp" href="/blank">Join Our Ecosystem</a>
