@@ -13,32 +13,34 @@
                     <h1 class="animated fadeInRight">Raih Keuntungan dengan Pendampingan Co-creation</h1>
                     <p class="animated fadeInLeft">Pendampingan  Dokumentasi Lintas disiplin
                          ilmu untuk mengembangkan, memperbaiki, & Menumbuhkan Bisnis UMKM.</p>
-                         <h6 class="text-white">#TerusBerdampingan</h6>
+                         <h6 class="text-white">#TerusBerdampingan bersama Parakarsa</h6>
                          <br>
                     <a class="btn animated fadeInUp" href="/blank">Join Our Ecosystem</a>
-                    
+
                 </div>
             </div>
 
             <div class="carousel-item">
                 <img src="picture/carousel-1.jpg" alt="Carousel Image">
                 <div class="carousel-caption">
-                    <p class="animated fadeInRight">The Community Connector</p>
-                    <h1 class="animated fadeInLeft">Co-create Sustainable Engagement</h1>
-                    <a class="btn animated fadeInUp" href="/blank">Join Our Ecosystem</a>
+                    <h1 class="animated fadeInRight">Ikat Keberlanjutan dengan Komunitas Co-creation </h1>
+                    <p class="animated fadeInLeft">Komunitas yang telah   Dokumentasi Lintas disiplin ilmu untuk UMKM, Freelancer, & Partner Parakarsa </p>
+                    <h6 class="text-white">#TerusBerdampingan bersama Parakarsa</h6>
                     <br>
-                    <h6 class="text-white">#TerusBerdampingan</h6>
+                    <a class="btn animated fadeInUp" href="/blank">Join Our Ecosystem</a>
+                    
                 </div>
             </div>
 
             <div class="carousel-item">
                 <img src="picture/carousel-3.jpg" alt="Carousel Image">
                 <div class="carousel-caption">
-                    <p class="animated fadeInRight">The Problem Solver</p>
-                    <h1 class="animated fadeInLeft">Co-create Escalates Realization</h1>
-                    <a class="btn animated fadeInUp" href="/blank">Join Our Ecosystem</a>
+                    <h1 class="animated fadeInRight">The Problem Solver</h1>
+                    <p class="animated fadeInLeft">Co-create Escalates Realization</p>
+                    <h6 class="text-white">#TerusBerdampingan bersama Parakarsa</h6>
                     <br>
-                    <h6 class="text-white">#TerusBerdampingan</h6>
+                    <a class="btn animated fadeInUp" href="/blank">Join Our Ecosystem</a>
+                   
                 </div>
             </div>
         </div>
