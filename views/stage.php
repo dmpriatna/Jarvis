@@ -64,7 +64,7 @@
                 <div class="col-lg-5 col-md-12 brr-100 bc-1" style="position: relative; margin-bottom: 50px; padding: 20px 50px;">
                     <div class="v-center">
                         <h3 class="c-3 f-32-b">Apakah Anda Sulit Mengelola UMKM Binaan Dalam Hal Ini?</h3>
-                        <div class="line-3 c-3 bc-3" style="margin: 20px 0;"></div>
+                        <div class="line-3 c-3 bc-3" style="margin: 100px 0;"></div>
                         <div class="c-2 d-flex" style="margin: 20px 0;">
                             <img src="picture/eye.svg" alt="eye">
                             <span>Identifikasi masalah yang beragam & analisa strategi berdasarkan UMKM insight.</span>
