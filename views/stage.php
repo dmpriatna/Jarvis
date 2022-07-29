@@ -356,7 +356,7 @@
             <div class="col-lg-4 col-md-12">
                 <div class="feature-item">
                     <div class="feature-text">
-                        <div class="d-flex"><img src="picture/ribbon.svg" alt="ribbon" style="margin-right: 10px;">
+                        <div class="d-flex"><img src="picture/ribbon.svg" alt="ribbon" style="margin-right: 10px; width:72px; height:72px;">
                             <h3>ParaProven</h3>
                         </div>
                         <p>Program Pendampingan Co-creation UKM yang bertujuan untuk membuktikan Dokumentasi Bisnis.</p>
@@ -370,7 +370,7 @@
             <div class="col-lg-4 col-md-12">
                 <div class="feature-item bc-3">
                     <div class="feature-text">
-                        <div class="d-flex"><img src="picture/people.svg" alt="people" style="margin-right: 10px;">
+                        <div class="d-flex"><img src="picture/people.svg" alt="people" style="margin-right: 10px; width:72px; height:72px;">
                             <h3>ParaConnect</h3>
                         </div>
                         <p>Program Komunitas UKM & Freelancer yang bertujuan untuk Mengaktivasi dan Meningkatkan Keterlibatan Aktivitas komunitas.</p>
