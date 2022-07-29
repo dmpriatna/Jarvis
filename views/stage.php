@@ -61,7 +61,7 @@
     <div class="wow fadeInUp" data-wow-delay="0.1s">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-5 col-md-12 brr-100 bc-1" style="position: relative; margin-bottom: 50px; padding: 20px 50px;">
+                <div class="col-lg-6 col-md-12 brr-100 bc-1" style="position: relative; margin-bottom: 50px; padding: 20px 50px;">
                     <div class="v-center">
                         <h3 class="c-3 f-32-b">Apakah Anda Sulit Mengelola UMKM Binaan Dalam Hal Ini?</h3>
                         <div class="line-3 c-3 bc-3" style="margin: 20px 0;"></div>
