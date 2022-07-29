@@ -99,7 +99,7 @@
         </div>
         <div class="row">
             <div class="col-md-3">
-                <span class="f-21-b c-1">Metode terbukti dengan tahapan yang jelas.</span>
+                <span class="f-21-b c-1" style="font-size: 20px;">Metode terbukti dengan tahapan yang jelas.</span>
                 <div class="line-1 c-3 bc-3" style="margin: 20px 0;"></div>
                 <img src="picture/metode.png" alt="metode" style="border-top-right-radius: 40px; width: 100%;">
                 <span class="c-1">Pembukitian merupakan fokus kami agar UMKM bisa naik kelas, jadi metode Co-creation ini dapat kami pertanggung jawabkan kepada anda.</span>
@@ -111,12 +111,12 @@
                 <span class="c-1">Keunggulan Co-creation terletak pada sharing data, tata kelola yang rapi dan saling terhubung dapat membantu anda untuk melacaknya.</span>
             </div>
             <div class="col-md-3">
-                <span class="f-21-b c-1">Profiling yang terperinci meningkatkan relevansi.</span>
+                <span class="f-21-b c-1" style="font-size: 20px;">Profiling yang terperinci meningkatkan relevansi.</span>
                 <div class="line-1 c-3 bc-3" style="margin: 20px 0;"></div>
                 <img src="picture/profiling.png" alt="profiling" style="border-top-right-radius: 40px; width: 100%;">
                 <span class="c-1">Mencocokkan masalah dengan solusi syarat terjadinya Co-creation, biodata UMKM yang kami kurasi sangat bebas diakses oleh anda.</span>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-3" style="font-size: 20px;">
                 <span class="f-21-b c-1">Event tambahan pembawa potensi kolaborasi.</span>
                 <div class="line-1 c-3 bc-3" style="margin: 20px 0;"></div>
                 <img src="picture/event.png" alt="event" style="border-top-right-radius: 40px; width: 100%;">
