@@ -116,8 +116,8 @@
                 <img src="picture/profiling.png" alt="profiling" style="border-top-right-radius: 40px; width: 100%;">
                 <span class="c-1">Mencocokkan masalah dengan solusi syarat terjadinya Co-creation, biodata UMKM yang kami kurasi sangat bebas diakses oleh anda.</span>
             </div>
-            <div class="col-md-3" style="font-size: 20px;">
-                <span class="f-21-b c-1">Event tambahan pembawa potensi kolaborasi.</span>
+            <div class="col-md-3">
+                <span class="f-21-b c-1" style="font-size: 20px;">Event tambahan pembawa potensi kolaborasi.</span>
                 <div class="line-1 c-3 bc-3" style="margin: 20px 0;"></div>
                 <img src="picture/event.png" alt="event" style="border-top-right-radius: 40px; width: 100%;">
                 <span class="c-1">Menambahkan value lebih jadi ciri khas kami dalam mendampingi, anda bisa sekaligus berkolaborasi bersama partner kami setelahnya.</span>
