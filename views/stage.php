@@ -555,7 +555,7 @@
     <div class="container">
         <div class="section-header text-center">
             <p>Connect with us</p>
-            <h2><b>Ready to </b>Co-creation</h2>
+            <h2><b>Ready to</b> Co-creation</h2>
         </div>
         <div class="row">
             <div class="col-md-6">
