@@ -11,7 +11,7 @@
                 <img src="picture/carousel-2.jpg" alt="Carousel Image">
                 <div class="carousel-caption">
                     <h1 class="animated fadeInRight"><b>Raih Keuntungan dengan</b> Pendampingan Co-creation</h1>
-                    <p class="animated fadeInLeft" style="font-size: 16px;">Pendampingan  Dokumentasi Lintas disiplin
+                    <p class="animated fadeInLeft" style="font-size: 20px;">Pendampingan  Dokumentasi Lintas disiplin
                          ilmu untuk mengembangkan, memperbaiki, & Menumbuhkan Bisnis UMKM.</p>
                          <h6 class="text-white">#TerusBerdampingan bersama Parakarsa</h6>
                          <br>
@@ -24,7 +24,7 @@
                 <img src="picture/carousel-1.jpg" alt="Carousel Image">
                 <div class="carousel-caption">
                     <h1 class="animated fadeInRight">Ikat Keberlanjutan dengan Komunitas Co-creation </h1>
-                    <p class="animated fadeInLeft" style="font-size: 16px;">Komunitas yang telah   Dokumentasi Lintas disiplin ilmu untuk UMKM, Freelancer, & Partner Parakarsa </p>
+                    <p class="animated fadeInLeft" style="font-size: 20px;">Komunitas yang telah   Dokumentasi Lintas disiplin ilmu untuk UMKM, Freelancer, & Partner Parakarsa </p>
                     <h6 class="text-white">#TerusBerdampingan bersama Parakarsa</h6>
                     <br>
                     <a class="btn animated fadeInUp" href="/blank">Join Our Ecosystem</a>
@@ -36,7 +36,7 @@
                 <img src="picture/carousel-3.jpg" alt="Carousel Image">
                 <div class="carousel-caption">
                     <h1 class="animated fadeInRight">Wujudkan Program Anda dengan Eskalasi Co-creation. </h1>
-                    <p class="animated fadeInLeft" style="font-size: 16px;">Eskalasi Kerjasama Program terkait Kewirausahaan dan persiapan kerja untuk melampui reaslisasi sebelumnya. </p>
+                    <p class="animated fadeInLeft" style="font-size: 20px;">Eskalasi Kerjasama Program terkait Kewirausahaan dan persiapan kerja untuk melampui reaslisasi sebelumnya. </p>
                     <h6 class="text-white">#TerusBerdampingan bersama Parakarsa</h6>
                     <br>
                     <a class="btn animated fadeInUp" href="/blank">Join Our Ecosystem</a>
