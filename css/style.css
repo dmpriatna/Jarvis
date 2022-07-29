@@ -27,6 +27,12 @@ h6 {
     font-family: 'Modeco';
 }
 
+h4 {
+    font-family: Lora;
+    color: #FCF0DE;
+
+}
+
 a {
     color: #666666;
     transition: .3s;
