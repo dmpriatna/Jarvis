@@ -384,7 +384,7 @@
             <div class="col-lg-4 col-md-12">
                 <div class="feature-item">
                     <div class="feature-text">
-                        <div class="d-flex"><img src="picture/papers.svg" alt="papers" style="margin-right: 10px;">
+                        <div class="d-flex"><img src="picture/papers.svg" alt="papers" style="margin-right: 10px; width:72px; height:72px;">
                             <h3>ParaBeyond</h3>
                         </div>
                         <p>Program Eskalasi Enterprise & Job Ecosystems yang bertujuan Melampaui Realisasi Sebelumnya.</p>
