@@ -69,7 +69,7 @@
                             <img src="picture/eye.svg" alt="eye">
                             <span>Identifikasi masalah yang beragam & analisa strategi berdasarkan UMKM insight.</span>
                         </div>
-                        <div class="c-2 d-flex" style="margin: 20px 0; font-size=: 100px;">
+                        <div class="c-2 d-flex" style="margin: 20px 0; font-size: 16px;">
                             <img src="picture/calendar.svg" alt="calendar">
                             <span>Mengakomodir Kuantitas & Mengklasifikasi Kapasitas UMKM yang berbeda-beda levelnya.</span>
                         </div>
