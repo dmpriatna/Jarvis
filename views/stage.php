@@ -10,7 +10,7 @@
             <div class="carousel-item active">
                 <img src="picture/carousel-2.jpg" alt="Carousel Image">
                 <div class="carousel-caption">
-                    <h1 class="animated fadeInLeft" style="font-size: 48px;">Raih Keuntungan dengan Pendampingan Co-creation</h1>
+                    <h1 class="animated fadeInRight" style="font-size: 48px;">Raih Keuntungan dengan Pendampingan Co-creation</h1>
                     <p class="animated fadeInLeft" style="font-size: 20px;">Pendampingan  Dokumentasi Lintas disiplin
                          ilmu untuk mengembangkan, memperbaiki, & Menumbuhkan Bisnis UMKM.</p>
                          <h6 class="text-white">#TerusBerdampingan bersama Parakarsa</h6>
@@ -23,7 +23,7 @@
             <div class="carousel-item">
                 <img src="picture/carousel-1.jpg" alt="Carousel Image">
                 <div class="carousel-caption">
-                    <h1 class="animated fadeInRight">Ikat Keberlanjutan dengan Komunitas Co-creation </h1>
+                    <h1 class="animated fadeInRight" style="font-size: 48px;">Ikat Keberlanjutan dengan Komunitas Co-creation </h1>
                     <p class="animated fadeInLeft" style="font-size: 20px;">Komunitas yang telah   Dokumentasi Lintas disiplin ilmu untuk UMKM, Freelancer, & Partner Parakarsa </p>
                     <h6 class="text-white">#TerusBerdampingan bersama Parakarsa</h6>
                     <br>
@@ -35,7 +35,7 @@
             <div class="carousel-item">
                 <img src="picture/carousel-3.jpg" alt="Carousel Image">
                 <div class="carousel-caption">
-                    <h1 class="animated fadeInRight">Wujudkan Program Anda dengan Eskalasi Co-creation. </h1>
+                    <h1 class="animated fadeInRight" style="font-size: 48px;">Wujudkan Program Anda dengan Eskalasi Co-creation. </h1>
                     <p class="animated fadeInLeft" style="font-size: 20px;">Eskalasi Kerjasama Program terkait Kewirausahaan dan persiapan kerja untuk melampui reaslisasi sebelumnya. </p>
                     <h6 class="text-white">#TerusBerdampingan bersama Parakarsa</h6>
                     <br>
