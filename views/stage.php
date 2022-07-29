@@ -37,7 +37,7 @@
                 <div class="carousel-caption">
                     <h1 class="animated fadeInRight">Wujudkan Program Anda dengan Eskalasi Co-creation. </h1>
                     <p class="animated fadeInLeft" style="font-size: 20px;">Eskalasi Kerjasama Program terkait Kewirausahaan dan persiapan kerja untuk melampui reaslisasi sebelumnya. </p>
-                    <h6 class="text-white">#TerusBerdampingan bersama Parakarsa</h6>
+                    <h6 class="text-white"><b>#TerusBerdampingan </b>bersama Parakarsa</h6>
                     <br>
                     <a class="btn animated fadeInUp" href="/blank">Join Our Ecosystem</a>
                    
