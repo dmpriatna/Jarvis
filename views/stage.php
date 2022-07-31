@@ -81,7 +81,7 @@
                             <img src="picture/clock.svg" alt="clock" style="margin-top: 20px;">
                             <span style="margin-top: 20px;">Membuat kegiatan yang berkelanjutan & menjaga aktivitas UMKM agar tetap terhubung.</span>
                         </div>
-                        <div class="line-1 c-3 bc-3" style="margin: 20px 0;"></div>
+                        <div class="line-1 c-3 bc-3" style="margin-top: 40px;"></div>
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-12 brl-100" style="margin-left: -50px;">
