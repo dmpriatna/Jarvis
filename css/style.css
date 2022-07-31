@@ -2551,7 +2551,7 @@ select.form-control {
 .v-center img {
     height: 50px;
     width: 50px;
-    margin-right: 200px;
+    margin-right: 20px;
 }
 
 @media (max-width: 768px) {
