@@ -60,7 +60,7 @@
     <!-- Feature Start-->
     <div class="wow fadeInUp" data-wow-delay="0.1s">
         <div class="container-fluid">
-            <div class="row" style="margin-left: 20px;">
+            <div class="row" style="margin-right: 20px;">
                 <div class="col-lg-5 col-md-12 brr-100 bc-1" style="position: relative; margin-bottom: 50px; padding: 20px 75px;">
                     <div class="v-center">
                         <h3 class="c-3 f-32-b" style="padding: 20px 0; font-size: 30px;">Apakah Anda Sulit Mengelola UMKM Binaan Dalam Hal Ini?</h3>
