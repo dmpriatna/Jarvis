@@ -246,7 +246,7 @@
     <!-- Extra Section -->
     <div class="container mt-50">
         <div class="section-header text-center">
-            <h2 style="margin-top: 100px;">Pendampingan Kami Dipercaya Oleh</h2>
+            <h2 style="margin-top: 120px;">Pendampingan Kami Dipercaya Oleh</h2>
         </div>
         <div class="row">
             <div class="partner col-md-2 col-sm-6">
