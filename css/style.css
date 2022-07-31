@@ -1059,9 +1059,9 @@ a:focus {
     position: absolute;
     content: "";
     width: 1px;
-    height: 100%;
+    height: 200%;
     top: 0;
-    left: calc(50% - 2px);
+    left: calc(50% - .5px);
     background: var(--color-theme-2);
 }
 
