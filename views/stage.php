@@ -220,7 +220,7 @@
 <!-- Extra Section -->
 <div class="container mt-50">
     <div class="section-header text-center">
-        <h2>Komunitas Terbentuk Oleh Ekosistem Parakarsa</h2>
+        <h2><b>Komunitas Terbentuk Oleh</b> Ekosistem Parakarsa</h2>
     </div>
     <div class="row" style="text-align: center;">
         <div class="col-sm-4">
