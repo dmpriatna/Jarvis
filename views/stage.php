@@ -142,7 +142,7 @@
                         <a class="nav-link active" href="/#" style="font-size: 20px;">Bisnis</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/#" style="font-size: 20px; color: #0B473B;">Desain</a>
+                        <a class="nav-link" href="/#" style="font-size: 20px; color: var(--color-theme-2);">Desain</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/#" style="font-size: 20px;">Marketing</a>
