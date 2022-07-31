@@ -138,60 +138,69 @@
                     <div class="col-md-6 col-lg-3">
                         <div class="footer-contact">
                             <h2>Office & Basecamp</h2>
-                            <p><i class="fa fa-map-marker-alt"></i>Jl. Cigadung Raya Timur No. 35, Cigadung, Kec.
+                            <p style="border-bottom: solid 1px; padding-bottom: 10px;"><i class="fa fa-map-marker-alt"></i>Jl. Cigadung Raya Timur No. 35, Cigadung, Kec.
                                 Cibeunying Kaler, Kota Bandung, Jawa Barat, Indonesia 40133</p>
-                            <p><i class="fa fa-map-marker-alt"></i>Jl. Kyai H. Usman Dhomiri No. 48A, Kota Cimahi, Jawa
+                            <p style="border-bottom: solid 1px; padding-bottom: 10px;"><i class="fa fa-map-marker-alt"></i>Jl. Kyai H. Usman Dhomiri No. 48A, Kota Cimahi, Jawa
                                 Barat, Indonesia 40526</p>
-                            <p><i class="fa fa-map-marker-alt"></i>Jalan SG 1/3, Taman Industri Bolton, Taman Sri
+                            <p style="border-bottom: solid 1px; padding-bottom: 10px;"><i class="fa fa-map-marker-alt"></i>Jalan SG 1/3, Taman Industri Bolton, Taman Sri
                                 Gombak, Selangor, Malaysia 68100</p>
-                            <!-- <div class="footer-social">
-                                <a href=""><i class="fab fa-twitter"></i></a>
-                                <a href=""><i class="fab fa-facebook-f"></i></a>
-                                <a href=""><i class="fab fa-youtube"></i></a>
-                                <a href=""><i class="fab fa-instagram"></i></a>
-                                <a href=""><i class="fab fa-linkedin-in"></i></a>
-                            </div> -->
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
-                        <div class="footer-contact">
-                            <h2>Connect Us</h2>
-                            <p><i class="fa fa-phone-alt"></i>+62 896 1985 5558</p>
-                            <p><i class="fa fa-envelope"></i>co-creation@parakarsa.com</p>
-                            <p>Actor of Parakarsa</p>
+                    <div class="col">
+                        <div class="row">
+                            <div class="col-6">
+                                <div class="footer-contact">
+                                    <h2>Connect Us</h2>
+                                    <p><i class="fa fa-phone-alt"></i>+62 896 1985 5558</p>
+                                    <p><i class="fa fa-envelope"></i>co-creation@parakarsa.com</p>
+                                    <p>Actor of Parakarsa</p>
+                                </div>
+                            </div>
+                            <div class="col-6">
+                                <div class="footer-channel">
+                                    <h2>Channel</h2>
+                                    <div class="row">
+                                        <a href="https://www.tiktok.com/@parakarsa" target="_blank"><img src="picture/tiktok.svg" alt="tiktok"> Tiktok</a>
+                                        <a href="https://www.instagram.com/parakarsa_/" target="_blank"><img src="picture/instagram.svg" alt="instagram"> Instagram</a>
+                                        <a href="https://www.linkedin.com/company/parakarsa/" target="_blank"><img src="picture/linkedin.svg" alt="linkedin"> LinkedIn</a>
+                                    </div>
+                                    <div class="row">
+                                        <a href="" target="_blank"><img src="picture/youtube.svg" alt="youtube"> Youtube</a>
+                                        <a href="https://www.facebook.com/Parakarsa-111285798230661" target="_blank"><img src="picture/facebook.svg" alt="facebook"> Facebook</a>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3">
-                        <div class="footer-link">
-                            <h2>Channel</h2>
-                            <a href="https://www.instagram.com/parakarsa_/">Instagram</a>
-                            <a href="https://www.facebook.com/Parakarsa-111285798230661">Facebook</a>
-                            <a href="https://www.linkedin.com/company/parakarsa/">LinkedIn</a>
-                            <a href="">Youtube</a>
-                            <a href="https://www.tiktok.com/@parakarsa">Tiktok</a>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3">
-                        <div class="footer-link">
-                            <h2>Community</h2>
-                            <a href="">ParaPreneur</a>
-                            <a href="">ParaLancer</a>
-                            <a href="">ParaPartner</a>
+                        <div class="row">
+                            <div class="col">
+                                <div class="footer-link">
+                                    <h2>Community</h2>
+                                    <div class="row">
+                                        <div class="col-3">
+                                            <img src="picture/parapreuner.png" alt="" style="width: 100%;">
+                                            <div class="btn-small">ParaPreuner</div>
+                                        </div>
+                                        <div class="col-3">
+                                            <img src="picture/paralancer.png" alt="" style="width: 100%;">
+                                            <div class="btn-small">ParaLancer</div>
+                                        </div>
+                                        <div class="col-3">
+                                            <img src="picture/parapartner.png" alt="" style="width: 100%;">
+                                            <div class="btn-small">ParaPartner</div>
+                                        </div>
+                                        <div class="col-3">
+                                            <img src="picture/parapartner.png" alt="" style="width: 100%;">
+                                            <div class="btn-small">Blog</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- <div class="container footer-menu">
-                <div class="f-menu">
-                    <a href="">Terms of use</a>
-                    <a href="">Privacy policy</a>
-                    <a href="">Cookies</a>
-                    <a href="">Help</a>
-                    <a href="">FQAs</a>
-                </div>
-            </div> -->
             <div class="container copyright">
-                <div class="row">
+                <div class="row" style="border-top: solid 3px #D6A676; border-bottom: solid 1px #D6A676; padding: 10px 0;">
                     <div class="col-md-6">
                         <p>&copy; <a href="#">Parakarsa</a>, All Right Reserved.</p>
                     </div>
