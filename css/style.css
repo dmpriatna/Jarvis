@@ -1059,7 +1059,7 @@ a:focus {
     position: absolute;
     content: "";
     width: 1px;
-    height: 200%;
+    height: 100%;
     top: 0;
     left: calc(50% - .5px);
     background: var(--color-theme-2);
