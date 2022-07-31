@@ -130,7 +130,7 @@
         </div>
         <div class="row py-5">
             <div class="col-md-6">
-                <h1 class="v-line-6"><b>Hasil Tidak Akan</b> Mengkhianati Usaha</h1>
+                <h1 class="v-line-6" style="padding-left: 20px;"><b>Hasil Tidak Akan</b> Mengkhianati Usaha</h1>
                 <div class="f-21-b c-0 py-5">Parakarsa bersama pendamping lintas disiplin ilmu menciptakan produk dokumentasi terbaik.</div>
                 <div class="c-0 pb-5">Kami membuktikan pengalaman terbaik bagi UMKM dan Freelancer berkokreasi membuat dokumentasi sederhana, yang lebih detail & dapat dikembangkan lebih lanjut yang tentunya sebagai bukti naik kelas.</div>
                 <div class="btn invert stroke-0">Lebih Banyak Dokumen</div>
