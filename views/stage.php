@@ -224,17 +224,17 @@
     </div>
     <div class="row" style="text-align: center;">
         <div class="col-sm-4">
-            <h1 class="mb-2" style="font-size: 60px; font-family: Lora; padding-bottom: 24px; padding-top: 60px;" data-toggle="counter-up">500</h1>
+            <h1 class="mb-2" style="font-size: 60px; font-family: Lora; padding-bottom: 24px; padding-top: 45px;" data-toggle="counter-up">500</h1>
             <img src="picture/parapreuner.png" alt="" style="width: 100%;" class="btr-100">
             <div class="btn normal" style="width: inherit;">ParaPreuner (UMKM)</div>
         </div>
         <div class="col-sm-4">
-            <h1 class="mb-2" style="font-size: 60px; font-family: Lora; padding-bottom: 24px; padding-top: 60px;" data-toggle="counter-up">50</h1>
+            <h1 class="mb-2" style="font-size: 60px; font-family: Lora; padding-bottom: 24px; padding-top: 45px;" data-toggle="counter-up">50</h1>
             <img src="picture/paralancer.png" alt="" style="width: 100%;" class="btr-100">
             <div class="btn normal" style="width: inherit;">ParaLancer (Freelancer)</div>
         </div>
         <div class="col-sm-4">
-            <h1 class="mb-2" style="font-size: 60px; font-family: Lora; padding-bottom: 24px; padding-top: 60px;" data-toggle="counter-up">20</h1>
+            <h1 class="mb-2" style="font-size: 60px; font-family: Lora; padding-bottom: 24px; padding-top: 45px;" data-toggle="counter-up">20</h1>
             <img src="picture/parapartner.png" alt="" style="width: 100%;" class="btr-100">
             <div class="btn normal" style="width: inherit;">ParaPartner (Partner)</div>
         </div>
