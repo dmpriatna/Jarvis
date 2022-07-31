@@ -58,7 +58,7 @@
 
 
     <!-- Feature Start-->
-    <div class="wow fadeInUp" data-wow-delay="0.1s">
+    <div class="wow fadeInUp" data-wow-delay="0.1s" style="height: 200px;">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-5 col-md-12 brr-100 bc-1" style="position: relative; margin-bottom: 50px; padding: 20px 75px;">
