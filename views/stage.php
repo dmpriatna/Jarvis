@@ -123,7 +123,7 @@
                 <span class="c-1">Menambahkan value lebih jadi ciri khas kami dalam mendampingi, anda bisa sekaligus berkolaborasi bersama partner kami setelahnya.</span>
             </div>
         </div>
-        <div class="row py-5" style="margin-top: 20px;">
+        <div class="row py-5" style="margin-top: 40px;">
             <div class="line-1 c-3 bc-3 col" style="margin: 30px 5px;"></div>
             <div class="btn normal">Lihat Value of Co-creation</div>
             <div class="line-1 c-3 bc-3 col" style="margin: 30px 5px;"></div>
