@@ -1058,10 +1058,10 @@ a:focus {
 .faqs .row::after {
     position: absolute;
     content: "";
-    width: 100px;
+    width: 1px;
     height: 100%;
     top: 0;
-    left: calc(50% - .5px);
+    left: calc(50% - 2px);
     background: var(--color-theme-2);
 }
 
