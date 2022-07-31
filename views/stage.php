@@ -101,25 +101,25 @@
             <div class="col-md-3">
                 <span class="f-21-b c-1" style="font-size: 20px;">Metode terbukti dengan tahapan yang jelas.</span>
                 <div class="line-1 c-3 bc-3" style="margin: 20px 0;"></div>
-                <img src="picture/metode.png" alt="metode" style="border-top-right-radius: 40px; width: 100%; padding-bottom: 20px;">
+                <img src="picture/metode.png" alt="metode" style="border-top-right-radius: 40px; width: 100%; padding-bottom: 10px;">
                 <span class="c-1">Pembuktian merupakan fokus kami agar UMKM bisa naik kelas, jadi metode Co-creation ini dapat kami pertanggung jawabkan kepada anda.</span>
             </div>
             <div class="col-md-3">
                 <span class="f-21-b c-1" style="font-size: 20px;">Pengolahan dan Pelaporan Data yang terintegrasi.</span>
                 <div class="line-1 c-3 bc-3" style="margin: 20px 0;"></div>
-                <img src="picture/pengolahan.png" alt="pengolahan" style="border-top-right-radius: 40px; width: 100%;">
+                <img src="picture/pengolahan.png" alt="pengolahan" style="border-top-right-radius: 40px; width: 100%; padding-bottom: 10px;">
                 <span class="c-1">Keunggulan Co-creation terletak pada sharing data, tata kelola yang rapi dan saling terhubung dapat membantu anda untuk melacaknya.</span>
             </div>
             <div class="col-md-3">
                 <span class="f-21-b c-1" style="font-size: 20px;">Profiling yang terperinci meningkatkan relevansi.</span>
                 <div class="line-1 c-3 bc-3" style="margin: 20px 0;"></div>
-                <img src="picture/profiling.png" alt="profiling" style="border-top-right-radius: 40px; width: 100%;">
+                <img src="picture/profiling.png" alt="profiling" style="border-top-right-radius: 40px; width: 100%; padding-bottom: 10px;">
                 <span class="c-1">Mencocokkan masalah dengan solusi syarat terjadinya Co-creation, biodata UMKM yang kami kurasi sangat bebas diakses oleh anda.</span>
             </div>
             <div class="col-md-3">
                 <span class="f-21-b c-1" style="font-size: 20px;">Event tambahan pembawa potensi kolaborasi.</span>
                 <div class="line-1 c-3 bc-3" style="margin: 20px 0;"></div>
-                <img src="picture/event.png" alt="event" style="border-top-right-radius: 40px; width: 100%;">
+                <img src="picture/event.png" alt="event" style="border-top-right-radius: 40px; width: 100%; padding-bottom: 10px;">
                 <span class="c-1">Menambahkan value lebih jadi ciri khas kami dalam mendampingi, anda bisa sekaligus berkolaborasi bersama partner kami setelahnya.</span>
             </div>
         </div>
