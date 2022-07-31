@@ -70,16 +70,16 @@
                             <span style="margin-top: 40px;">Identifikasi masalah yang beragam & analisa strategi berdasarkan UMKM insight.</span>
                         </div>
                         <div class="c-2 d-flex" style="margin: 20px 0;">
-                            <img src="picture/calendar.svg" alt="calendar">
-                            <span>Mengakomodir Kuantitas & Mengklasifikasi Kapasitas UMKM yang berbeda-beda levelnya.</span>
+                            <img src="picture/calendar.svg" alt="calendar" style="margin-top: 20px;">
+                            <span style="margin-top: 20px;">Mengakomodir Kuantitas & Mengklasifikasi Kapasitas UMKM yang berbeda-beda levelnya.</span>
                         </div>
                         <div class="c-2 d-flex" style="margin: 20px 0;">
-                            <img src="picture/papers.svg" alt="papers">
-                            <span>Mencatat laporan perkembangan & memantau pertumbuhan UMKM secara terukur.</span>
+                            <img src="picture/papers.svg" alt="papers" style="margin-top: 20px;">
+                            <span style="margin-top: 20px;">Mencatat laporan perkembangan & memantau pertumbuhan UMKM secara terukur.</span>
                         </div>
                         <div class="c-2 d-flex" style="margin: 20px 0;">
-                            <img src="picture/clock.svg" alt="clock">
-                            <span>Membuat kegiatan yang berkelanjutan & menjaga aktivitas UMKM agar tetap terhubung.</span>
+                            <img src="picture/clock.svg" alt="clock" style="margin-top: 20px;">
+                            <span style="margin-top: 20px;">Membuat kegiatan yang berkelanjutan & menjaga aktivitas UMKM agar tetap terhubung.</span>
                         </div>
                         <div class="line-1 c-3 bc-3" style="margin: 20px 0;"></div>
                     </div>
