@@ -102,7 +102,7 @@
                 <span class="f-21-b c-1" style="font-size: 20px;">Metode terbukti dengan tahapan yang jelas.</span>
                 <div class="line-1 c-3 bc-3" style="margin: 20px 0;"></div>
                 <img src="picture/metode.png" alt="metode" style="border-top-right-radius: 40px; width: 100%;">
-                <span class="c-1" style="margin: 20px 0;">Pembuktian merupakan fokus kami agar UMKM bisa naik kelas, jadi metode Co-creation ini dapat kami pertanggung jawabkan kepada anda.</span>
+                <span class="c-1" style="padding: 20px 0;">Pembuktian merupakan fokus kami agar UMKM bisa naik kelas, jadi metode Co-creation ini dapat kami pertanggung jawabkan kepada anda.</span>
             </div>
             <div class="col-md-3">
                 <span class="f-21-b c-1" style="font-size: 20px;">Pengolahan dan Pelaporan Data yang terintegrasi.</span>
