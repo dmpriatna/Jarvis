@@ -239,7 +239,7 @@
             <div class="btn normal" style="width: inherit;">ParaPartner (Partner)</div>
         </div>
     </div>
-    <div class="btn invert stroke-0 " style="margin-top: 40px;">Lebih Banyak Dokumen</div>
+    <center><div class="btn invert stroke-0" style="margin-top: 40px;">Lebih Banyak Dokumen</div></center>
 </div>
 <!-- Section Extra End -->
 
