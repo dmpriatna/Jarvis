@@ -101,25 +101,25 @@
             <div class="col-md-3">
                 <span class="f-21-b c-1" style="font-size: 20px;">Metode terbukti dengan tahapan yang jelas.</span>
                 <div class="line-1 c-3 bc-3" style="margin: 20px 0;"></div>
-                <img src="picture/metode.png" alt="metode" style="border-top-right-radius: 40px; width: 100%; padding-bottom: 10px;">
+                <img src="picture/metode.png" alt="metode" style="border-top-right-radius: 40px; width: 100%; padding-bottom: 20px;">
                 <span class="c-1">Pembuktian merupakan fokus kami agar UMKM bisa naik kelas, jadi metode Co-creation ini dapat kami pertanggung jawabkan kepada anda.</span>
             </div>
             <div class="col-md-3">
                 <span class="f-21-b c-1" style="font-size: 20px;">Pengolahan dan Pelaporan Data yang terintegrasi.</span>
                 <div class="line-1 c-3 bc-3" style="margin: 20px 0;"></div>
-                <img src="picture/pengolahan.png" alt="pengolahan" style="border-top-right-radius: 40px; width: 100%; padding-bottom: 10px;">
+                <img src="picture/pengolahan.png" alt="pengolahan" style="border-top-right-radius: 40px; width: 100%; padding-bottom: 20px;">
                 <span class="c-1">Keunggulan Co-creation terletak pada sharing data, tata kelola yang rapi dan saling terhubung dapat membantu anda untuk melacaknya.</span>
             </div>
             <div class="col-md-3">
                 <span class="f-21-b c-1" style="font-size: 20px;">Profiling yang terperinci meningkatkan relevansi.</span>
                 <div class="line-1 c-3 bc-3" style="margin: 20px 0;"></div>
-                <img src="picture/profiling.png" alt="profiling" style="border-top-right-radius: 40px; width: 100%; padding-bottom: 10px;">
+                <img src="picture/profiling.png" alt="profiling" style="border-top-right-radius: 40px; width: 100%; padding-bottom: 20px;">
                 <span class="c-1">Mencocokkan masalah dengan solusi syarat terjadinya Co-creation, biodata UMKM yang kami kurasi sangat bebas diakses oleh anda.</span>
             </div>
             <div class="col-md-3">
                 <span class="f-21-b c-1" style="font-size: 20px;">Event tambahan pembawa potensi kolaborasi.</span>
                 <div class="line-1 c-3 bc-3" style="margin: 20px 0;"></div>
-                <img src="picture/event.png" alt="event" style="border-top-right-radius: 40px; width: 100%; padding-bottom: 10px;">
+                <img src="picture/event.png" alt="event" style="border-top-right-radius: 40px; width: 100%; padding-bottom: 20px;">
                 <span class="c-1">Menambahkan value lebih jadi ciri khas kami dalam mendampingi, anda bisa sekaligus berkolaborasi bersama partner kami setelahnya.</span>
             </div>
         </div>
@@ -131,7 +131,7 @@
         <div class="row py-5">
             <div class="col-md-6">
                 <h1 class="v-line-6" style="padding-left: 25px;"><b>Hasil Tidak Akan</b> Mengkhianati Usaha</h1>
-                <div class="f-21-b c-0 py-5" style="padding 0px 0">Parakarsa bersama pendamping lintas disiplin ilmu menciptakan produk dokumentasi terbaik.</div>
+                <div class="f-21-b c-0 py-5">Parakarsa bersama pendamping lintas disiplin ilmu menciptakan produk dokumentasi terbaik.</div>
                 <div class="c-0 pb-5" style="padding: 10px 0;">Kami membuktikan pengalaman terbaik bagi UMKM dan Freelancer berkokreasi membuat dokumentasi sederhana, yang lebih detail & dapat dikembangkan lebih lanjut yang tentunya sebagai bukti naik kelas.</div>
                 <div class="btn invert stroke-0">Lebih Banyak Dokumen</div>
             </div>
