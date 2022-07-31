@@ -149,7 +149,7 @@
                     </li>
                 </ul>
                 <div class="line-1 c-3 bc-3" style="margin: 10px 0;"></div>
-                <img src="picture/bisnis.png" alt="bisnis" width="100%" style="margin-top: 40px;">
+                <img src="picture/bisnis.png" alt="bisnis" width="100%" height="200px" style="margin-top: 40px;">
             </div>
         </div>
     </div>
