@@ -139,13 +139,13 @@
                 <div class="line-3 c-3 bc-3" style="margin: 10px 0;"></div>
                 <ul class="nav">
                     <li class="nav-item">
-                        <a class="nav-link active" href="/#" style="font-size: 20px;">Bisnis</a>
+                        <a class="nav-link active" href="/#" style="font-size: 20px; color: var(--color-theme-1); font-weight: bold;">Bisnis</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/#" style="font-size: 20px; color: var(--color-theme-1);">Desain</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/#" style="font-size: 20px;">Marketing</a>
+                        <a class="nav-link" href="/#" style="font-size: 20px; color: var(--color-theme-1);">Marketing</a>
                     </li>
                 </ul>
                 <div class="line-1 c-3 bc-3" style="margin: 10px 0;"></div>
