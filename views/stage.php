@@ -66,7 +66,7 @@
                         <h3 class="c-3 f-32-b" style="padding: 20px 0; font-size: 30px;">Apakah Anda Sulit Mengelola UMKM Binaan Dalam Hal Ini?</h3>
                         <div class="line-3 c-3 bc-3" style="margin-top: 20px 0;"></div>
                         <div class="c-2 d-flex" style="margin: 20px 0;">
-                            <img src="picture/eye.svg" alt="eye">
+                            <img style="margin-top: 40px;" src="picture/eye.svg" alt="eye">
                             <span style="margin-top: 40px;">Identifikasi masalah yang beragam & analisa strategi berdasarkan UMKM insight.</span>
                         </div>
                         <div class="c-2 d-flex" style="margin: 20px 0;">
