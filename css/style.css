@@ -2542,7 +2542,7 @@ select.form-control {
 }
 
 .v-center {
-    padding-right: 50px;
+    padding-right: 100px;
     position: absolute;
     top: 50%;
     transform: translateY(-50%);    
