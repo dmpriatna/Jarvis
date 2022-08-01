@@ -59,7 +59,7 @@
                         </div>
                         <div class="line-1 c-1 bc-1"></div>
                     </div>
-                    <div class="col-lg-4 col-sm-12">
+                    <div class="col-lg-4 col-md-12">
                         <div class="logo">
                             <a href="/">
                                 <img src="picture/logo.png" alt="Logo" style="height: 200px;">
