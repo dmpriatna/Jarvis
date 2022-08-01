@@ -367,7 +367,7 @@
                         </div>
                         <p class="pt-4" style="font-size: 16px;">Program Pendampingan Co-creation UKM yang bertujuan untuk membuktikan Dokumentasi Bisnis.</p>
                         <br>
-                        <p style="font-size: 14px;">#TerusBerdampingan bersama Parakarsa</p>
+                        <p style="font-size: 14px; padding-top: 10px;">#TerusBerdampingan bersama Parakarsa</p>
                         <br>
                         <div class="btn invert">Join Now</div>
                     </div>
@@ -381,7 +381,7 @@
                         </div>
                         <p class="pt-4" style="font-size: 16px;">Program Komunitas UKM & Freelancer yang bertujuan untuk Mengaktivasi dan Meningkatkan Keterlibatan Aktivitas komunitas.</p>
                         <br>
-                        <p style="font-size: 14px; padding-top: 20px;">#TerusBerdampingan bersama Parakarsa</p>
+                        <p style="font-size: 14px; padding-top: 10px;">#TerusBerdampingan bersama Parakarsa</p>
                         <br>
                         <div class="btn normal">Join Now</div>
                     </div>
