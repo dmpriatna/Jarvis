@@ -308,10 +308,10 @@
                             <img class="img-fluid" src="picture/testimonial-1.jpeg" alt="">
                             <div class="ml-3">
                                 <h5 class="" style=" color: var(--color-theme-3); font-size: 20px; font-weight: medium; font-family: Lora;">Rina Mulyani, S.Pd, M.T</h5>
-                                <i font-size="16px">Kabid. UMKM DISDAGKOPERIN Kota Cimahi</i>
+                                <i style="font-size: 16px;">Kabid. UMKM DISDAGKOPERIN Kota Cimahi</i>
                             </div>
                         </div>
-                        <p>Terima kasih kepada Parakarsa yang telah membantu pemerintah Cimahi dalam meningkatkan
+                        <p class="pt-1">Terima kasih kepada Parakarsa yang telah membantu pemerintah Cimahi dalam meningkatkan
                             kualitas UMKM, khususnya wirausaha pemula di Cimahi melalui
                             pendampingan NATAR.</p>
                     </div>
