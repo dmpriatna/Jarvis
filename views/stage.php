@@ -420,8 +420,8 @@
                         <img src="picture/team-1.jpg" alt="Team Image">
                     </div>
                     <div class="team-text">
-                        <h2 style="font-family: Lora; font-size: 14px;">Irfan Fakhri Muhammad</h2>
-                        <p style="font-size: 10px;">Founder & Chief Executive Officer</p>
+                        <h2 style="font-family: Lora; font-size: 20px;">Irfan Fakhri Muhammad</h2>
+                        <p style="font-size: 16px;">Founder & Chief Executive Officer</p>
                     </div>
                     <div class="team-social">
                         <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
