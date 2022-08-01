@@ -185,10 +185,10 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <h6 class="text-secondary font-weight-semi-bold text-uppercase mb-3">Projek kami membuat produk dokumentasi</h6>
-                    <h1 class="mb-4 section-title font-weight-bold text-white">Natar (Para Proven)</h1>
-                    <p class="text-white">Projek membuat Dokumentasi Bisnis yang bisa diikuti dari tingkatan UMKM Beginner, Intermidiate,
+                    <h1 class="mb-4 section-title font-weight-bold" style="color: var(--color-theme-3);">Natar (Para Proven)</h1>
+                    <p class="" style="color: var(--color-theme-2);">Projek membuat Dokumentasi Bisnis yang bisa diikuti dari tingkatan UMKM Beginner, Intermidiate,
                          & Advance untuk membuktikan bisnisnya dalam keperluan pitching hingga mendapatakan pendanaan.</p>
-                    <a href="/more" class="btn invert mt-3 py-2 px-4">Lebih Banyak Project</a> 
+                    <a href="/more" class="btn invert mt-3 py-2 px-4" style="background-color: var(--color-theme-3);color: var(--color-theme-2);">Lebih Banyak Project</a> 
                 </div>
                 <div class="col-lg-6 pt-5 pt-lg-0">
                     <div class="owl-carousel service-carousel position-relative">
