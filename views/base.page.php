@@ -74,11 +74,11 @@
                                     <img src="picture/location-1.svg" alt="">
                                     <div class="top-bar-text">
                                         <h3>Approach Us</h3>
-                                        <p style="font-size: 14px; margin-right: 10px;">co-creation@parakarsa.com</p>
+                                        <p style="font-size: 14px; margin-right: 30px;">co-creation@parakarsa.com</p>
                                     </div>
                                 </div>
                             </div>
-                            <div class="align-middle" style="margin-left: 10px;">
+                            <div class="align-middle" style="margin-left: 14px;">
                                 <div class="btn stroke-0 small" style="font-size: 10px;">Join Our Ecosystem</div>
                             </div>
                         </div>
