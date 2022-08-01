@@ -297,7 +297,7 @@
 
 
 <!-- Testimonial Start -->
-<div class="container-fluid bg-testimonial py-5 btl-100" style="margin-top: 160px; height: 560px;">
+<div class="container-fluid bg-testimonial py-5 btl-100" style="margin-top: 160px; height: 460px;">
     <div class="container py-5">
         <div class="row">
             <div class="col-lg-7 pt-lg-5 pb-5">
