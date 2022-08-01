@@ -78,8 +78,8 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="align-middle" style="margin-left: 20px;">
-                                <div class="btn stroke-0 small">Join Our Ecosystem</div>
+                            <div class="align-middle" style="margin-left: 10px;">
+                                <div class="btn stroke-0 small" style="font-size: 10px;">Join Our Ecosystem</div>
                             </div>
                         </div>
                         <div class="line-1 c-1 bc-1"></div>
