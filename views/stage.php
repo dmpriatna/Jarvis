@@ -301,7 +301,7 @@
     <div class="container py-5">
         <div class="row">
             <div class="col-lg-7 pt-lg-5 pb-5">
-                <h1 class="section-title mb-5" style=" color: var(--color-theme-2); padding-top: 20px; font-size: 32px;"><b>Bagaimana </b>Kesan Mereka?</h1>
+                <h1 class="section-title mb-5" style=" color: var(--color-theme-2); margin-top: 20px; font-size: 32px;"><b>Bagaimana </b>Kesan Mereka?</h1>
                 <div class="owl-carousel testimonial-carousel position-relative">
                     <div class="d-flex flex-column text-white">
                         <div class="d-flex align-items-center mb-3">
