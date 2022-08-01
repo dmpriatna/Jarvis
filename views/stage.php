@@ -357,7 +357,7 @@
 <div class="feature wow fadeInUp" data-wow-delay="0.1s">
     <div class="container-fluid bc-1">
         <div class="line-1 c-3 bc-3"></div>
-        <h1 class="text-center c-2 f-50 py-5"><b>Program Unggulan Untuk</b> UMKM Enthusiasm!</h1>
+        <h1 class="text-center c-2 f-50 py-5" style="font-size: 50px;"><b>Program Unggulan Untuk</b> UMKM Enthusiasm!</h1>
         <div class="row align-items-center">
             <div class="col-lg-4 col-md-12">
                 <div class="feature-item">
