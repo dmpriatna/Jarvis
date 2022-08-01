@@ -344,7 +344,7 @@
             </div>
             <div class="col-lg-5" style="min-height: 400px;">
                 <div class="position-relative h-100 rounded overflow-hidden">
-                    <img class="position-absolute w-160 h-30" src="picture/testimonial-0.jpg" style="object-fit: cover;">
+                    <img class="position-absolute w-80 h-50" src="picture/testimonial-0.jpg" style="object-fit: cover;">
                 </div>
             </div>
         </div>
