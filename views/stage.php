@@ -311,7 +311,7 @@
                                 <i style="font-size: 16px;">Kabid. UMKM DISDAGKOPERIN Kota Cimahi</i>
                             </div>
                         </div>
-                        <p class="pt-1">Terima kasih kepada Parakarsa yang telah membantu pemerintah Cimahi dalam meningkatkan
+                        <p class="pt-3">Terima kasih kepada Parakarsa yang telah membantu pemerintah Cimahi dalam meningkatkan
                             kualitas UMKM, khususnya wirausaha pemula di Cimahi melalui
                             pendampingan NATAR.</p>
                     </div>
