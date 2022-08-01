@@ -365,7 +365,7 @@
                         <div class="d-flex"><img src="picture/ribbon.svg" alt="ribbon" style="margin-right: 10px; width:62px; height:62px;">
                             <h3 style="padding-top: 12px;"><b>Para</b>Proven</h3>
                         </div>
-                        <p class="pt-2">Program Pendampingan Co-creation UKM yang bertujuan untuk membuktikan Dokumentasi Bisnis.</p>
+                        <p class="pt-2" style="font-size: 16px;">Program Pendampingan Co-creation UKM yang bertujuan untuk membuktikan Dokumentasi Bisnis.</p>
                         <br>
                         <p>#TerusBerdampingan bersama Parakarsa</p>
                         <br>
@@ -379,7 +379,7 @@
                         <div class="d-flex"><img src="picture/people.svg" alt="people" style="margin-right: 10px; width:62px; height:62px;">
                             <h3 style="padding-top: 15px;"><b>Para</b>Connect</h3>
                         </div>
-                        <p class="pt-2">Program Komunitas UKM & Freelancer yang bertujuan untuk Mengaktivasi dan Meningkatkan Keterlibatan Aktivitas komunitas.</p>
+                        <p class="pt-2" style="font-size: 16px;">Program Komunitas UKM & Freelancer yang bertujuan untuk Mengaktivasi dan Meningkatkan Keterlibatan Aktivitas komunitas.</p>
                         <br>
                         <p>#TerusBerdampingan bersama Parakarsa</p>
                         <br>
@@ -393,7 +393,7 @@
                         <div class="d-flex"><img src="picture/papers.svg" alt="papers" style="margin-right: 10px; padding-bottom:20px;width:62px; height:62px;">
                             <h3 style="padding-top: 12px;"><b>Para</b>Beyond</h3>
                         </div>
-                        <p>Program Eskalasi Enterprise & Job Ecosystems yang bertujuan Melampaui Realisasi Sebelumnya.</p>
+                        <p style="font-size: 16px;">Program Eskalasi Enterprise & Job Ecosystems yang bertujuan Melampaui Realisasi Sebelumnya.</p>
                         <br>
                         <p>#TerusBerdampingan bersama Parakarsa</p>
                         <br>
