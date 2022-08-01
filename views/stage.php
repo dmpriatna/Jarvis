@@ -317,7 +317,7 @@
                     </div>
                     <div class="d-flex flex-column text-white">
                         <div class="d-flex align-items-center mb-3">
-                            <img class="img-fluid" src="picture/testimonial-2.jpg" alt="" style="width: 400px; height: 160px;">
+                            <img class="img-fluid" src="picture/testimonial-2.jpg" alt="" style="width: 400px; height: 60px;">
                             <div class="ml-3">
                                 <h5 class="text-white">Pudji Destari</h5>
                                 <i>Elmanta, Cimahi.</i>
