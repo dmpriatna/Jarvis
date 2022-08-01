@@ -438,7 +438,7 @@
                     </div>
                     <div class="team-text">
                         <h2 style="font-size: 18px;">Khairul Anuar Ariffin</h2>
-                        <p style="font-size: 12px;">General<br>Manager of Malaysia</p>
+                        <p style="font-size: 12px;">General Manager of Malaysia</p>
                     </div>
                     <div class="team-social">
                         <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
@@ -455,7 +455,7 @@
                     </div>
                     <div class="team-text">
                         <h2 style="font-size: 18px;">Salman Hafidz</h2>
-                        <p style="font-size: 12px;"> Project<br>Manager</p>
+                        <p style="font-size: 12px;"> Project Manager</p>
                     </div>
                     <div class="team-social">
                         <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
@@ -472,7 +472,7 @@
                     </div>
                     <div class="team-text">
                         <h2 style="font-size: 18px;">Asep Indra Cahyadi</h2>
-                        <p style="font-size: 12px;">Community<br>Manager of Freelancer</p>
+                        <p style="font-size: 12px;">Community Manager of Freelancer</p>
                     </div>
                     <div class="team-social">
                         <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
@@ -488,8 +488,8 @@
                         <img src="picture/team-5.jpg" alt="Team Image">
                     </div>
                     <div class="team-text">
-                        <h2>Mutiara Lestari</h2>
-                        <p>Human Resource<br>Manager</p>
+                        <h2 style="font-size: 18px;">Mutiara Lestari</h2>
+                        <p style="font-size: 12px;">Human Resource Manager</p>
                     </div>
                     <div class="team-social">
                         <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
@@ -506,7 +506,7 @@
                     </div>
                     <div class="team-text">
                         <h2 style="font-size: 18px;">Alifa Kireina Fadhila</h2>
-                        <p style="font-size: 12px;">Community<br>Manager of SME's</p>
+                        <p style="font-size: 12px;">Community Manager of SME's</p>
                     </div>
                     <div class="team-social">
                         <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
@@ -523,7 +523,7 @@
                     </div>
                     <div class="team-text">
                         <h2 style="font-size: 18px;">Beres Hasudungan</h2>
-                        <p style="font-size: 12px;">Human Experience<br>Manager</p>
+                        <p style="font-size: 12px;">Human Experience Manager</p>
                     </div>
                     <div class="team-social">
                         <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
@@ -539,8 +539,8 @@
                         <img src="picture/team-8.jpg" alt="Team Image">
                     </div>
                     <div class="team-text">
-                        <h2>Dede Maulana Priatna</h2>
-                        <p>Product<br>Manager</p>
+                        <h2 style="font-size: 18px;">Dede Maulana Priatna</h2>
+                        <p style="font-size: 12px;">Product Manager</p>
                     </div>
                     <div class="team-social">
                         <a class="social-li" href=""><i class="fab fa-linkedin-in"></i></a>
