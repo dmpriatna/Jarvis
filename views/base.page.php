@@ -100,10 +100,10 @@
 
                     <div class="collapse navbar-collapse justify-content-center" id="navbarCollapse">
                         <div class="navbar-nav">
-                            <a href="/" class="nav-item nav-link active">The Stage</a>
-                            <a href="/story" class="nav-item nav-link">Story</a>
+                            <a href="/" class="nav-item nav-link active" style="font-size: 14px;">The Stage</a>
+                            <a href="/story" class="nav-item nav-link" style="padding: 0px 40px 0px;">Story</a>
                             <div class="nav-item dropdown">
-                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Ecosystems</a>
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" style="padding: 0px 40px 0px;">Ecosystems</a>
                                 <div class="dropdown-menu">
                                     <a href="/project" class="dropdown-item">ParaPrograms</a>
                                     <a href="/project" class="dropdown-item">ParaProjects</a>
