@@ -300,7 +300,7 @@
 <div class="container-fluid bg-testimonial py-5 btl-100" style="margin-top: 160px; height: 460px;">
     <div class="container py-5">
         <div class="row">
-            <div class="col-lg-7 pt-lg-5 pb-5">
+            <div class="col-lg-7 pt-lg-3 pb-5">
                 <h1 class="section-title mb-5" style=" color: var(--color-theme-2); margin-top: 10px; font-size: 32px;"><b>Bagaimana </b>Kesan Mereka?</h1>
                 <div class="owl-carousel testimonial-carousel position-relative">
                     <div class="d-flex flex-column text-white">
