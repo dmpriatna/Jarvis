@@ -192,7 +192,7 @@
                 </div>
                 <div class="col-lg-6 pt-5 pt-lg-0">
                     <div class="owl-carousel service-carousel position-relative">
-                        <div class="d-flex flex-column align-items-center bg-white rounded overflow-hidden pt-4" style="color: var(--color-theme-1);">
+                        <div class="d-flex flex-column align-items-center rounded overflow-hidden pt-4" style="background-color: var(--color-theme-1);">
                             <!-- <div class="icon-box bg-light text-secondary shadow mt-2 mb-4">
                                     <i class="fa fa-2x fa-hotel"></i>
                                 </div> -->
