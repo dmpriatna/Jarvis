@@ -332,11 +332,11 @@
                         <div class="d-flex align-items-center mb-3">
                             <img class="img-fluid" src="picture/testimonial-3.jpg" alt="">
                             <div class="ml-3">
-                                <h5 class="text-white">Tri Ayu Eka</h5>
-                                <i>Madu Bhimaristan, Cimahi.</i>
+                                <h5 class="" style=" color: var(--color-theme-3); font-size: 20px; font-weight: medium; font-family: Lora;">Tri Ayu Eka</h5>
+                                <i style="font-size: 16px;">Madu Bhimaristan, Cimahi.</i>
                             </div>
                         </div>
-                        <p>Materi pendampingan Parakarsa ini mantuuull, banyak materi S2 yang disampaikan disini
+                        <p class="pt-2" style="padding-right: 20px; padding-left: 5px;">Materi pendampingan Parakarsa ini mantuuull, banyak materi S2 yang disampaikan disini
                             dengan cara yang lebih sederhana dan praktis. Jadi ibu - ibu alhamdulillah bersyukur,
                             pak Irfan memahami kita tnggal dapat formula termudah.</p>
                     </div>
