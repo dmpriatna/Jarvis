@@ -90,9 +90,9 @@
         <!-- Top Bar End -->
 
         <!-- Nav Bar Start -->
-        <div class="nav-bar py-3">
+        <div class="nav-bar">
             <div class="container-fluid">
-                <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
+                <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-3">
                     <a href="#" class="navbar-brand">MENU</a>
                     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                         <span class="navbar-toggler-icon"></span>
