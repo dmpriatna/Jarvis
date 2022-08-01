@@ -362,7 +362,7 @@
             <div class="col-lg-4 col-md-12">
                 <div class="feature-item">
                     <div class="feature-text">
-                        <div class="d-flex"><img src="picture/ribbon.svg" alt="ribbon" style="margin-right: 10px; width:52px; height:52px;">
+                        <div class="d-flex"><img src="picture/ribbon.svg" alt="ribbon" style="margin-right: 10px; width:62px; height:62px;">
                             <h3>ParaProven</h3>
                         </div>
                         <p>Program Pendampingan Co-creation UKM yang bertujuan untuk membuktikan Dokumentasi Bisnis.</p>
@@ -376,7 +376,7 @@
             <div class="col-lg-4 col-md-12">
                 <div class="feature-item bc-3">
                     <div class="feature-text">
-                        <div class="d-flex"><img src="picture/people.svg" alt="people" style="margin-right: 10px; width:52px; height:52px;">
+                        <div class="d-flex"><img src="picture/people.svg" alt="people" style="margin-right: 10px; width:62px; height:62px;">
                             <h3>ParaConnect</h3>
                         </div>
                         <p>Program Komunitas UKM & Freelancer yang bertujuan untuk Mengaktivasi dan Meningkatkan Keterlibatan Aktivitas komunitas.</p>
@@ -390,7 +390,7 @@
             <div class="col-lg-4 col-md-12">
                 <div class="feature-item">
                     <div class="feature-text">
-                        <div class="d-flex"><img src="picture/papers.svg" alt="papers" style="margin-right: 10px; width:52px; height:52px;">
+                        <div class="d-flex"><img src="picture/papers.svg" alt="papers" style="margin-right: 10px; width:62px; height:62px;">
                             <h3>ParaBeyond</h3>
                         </div>
                         <p>Program Eskalasi Enterprise & Job Ecosystems yang bertujuan Melampaui Realisasi Sebelumnya.</p>
