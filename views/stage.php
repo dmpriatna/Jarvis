@@ -196,21 +196,21 @@
                             <!-- <div class="icon-box bg-light text-secondary shadow mt-2 mb-4">
                                     <i class="fa fa-2x fa-hotel"></i>
                                 </div> -->
-                            <h5 class="font-weight-regular mb-4 px-4" style="color: var(--color-theme-2); font-family: Lora;">Graduasi Peserta</h5>
+                            <h5 class="font-weight-regular mb-4 px-4" style="color: var(--color-theme-2); font-family: Lora; font-size: 14px;">Graduasi Peserta</h5>
                             <img src="picture/project-1.jpg" alt="">
                         </div>
-                        <div class="d-flex flex-column align-items-center text-center rounded overflow-hidden pt-4">
+                        <div class="d-flex flex-column align-items-center text-center rounded overflow-hidden pt-4" style="background-color: var(--color-theme-1);">
                             <!-- <div class="icon-box bg-light text-secondary shadow mt-2 mb-4">
                                     <i class="fa fa-2x fa-city"></i>
                                 </div> -->
-                            <h5 class="font-weight-regular mb-4 px-4" style="color: var(--color-theme-2); font-family: Lora;">ParaLancer</h5>
+                            <h5 class="font-weight-regular mb-4 px-4" style="color: var(--color-theme-2); font-family: Lora; font-size: 14px;">ParaLancer</h5>
                             <img src="picture/project-2.jpg" alt="">
                         </div>
-                        <div class="d-flex flex-column align-items-center text-center rounded overflow-hidden pt-4">
+                        <div class="d-flex flex-column align-items-center text-center rounded overflow-hidden pt-4" style="background-color: var(--color-theme-1);">
                             <!-- <div class="icon-box bg-light text-secondary shadow mt-2 mb-4">
                                     <i class="fa fa-2x fa-spa"></i>
                                 </div> -->
-                            <h5 class="font-weight-regular mb-4 px-4" style="color: var(--color-theme-2); font-family: Lora;">ParaPartner</h5>
+                            <h5 class="font-weight-regular mb-4 px-4" style="color: var(--color-theme-2); font-family: Lora; font-size: 14px;">ParaPartner</h5>
                             <img src="picture/project-3.jpg" alt="">
                         </div>
                     </div>
