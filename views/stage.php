@@ -305,7 +305,7 @@
                 <div class="owl-carousel testimonial-carousel position-relative">
                     <div class="d-flex flex-column text-white">
                         <div class="d-flex align-items-center mb-3">
-                            <img class="img-fluid" src="picture/testimonial-1.jpeg" alt="">
+                            <img class="img-fluid" src="picture/testimonial-1.jpeg" alt="" style="width: 100%; height: 280px;">
                             <div class="ml-3">
                                 <h5 class="text-white">Rina Mulyani, S.Pd, M.T</h5>
                                 <i>Kabid. UMKM DISDAGKOPERIN Kota Cimahi</i>
@@ -317,7 +317,7 @@
                     </div>
                     <div class="d-flex flex-column text-white">
                         <div class="d-flex align-items-center mb-3">
-                            <img class="img-fluid" src="picture/testimonial-2.jpg" alt="" style="width: 100%; height: 20px;">
+                            <img class="img-fluid" src="picture/testimonial-2.jpg" alt="">
                             <div class="ml-3">
                                 <h5 class="text-white">Pudji Destari</h5>
                                 <i>Elmanta, Cimahi.</i>
