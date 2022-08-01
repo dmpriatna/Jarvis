@@ -390,7 +390,7 @@
             <div class="col-lg-4 col-md-12">
                 <div class="feature-item">
                     <div class="feature-text">
-                        <div class="d-flex"><img src="picture/papers.svg" alt="papers" style="margin-right: 10px; width:62px; height:62px;">
+                        <div class="d-flex"><img src="picture/papers.svg" alt="papers" style="margin-right: 10px; padding-bottom:10px;width:62px; height:62px;">
                             <h3 style="padding-top: 12px;"><b>Para</b>Beyond</h3>
                         </div>
                         <p>Program Eskalasi Enterprise & Job Ecosystems yang bertujuan Melampaui Realisasi Sebelumnya.</p>
