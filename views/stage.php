@@ -437,8 +437,8 @@
                         <img src="picture/team-2.jpg" alt="Team Image">
                     </div>
                     <div class="team-text">
-                        <h2>Khairul Anuar Ariffin</h2>
-                        <p>General<br>Manager of Malaysia</p>
+                        <h2 style="font-size: 18px;">Khairul Anuar Ariffin</h2>
+                        <p style="font-size: 12px;">General<br>Manager of Malaysia</p>
                     </div>
                     <div class="team-social">
                         <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
@@ -454,8 +454,8 @@
                         <img src="picture/team-3.jpg" alt="Team Image">
                     </div>
                     <div class="team-text">
-                        <h2>Salman Hafidz</h2>
-                        <p>Project<br>Manager</p>
+                        <h2 style="font-size: 18px;">Salman Hafidz</h2>
+                        <p style="font-size: 12px;"> Project<br>Manager</p>
                     </div>
                     <div class="team-social">
                         <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
@@ -471,8 +471,8 @@
                         <img src="picture/team-4.jpg" alt="Team Image">
                     </div>
                     <div class="team-text">
-                        <h2>Asep Indra Cahyadi</h2>
-                        <p>Community<br>Manager of Freelancer</p>
+                        <h2 style="font-size: 18px;">Asep Indra Cahyadi</h2>
+                        <p style="font-size: 12px;">Community<br>Manager of Freelancer</p>
                     </div>
                     <div class="team-social">
                         <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
@@ -505,8 +505,8 @@
                         <img src="picture/team-6.jpg" alt="Team Image">
                     </div>
                     <div class="team-text">
-                        <h2>Alifa Kireina Fadhila</h2>
-                        <p>Community<br>Manager of SME's</p>
+                        <h2 style="font-size: 18px;">Alifa Kireina Fadhila</h2>
+                        <p style="font-size: 12px;">Community<br>Manager of SME's</p>
                     </div>
                     <div class="team-social">
                         <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
@@ -522,8 +522,8 @@
                         <img src="picture/team-7.jpg" alt="Team Image">
                     </div>
                     <div class="team-text">
-                        <h2>Beres Hasudungan</h2>
-                        <p>Human Experience<br>Manager</p>
+                        <h2 style="font-size: 18px;">Beres Hasudungan</h2>
+                        <p style="font-size: 12px;">Human Experience<br>Manager</p>
                     </div>
                     <div class="team-social">
                         <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
