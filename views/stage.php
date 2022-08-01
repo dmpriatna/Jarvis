@@ -307,7 +307,7 @@
                         <div class="d-flex align-items-center mb-3">
                             <img class="img-fluid" src="picture/testimonial-1.jpeg" alt="">
                             <div class="ml-3">
-                                <h5 class="" style=" color: var(--color-theme-3); font-size: 20px;">Rina Mulyani, S.Pd, M.T</h5>
+                                <h5 class="" style=" color: var(--color-theme-3); font-size: 20px; font-weight: medium; font-family: Lora;">Rina Mulyani, S.Pd, M.T</h5>
                                 <i>Kabid. UMKM DISDAGKOPERIN Kota Cimahi</i>
                             </div>
                         </div>
