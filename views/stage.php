@@ -25,7 +25,7 @@
                 <img src="picture/carousel-1.jpg" alt="Carousel Image">
                 <div class="carousel-caption">
                     <h1 class="animated fadeInRight v-line-6" style="font-size: 48px;">Ikat Keberlanjutan dengan Komunitas Co-creation </h1>
-                    <p class="animated fadeInLeft" style="font-size: 20px;">Komunitas yang telah   Dokumentasi Lintas disiplin ilmu untuk UMKM, Freelancer, & Partner Parakarsa </p>
+                    <p class="animated fadeInLeft" style="font-size: 20px; padding-right: 20px;">Komunitas yang telah   Dokumentasi Lintas disiplin ilmu untuk UMKM, Freelancer, & Partner Parakarsa </p>
                     <div style="display: flex; align-items: center;">
                         <a class="btn animated fadeInUp" href="/blank">Join Our Ecosystem</a>
                         <span style="margin-left: 25px;"></span>
