@@ -336,7 +336,7 @@
                                 <i style="font-size: 16px;">Madu Bhimaristan, Cimahi.</i>
                             </div>
                         </div>
-                        <p class="pt-2" style="padding-right: 20px; padding-left: 5px;">Materi pendampingan Parakarsa ini mantuuull, banyak materi S2 yang disampaikan disini
+                        <p class="pt-2" style="padding-right: 30px;">Materi pendampingan Parakarsa ini mantuuull, banyak materi S2 yang disampaikan disini
                             dengan cara yang lebih sederhana dan praktis. Jadi ibu - ibu alhamdulillah bersyukur,
                             pak Irfan memahami kita tnggal dapat formula termudah.</p>
                     </div>
