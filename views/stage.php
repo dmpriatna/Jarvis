@@ -377,7 +377,7 @@
                 <div class="feature-item bc-3">
                     <div class="feature-text">
                         <div class="d-flex"><img src="picture/people.svg" alt="people" style="margin-right: 10px; width:62px; height:62px;">
-                            <h3 style="padding-top: 15px;"><b>Para</b>Connect</h3>
+                            <h3 style="padding-top: 12px;"><b>Para</b>Connect</h3>
                         </div>
                         <p class="pt-4" style="font-size: 16px;">Program Komunitas UKM & Freelancer yang bertujuan untuk Mengaktivasi dan Meningkatkan Keterlibatan Aktivitas komunitas.</p>
                         <br>
