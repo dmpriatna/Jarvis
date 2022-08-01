@@ -363,7 +363,7 @@
                 <div class="feature-item">
                     <div class="feature-text">
                         <div class="d-flex"><img src="picture/ribbon.svg" alt="ribbon" style="margin-right: 10px; width:62px; height:62px;">
-                            <h3 style="padding-top: 10px;">ParaProven</h3>
+                            <h3 style="padding-top: 12px;"><b>Para</b>Proven</h3>
                         </div>
                         <p>Program Pendampingan Co-creation UKM yang bertujuan untuk membuktikan Dokumentasi Bisnis.</p>
                         <br>
@@ -377,7 +377,7 @@
                 <div class="feature-item bc-3">
                     <div class="feature-text">
                         <div class="d-flex"><img src="picture/people.svg" alt="people" style="margin-right: 10px; width:62px; height:62px;">
-                            <h3>ParaConnect</h3>
+                            <h3 style="padding-top: 12px;"><b>Para</b>Connect</h3>
                         </div>
                         <p>Program Komunitas UKM & Freelancer yang bertujuan untuk Mengaktivasi dan Meningkatkan Keterlibatan Aktivitas komunitas.</p>
                         <br>
@@ -391,7 +391,7 @@
                 <div class="feature-item">
                     <div class="feature-text">
                         <div class="d-flex"><img src="picture/papers.svg" alt="papers" style="margin-right: 10px; width:62px; height:62px;">
-                            <h3>ParaBeyond</h3>
+                            <h3 style="padding-top: 12px;"><b>Para</b>Beyond</h3>
                         </div>
                         <p>Program Eskalasi Enterprise & Job Ecosystems yang bertujuan Melampaui Realisasi Sebelumnya.</p>
                         <br>
