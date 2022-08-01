@@ -37,8 +37,8 @@
             <div class="carousel-item">
                 <img src="picture/carousel-3.jpg" alt="Carousel Image">
                 <div class="carousel-caption">
-                    <h1 class="animated fadeInRight v-line-6" style="font-size: 48px;">Wujudkan Program Anda dengan Eskalasi Co-creation. </h1>
-                    <p class="animated fadeInLeft" style="font-size: 20px;">Eskalasi Kerjasama Program terkait Kewirausahaan dan persiapan kerja untuk melampui reaslisasi sebelumnya. </p>
+                    <h1 class="animated fadeInRight v-line-6" style="font-size: 40px; padding-left: 20px;">Wujudkan Program Anda dengan Eskalasi Co-creation. </h1>
+                    <p class="animated fadeInLeft" style="font-size: 16px; margin-right: 200px;">Eskalasi Kerjasama Program terkait Kewirausahaan dan persiapan kerja untuk melampui reaslisasi sebelumnya. </p>
                     <div style="display: flex; align-items: center;">
                         <a class="btn animated fadeInUp" href="/blank">Join Our Ecosystem</a>
                         <span style="margin-left: 25px;"></span>
