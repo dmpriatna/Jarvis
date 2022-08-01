@@ -10,7 +10,7 @@
             <div class="carousel-item active">
                 <img src="picture/carousel-2.jpg" alt="Carousel Image">
                 <div class="carousel-caption">
-                    <h1 class="animated fadeInRight v-line-6 c-2" style="font-size: 48px;">Raih Keuntungan dengan Pendampingan Co-creation</h1>
+                    <h1 class="animated fadeInRight v-line-6 c-2" style="font-size: 40px;">Raih Keuntungan dengan Pendampingan Co-creation</h1>
                     <p class="animated fadeInLeft" style="font-size: 20px; margin-right: 200px;">Pendampingan  Dokumentasi Lintas disiplin
                          ilmu untuk mengembangkan, memperbaiki, & Menumbuhkan Bisnis UMKM.</p>
                     <div style="display: flex; align-items: center;">
