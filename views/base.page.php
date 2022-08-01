@@ -90,7 +90,7 @@
         <!-- Top Bar End -->
 
         <!-- Nav Bar Start -->
-        <div class="nav-bar">
+        <div class="nav-bar py-3">
             <div class="container-fluid">
                 <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
                     <a href="#" class="navbar-brand">MENU</a>
@@ -99,7 +99,7 @@
                     </button>
 
                     <div class="collapse navbar-collapse justify-content-center" id="navbarCollapse">
-                        <div class="navbar-nav" style="heigth: 40px;">
+                        <div class="navbar-nav">
                             <a href="/" class="nav-item nav-link active" style="font-size: 12px;">The Stage</a>
                             <a href="/story" class="nav-item nav-link" style="padding-left: 40px; font-size: 12px;">Story</a>
                             <div class="nav-item dropdown">
