@@ -66,7 +66,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-7 d-none d-lg-block">
+                    <div class="col-lg-4 col-md-7 d-none d-lg-block">
                         <div class="line-3 c-1 bc-1"></div>
                         <div class="row no-gutters" style="margin: 10px 0;">
                             <div class="col">
