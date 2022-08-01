@@ -408,7 +408,7 @@
 
 
 <!-- Team Start -->
-<div class="team bc-2">
+<div class="team bc-2 pt-5">
     <div class="container">
         <div class="section-header text-center">
             <h2><b>The Actor </b>Behind Parakarsa</h2>
