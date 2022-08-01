@@ -188,7 +188,7 @@
                     <h1 class="mb-4 section-title font-weight-bold" style="color: var(--color-theme-3);">Natar (Para Proven)</h1>
                     <p class="" style="color: var(--color-theme-2);">Projek membuat Dokumentasi Bisnis yang bisa diikuti dari tingkatan UMKM Beginner, Intermidiate,
                          & Advance untuk membuktikan bisnisnya dalam keperluan pitching hingga mendapatakan pendanaan.</p>
-                    <a href="/more" class="btn invert mt-3 py-2 px-4" style="font-size: 16px; font-family: Modeco Trial; height: 60px; background-color: var(--color-theme-1);color: var(--color-theme-2); text-align: middle;">Lebih Banyak Project</a> 
+                    <a href="/more" class="btn invert mt-3 py-2 px-4" style="font-size: 16px; font-family: Modeco Trial; height: 60px; background-color: var(--color-theme-1);color: var(--color-theme-2); text-align: center;">Lebih Banyak Project</a> 
                 </div>
                 <div class="col-lg-6 pt-5 pt-lg-0">
                     <div class="owl-carousel service-carousel position-relative">
