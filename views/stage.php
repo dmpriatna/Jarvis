@@ -40,9 +40,9 @@
                     <h1 class="animated fadeInRight v-line-6" style="font-size: 40px; padding-left: 20px;">Wujudkan Program Anda dengan Eskalasi Co-creation. </h1>
                     <p class="animated fadeInLeft" style="font-size: 16px; margin-right: 200px;">Eskalasi Kerjasama Program terkait Kewirausahaan dan persiapan kerja untuk melampui reaslisasi sebelumnya. </p>
                     <div style="display: flex; align-items: center;">
-                        <a class="btn animated fadeInUp" href="/blank">Join Our Ecosystem</a>
+                        <a class="btn animated fadeInUp" href="/blank" style="font-size: 14px; margin-top: 40px; width: 250px; height: 55px;">Join Our Ecosystem</a>
                         <span style="margin-left: 25px;"></span>
-                        <h6 class="c-2">#TerusBerdampingan bersama Parakarsa</h6>
+                        <h6 class="c-2 animated fadeInUp" style="margin-top: 50px;">#TerusBerdampingan bersama Parakarsa</h6>
                     </div>
                 </div>
             </div>
