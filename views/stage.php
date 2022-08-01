@@ -411,9 +411,9 @@
 <div class="team bc-2">
     <div class="container" >
         <div class="section-header text-center">
-            <h2 style="margin-top: 80px;"><b>The Actor </b>Behind Parakarsa</h2>
+            <h2 style="margin-top: 100px;"><b>The Actor </b>Behind Parakarsa</h2>
         </div>
-        <div class="owl-carousel row team-carousel" style="padding-top: 40px;">
+        <div class="owl-carousel row team-carousel" style="padding-top: 20px;">
             <div class="col-md-12 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="team-item">
                     <div class="team-img">
