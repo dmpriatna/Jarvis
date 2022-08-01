@@ -367,7 +367,7 @@
                         </div>
                         <p class="pt-4" style="font-size: 16px;">Program Pendampingan Co-creation UKM yang bertujuan untuk membuktikan Dokumentasi Bisnis.</p>
                         <br>
-                        <p style="font-size: 14px; padding-top: 15px;">#TerusBerdampingan bersama Parakarsa</p>
+                        <p style="font-size: 14px; padding-top: 17px;">#TerusBerdampingan bersama Parakarsa</p>
                         <br>
                         <div class="btn invert">Join Now</div>
                     </div>
@@ -395,7 +395,7 @@
                         </div>
                         <p class="pt-3" style="font-size: 16px;">Program Eskalasi Enterprise & Job Ecosystems yang bertujuan Melampaui Realisasi Sebelumnya.</p>
                         <br>
-                        <p style="font-size: 14px; padding-top: 15px;">#TerusBerdampingan bersama Parakarsa</p>
+                        <p style="font-size: 14px; padding-top: 17px;">#TerusBerdampingan bersama Parakarsa</p>
                         <br>
                         <div class="btn invert">Join Now</div>
                     </div>
