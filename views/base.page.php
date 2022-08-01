@@ -66,7 +66,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 d-none d-lg-block">
+                    <div class="col-lg-4 col-md-7 d-none d-lg-block">
                         <div class="line-3 c-1 bc-1"></div>
                         <div class="row no-gutters" style="margin: 10px 0;">
                             <div class="col">
@@ -74,7 +74,7 @@
                                     <img src="picture/location-1.svg" alt="">
                                     <div class="top-bar-text">
                                         <h3>Approach Us</h3>
-                                        <p style="font-size: 14px;">co-creation@parakarsa.com</p>
+                                        <p style="font-size: 14px; padding-right: 10px;">co-creation@parakarsa.com</p>
                                     </div>
                                 </div>
                             </div>
