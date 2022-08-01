@@ -79,7 +79,7 @@
                                 </div>
                             </div>
                             <div class="align-middle" style="margin-left: 10px;">
-                                <div class="btn stroke-0 small" style="font-size: 10px; padding: 10px 15px; border: 0.5px; border-color: var(--color-theme-1);">Join Our Ecosystem</div>
+                                <div class="btn stroke-0 small" style="font-size: 10px; padding: 10px 15px; border: 1px; border-color: var(--color-theme-1);">Join Our Ecosystem</div>
                             </div>
                         </div>
                         <div class="line-1 c-1 bc-1"></div>
