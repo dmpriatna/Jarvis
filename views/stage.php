@@ -192,11 +192,11 @@
                 </div>
                 <div class="col-lg-6 pt-5 pt-lg-0">
                     <div class="owl-carousel service-carousel position-relative">
-                        <div class="d-flex flex-column align-items-center text-center bg-white rounded overflow-hidden pt-4">
+                        <div class="d-flex flex-column align-items-center bg-white rounded overflow-hidden pt-4" style="color: var(--color-theme-1);">
                             <!-- <div class="icon-box bg-light text-secondary shadow mt-2 mb-4">
                                     <i class="fa fa-2x fa-hotel"></i>
                                 </div> -->
-                            <h5 class="font-weight-bold mb-4 px-4">Natar</h5>
+                            <h5 class="font-weight-bold mb-4 px-4" style="color: var(--color-theme-2);">Natar</h5>
                             <img src="picture/project-1.jpg" alt="">
                         </div>
                         <div class="d-flex flex-column align-items-center text-center bg-white rounded overflow-hidden pt-4">
