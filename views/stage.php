@@ -27,7 +27,7 @@
                     <h1 class="animated fadeInRight v-line-6" style="font-size: 40px; padding-left: 20px;">Ikat Keberlanjutan dengan Komunitas Co-creation </h1>
                     <p class="animated fadeInLeft" style="font-size: 16px; margin-right: 200px;">Komunitas yang telah   Dokumentasi Lintas disiplin ilmu untuk UMKM, Freelancer, & Partner Parakarsa </p>
                     <div style="display: flex; align-items: center;">
-                        <a class="btn animated fadeInUp" href="/blank" style="font-size: 14px; margin-top: 40px; width: 250px; height: 55px;>Join Our Ecosystem</a>
+                        <a class="btn animated fadeInUp" href="/blank" style="font-size: 14px; margin-top: 40px; width: 250px; height: 55px;">Join Our Ecosystem</a>
                         <span style="margin-left: 25px;"></span>
                         <h6 class="c-2 animated fadeInUp" style="margin-top: 50px;">#TerusBerdampingan bersama Parakarsa</h6>
                     </div>
