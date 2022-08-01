@@ -100,28 +100,28 @@
 
                     <div class="collapse navbar-collapse justify-content-center" id="navbarCollapse">
                         <div class="navbar-nav">
-                            <a href="/" class="nav-item nav-link active" style="font-size: 14px;">The Stage</a>
-                            <a href="/story" class="nav-item nav-link" style="padding-left: 40px;">Story</a>
+                            <a href="/" class="nav-item nav-link active" style="font-size: 12px;">The Stage</a>
+                            <a href="/story" class="nav-item nav-link" style="padding-left: 40px; font-size: 12px;">Story</a>
                             <div class="nav-item dropdown">
-                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" style="padding-left: 40px;">Ecosystems</a>
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" style="padding-left: 40px; font-size: 12px;">Ecosystems</a>
                                 <div class="dropdown-menu">
                                     <a href="/project" class="dropdown-item">ParaPrograms</a>
                                     <a href="/project" class="dropdown-item">ParaProjects</a>
                                     <a href="/product" class="dropdown-item">ParaProducts</a>
                                 </div>
                             </div>
-                            <a href="/experience" class="nav-item nav-link" style="padding-left: 40px;">Experience</a>
-                            <a href="/impact" class="nav-item nav-link" style="padding-left: 40px;">Impact</a>
-                            <a href="/actor" class="nav-item nav-link" style="padding-left: 40px;">Actor</a>
+                            <a href="/experience" class="nav-item nav-link" style="padding-left: 40px; font-size: 12px;">Experience</a>
+                            <a href="/impact" class="nav-item nav-link" style="padding-left: 40px; font-size: 12px;">Impact</a>
+                            <a href="/actor" class="nav-item nav-link" style="padding-left: 40px; font-size: 12px;">Actor</a>
                             <div class="nav-item dropdown">
-                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" style="padding-left: 40px;">Community</a>
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" style="padding-left: 40px; font-size: 12px;">Community</a>
                                 <div class="dropdown-menu">
                                     <a href="/community" class="dropdown-item">ParaLancer</a>
                                     <a href="/community" class="dropdown-item">ParaPreneur</a>
                                     <a href="/community" class="dropdown-item">ParaParner</a>
                                 </div>
                             </div>
-                            <a href="/connect" class="nav-item nav-link">Connect</a>
+                            <a href="/connect" class="nav-item nav-link" style="padding-left: 40px; font-size: 12px;">Connect</a>
                         </div>
                     </div>
                 </nav>
