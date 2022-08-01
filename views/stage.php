@@ -411,7 +411,7 @@
 <div class="team bc-2">
     <div class="container">
         <div class="section-header text-center">
-            <h2>The Actor Behind Parakarsa</h2>
+            <h2><b>The Actor </b>Behind Parakarsa</h2>
         </div>
         <div class="owl-carousel row team-carousel">
             <div class="col-md-12 wow fadeInUp" data-wow-delay="0.1s">
@@ -420,8 +420,8 @@
                         <img src="picture/team-1.jpg" alt="Team Image">
                     </div>
                     <div class="team-text">
-                        <h2>Irfan Fakhri Muhammad</h2>
-                        <p>Founder & Chief<br>Executive Officer</p>
+                        <h2 style="font-family: Lora; font-size: 14px;">Irfan Fakhri Muhammad</h2>
+                        <p style="font-size: 10px;">Founder & Chief Executive Officer</p>
                     </div>
                     <div class="team-social">
                         <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
