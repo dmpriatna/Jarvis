@@ -14,7 +14,7 @@
                     <p class="animated fadeInLeft" style="font-size: 20px; margin-right: 200px;">Pendampingan  Dokumentasi Lintas disiplin
                          ilmu untuk mengembangkan, memperbaiki, & Menumbuhkan Bisnis UMKM.</p>
                     <div style="display: flex; align-items: center;">
-                        <a class="btn animated fadeInUp" href="/blank" style="font-size: 14px; margin-top: 40px; width: 200px; height: 60px;">Join Our Ecosystem</a>
+                        <a class="btn animated fadeInUp" href="/blank" style="font-size: 14px; margin-top: 40px; width: 240px; height: 60px;">Join Our Ecosystem</a>
                         <span style="margin-left: 25px;"></span>
                         <h6 class="c-2">#TerusBerdampingan bersama Parakarsa</h6>
                     </div>
