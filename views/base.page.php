@@ -74,7 +74,7 @@
                                     <img src="picture/location-1.svg" alt="">
                                     <div class="top-bar-text">
                                         <h3>Approach Us</h3>
-                                        <p>co-creation@parakarsa.com</p>
+                                        <p style="font-size: 14px;">co-creation@parakarsa.com</p>
                                     </div>
                                 </div>
                             </div>
