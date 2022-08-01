@@ -99,7 +99,7 @@
                     </button>
 
                     <div class="collapse navbar-collapse justify-content-center" id="navbarCollapse">
-                        <div class="navbar-nav">
+                        <div class="navbar-nav" style="heigth: 40px;">
                             <a href="/" class="nav-item nav-link active" style="font-size: 12px;">The Stage</a>
                             <a href="/story" class="nav-item nav-link" style="padding-left: 40px; font-size: 12px;">Story</a>
                             <div class="nav-item dropdown">
