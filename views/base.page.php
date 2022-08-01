@@ -101,20 +101,20 @@
                     <div class="collapse navbar-collapse justify-content-center" id="navbarCollapse">
                         <div class="navbar-nav">
                             <a href="/" class="nav-item nav-link active" style="font-size: 14px;">The Stage</a>
-                            <a href="/story" class="nav-item nav-link" style="padding: 0px 40px 0px;">Story</a>
+                            <a href="/story" class="nav-item nav-link" style="padding-left: 40px;">Story</a>
                             <div class="nav-item dropdown">
-                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" style="padding: 0px 40px 0px;">Ecosystems</a>
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" style="padding-left: 40px;">Ecosystems</a>
                                 <div class="dropdown-menu">
                                     <a href="/project" class="dropdown-item">ParaPrograms</a>
                                     <a href="/project" class="dropdown-item">ParaProjects</a>
                                     <a href="/product" class="dropdown-item">ParaProducts</a>
                                 </div>
                             </div>
-                            <a href="/experience" class="nav-item nav-link">Experience</a>
-                            <a href="/impact" class="nav-item nav-link">Impact</a>
-                            <a href="/actor" class="nav-item nav-link">Actor</a>
+                            <a href="/experience" class="nav-item nav-link" style="padding-left: 40px;">Experience</a>
+                            <a href="/impact" class="nav-item nav-link" style="padding-left: 40px;">Impact</a>
+                            <a href="/actor" class="nav-item nav-link" style="padding-left: 40px;">Actor</a>
                             <div class="nav-item dropdown">
-                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Community</a>
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" style="padding-left: 40px;">Community</a>
                                 <div class="dropdown-menu">
                                     <a href="/community" class="dropdown-item">ParaLancer</a>
                                     <a href="/community" class="dropdown-item">ParaPreneur</a>
