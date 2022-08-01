@@ -302,7 +302,7 @@
         <div class="row">
             <div class="col-lg-7 pt-lg-5 pb-5">
                 <h1 class="section-title mb-5" style=" color: var(--color-theme-2); margin-top: 10px; font-size: 32px;"><b>Bagaimana </b>Kesan Mereka?</h1>
-                <div class="owl-carousel testimonial-carousel position-relative" style="width: 100%; height: 280px;">
+                <div class="owl-carousel testimonial-carousel position-relative">
                     <div class="d-flex flex-column text-white">
                         <div class="d-flex align-items-center mb-3">
                             <img class="img-fluid" src="picture/testimonial-1.jpeg" alt="">
@@ -344,7 +344,7 @@
             </div>
             <div class="col-lg-5" style="min-height: 400px;">
                 <div class="position-relative h-100 rounded overflow-hidden">
-                    <img class="position-absolute w-100 h-100" src="picture/testimonial-0.jpg" style="object-fit: cover;">
+                    <img class="position-absolute w-100 h-100" src="picture/testimonial-0.jpg" style="object-fit: cover; width: 100%; height: 280px;">
                 </div>
             </div>
         </div>
