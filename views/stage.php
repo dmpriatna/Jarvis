@@ -408,8 +408,8 @@
 
 
 <!-- Team Start -->
-<div class="team bc-2 mt-5">
-    <div class="container">
+<div class="team bc-2">
+    <div class="container mt-5">
         <div class="section-header text-center">
             <h2><b>The Actor </b>Behind Parakarsa</h2>
         </div>
