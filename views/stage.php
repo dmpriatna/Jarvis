@@ -15,7 +15,7 @@
                          ilmu untuk mengembangkan, memperbaiki, & Menumbuhkan Bisnis UMKM.</p>
                     <div style="display: flex; align-items: center;">
                         <a class="btn animated fadeInUp" href="/blank" style="font-size: 18px; margin-top: 40px;">Join Our Ecosystem</a>
-                        <span style="margin-left: 25px;"></span>
+                        <span style="margin-left: 25px;">test</span>
                         <h6 class="c-2">#TerusBerdampingan bersama Parakarsa</h6>
                     </div>
                 </div>
