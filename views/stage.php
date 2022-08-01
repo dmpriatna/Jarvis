@@ -302,10 +302,10 @@
         <div class="row">
             <div class="col-lg-7 pt-lg-5 pb-5">
                 <h1 class="section-title mb-5" style=" color: var(--color-theme-2); margin-top: 10px; font-size: 32px;"><b>Bagaimana </b>Kesan Mereka?</h1>
-                <div class="owl-carousel testimonial-carousel position-relative">
+                <div class="owl-carousel testimonial-carousel position-relative" style="width: 100%; height: 280px;">
                     <div class="d-flex flex-column text-white">
                         <div class="d-flex align-items-center mb-3">
-                            <img class="img-fluid" src="picture/testimonial-1.jpeg" alt="" style="width: 100%; height: 280px;">
+                            <img class="img-fluid" src="picture/testimonial-1.jpeg" alt="">
                             <div class="ml-3">
                                 <h5 class="text-white">Rina Mulyani, S.Pd, M.T</h5>
                                 <i>Kabid. UMKM DISDAGKOPERIN Kota Cimahi</i>
