@@ -319,11 +319,11 @@
                         <div class="d-flex align-items-center mb-3">
                             <img class="img-fluid" src="picture/testimonial-2.jpg" alt="">
                             <div class="ml-3">
-                                <h5 class="text-white">Pudji Destari</h5>
-                                <i>Elmanta, Cimahi.</i>
+                                <h5 class="" style=" color: var(--color-theme-3); font-size: 20px; font-weight: medium; font-family: Lora;">Pudji Destari</h5>
+                                <i style="font-size: 16px;">Elmanta, Cimahi.</i>
                             </div>
                         </div>
-                        <p>Kehadiran Teh Ayu sebagai pendamping sangat bermanfaat sekali untuk saya selama
+                        <p class="pt-2" style="padding-right: 20px; padding-left: 5px;">Kehadiran Teh Ayu sebagai pendamping sangat bermanfaat sekali untuk saya selama
                             pelatihan, skill dan kompetensinya cukup baik. Mampu memberikan ide dan masukan juga
                             dari pertama pelatihan sampai pembuatan presentasi bisnis. Pokonya The Best lah Teh
                             Ayu.</p>
