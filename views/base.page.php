@@ -33,7 +33,7 @@
     <div class="wrapper bc-2">
         <!-- Top Bar Start -->
         <div class="top-bar">
-            <div class="container-fluid" style="padding: 25px 0px 25px;">
+            <div class="container-fluid" style="margin: 20px 0px 20px;">
                 <div class="row align-items-center no-gutters">
                     <div class="col-lg-4 col-md-7 d-none d-lg-block">
                         <div class="line-3 c-1 bc-1"></div>
