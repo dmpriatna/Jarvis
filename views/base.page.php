@@ -32,8 +32,8 @@
 <body>
     <div class="wrapper bc-2">
         <!-- Top Bar Start -->
-        <div class="top-bar mt-2">
-            <div class="container-fluid">
+        <div class="top-bar">
+            <div class="container-fluid mt-2">
                 <div class="row align-items-center no-gutters">
                     <div class="col-lg-4 col-md-7 d-none d-lg-block">
                         <div class="line-3 c-1 bc-1"></div>
@@ -90,7 +90,7 @@
         <!-- Top Bar End -->
 
         <!-- Nav Bar Start -->
-        <div class="nav-bar mt-2">
+        <div class="nav-bar">
             <div class="container-fluid">
                 <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-2">
                     <a href="#" class="navbar-brand">MENU</a>
