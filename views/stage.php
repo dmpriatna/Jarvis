@@ -253,42 +253,42 @@
         </div>
         <div class="row">
             <div class="partner col-md-2 col-sm-6">
-                <img src="picture/partner_1.png" alt="" height="50px">
+                <img src="picture/partner_1.png" alt="" height="70px">
             </div>
             <div class="partner col-md-2 col-sm-6">
-                <img src="picture/partner_2.jpg" alt="" height="50px">
+                <img src="picture/partner_2.jpg" alt="" height="70px">
             </div>
             <div class="partner col-md-2 col-sm-6">
-                <img src="picture/partner_3.png" alt="" height="50px">
+                <img src="picture/partner_3.png" alt="" height="70px">
             </div>
             <div class="partner col-md-2 col-sm-6">
-                <img src="picture/partner_4.jpg" alt="" height="50px">
+                <img src="picture/partner_4.jpg" alt="" height="70px">
             </div>
             <div class="partner col-md-2 col-sm-6">
-                <img src="picture/partner_5.png" alt="" height="50px">
+                <img src="picture/partner_5.png" alt="" height="70px">
             </div>
             <div class="partner col-md-2 col-sm-6">
-                <img src="picture/partner_6.jpg" alt="" height="50px">
+                <img src="picture/partner_6.jpg" alt="" height="70px">
             </div>
         </div>
         <div class="row">
             <div class="partner col-md-2 col-sm-6">
-                <img src="picture/partner_7.png" alt="" height="50px">
+                <img src="picture/partner_7.png" alt="" height="70px">
             </div>
             <div class="partner col-md-2 col-sm-6">
-                <img src="picture/partner_8.png" alt="" height="50px">
+                <img src="picture/partner_8.png" alt="" height="70px">
             </div>
             <div class="partner col-md-2 col-sm-6">
-                <img src="picture/partner_9.png" alt="" height="50px">
+                <img src="picture/partner_9.png" alt="" height="70px">
             </div>
             <div class="partner col-md-2 col-sm-6">
-                <img src="picture/partner_10.png" alt="" height="50px">
+                <img src="picture/partner_10.png" alt="" height="70px">
             </div>
             <div class="partner col-md-2 col-sm-6">
-                <img src="picture/partner_11.png" alt="" height="50px">
+                <img src="picture/partner_11.png" alt="" height="70px">
             </div>
             <div class="partner col-md-2 col-sm-6">
-                <img src="picture/partner_12.png" alt="" height="50px">
+                <img src="picture/partner_12.png" alt="" height="70px">
             </div>
         </div>
     </div>
