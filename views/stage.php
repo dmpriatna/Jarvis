@@ -381,7 +381,7 @@
                         </div>
                         <p class="pt-4" style="font-size: 16px;">Program Komunitas UKM & Freelancer yang bertujuan untuk Mengaktivasi dan Meningkatkan Keterlibatan Aktivitas komunitas.</p>
                         <br>
-                        <p style="font-size: 14px; padding-top: 6px;">#TerusBerdampingan bersama Parakarsa</p>
+                        <p style="font-size: 14px; padding-top: 1px;">#TerusBerdampingan bersama Parakarsa</p>
                         <br>
                         <div class="btn normal">Join Now</div>
                     </div>
