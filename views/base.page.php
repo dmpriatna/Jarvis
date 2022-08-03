@@ -138,7 +138,7 @@
                     <div class="col-md-6 col-lg-3">
                         <div class="footer-contact">
                             <h2>Office & Basecamp</h2>
-                            <p style="border-bottom: solid 1px; padding-bottom: 10px; font-size: 14px;"><i class="fa fa-map-marker-alt"></i>Jl. Cigadung Raya Timur No. 35, Cigadung, Kec.
+                            <p style="border-bottom: solid 1px; padding-bottom: 10px; font-size: 14px; padding-right: 50px;"><i class="fa fa-map-marker-alt"></i>Jl. Cigadung Raya Timur No. 35, Cigadung, Kec.
                                 Cibeunying Kaler, Kota Bandung, Jawa Barat, Indonesia 40133</p>
                             <p style="border-bottom: solid 1px; padding-bottom: 10px; font-size: 14px;"><i class="fa fa-map-marker-alt"></i>Jl. Kyai H. Usman Dhomiri No. 48A, Kota Cimahi, Jawa
                                 Barat, Indonesia 40526</p>
@@ -151,9 +151,9 @@
                             <div class="col-6">
                                 <div class="footer-contact">
                                     <h2>Connect Us</h2>
-                                    <p><i class="fa fa-phone-alt"></i>+62 896 1985 5558</p>
-                                    <p><i class="fa fa-envelope"></i>co-creation@parakarsa.com</p>
-                                    <p>Actor of Parakarsa</p>
+                                    <p><i class="fa fa-phone-alt" style="font-size: 14px;"></i>+62 896 1985 5558</p>
+                                    <p><i class="fa fa-envelope style="font-size: 14px;"></i>co-creation@parakarsa.com</p>
+                                    <p style="font-size: 14px;">Actor of Parakarsa</p>
                                 </div>
                             </div>
                             <div class="col-6">
