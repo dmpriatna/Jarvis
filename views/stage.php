@@ -358,8 +358,8 @@
     <div class="container-fluid bc-1">
         <div class="line-1 c-3 bc-3"></div>
         <h1 class="text-center c-2 f-50 py-5" style="font-size: 40px;"><b>Program Unggulan Untuk</b> UMKM Enthusiasm!</h1>
-        <div class="row align-items-center">
         <div class="line-1 c-3 bc-3"></div>
+        <div class="row align-items-center">
             <div class="col-lg-4 col-md-12">
                 <div class="feature-item">
                     <div class="feature-text">
