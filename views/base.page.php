@@ -177,7 +177,7 @@
                                     <h2>Community</h2>
                                     <div class="row">
                                         <div class="col-3">
-                                            <img src="picture/parapreuner.png" alt="" style="width: 100%;">
+                                            <img src="picture/parapreuner.png" alt="" style="width: 100%; border-top-right-radius: 20px;">
                                             <div class="btn-small">ParaPreuner</div>
                                         </div>
                                         <div class="col-3">
