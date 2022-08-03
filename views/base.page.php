@@ -177,19 +177,19 @@
                                     <h2>Community</h2>
                                     <div class="row">
                                         <div class="col-3">
-                                            <img src="picture/parapreuner.png" alt="" style="width: 100%; border-top-right-radius: 20px; height: 68.88px;">
+                                            <img src="picture/parapreuner.png" alt="" style="width: 100%; border-top-right-radius: 20px; height: 68.88px; font-size: 10px;">
                                             <div class="btn-small">ParaPreuner</div>
                                         </div>
                                         <div class="col-3">
-                                            <img src="picture/paralancer.png" alt="" style="width: 100%;">
+                                            <img src="picture/paralancer.png" alt="" style="width: 100%; border-top-right-radius: 20px; height: 68.88px; font-size: 10px;">
                                             <div class="btn-small">ParaLancer</div>
                                         </div>
                                         <div class="col-3">
-                                            <img src="picture/parapartner.png" alt="" style="width: 100%;">
+                                            <img src="picture/parapartner.png" alt="" style="width: 100%; border-top-right-radius: 20px; height: 68.88px; font-size: 10px;">
                                             <div class="btn-small">ParaPartner</div>
                                         </div>
                                         <div class="col-3">
-                                            <img src="picture/parapartner.png" alt="" style="width: 100%;">
+                                            <img src="picture/parapartner.png" alt="" style="width: 100%; border-top-right-radius: 20px; height: 68.88px; font-size: 10px;">
                                             <div class="btn-small">Blog</div>
                                         </div>
                                     </div>
