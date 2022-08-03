@@ -359,11 +359,12 @@
         <div class="line-1 c-3 bc-3"></div>
         <h1 class="text-center c-2 f-50 py-5" style="font-size: 40px;"><b>Program Unggulan Untuk</b> UMKM Enthusiasm!</h1>
         <div class="row align-items-center">
+        <div class="line-1 c-3 bc-3"></div>
             <div class="col-lg-4 col-md-12">
                 <div class="feature-item">
                     <div class="feature-text">
                         <div class="d-flex"><img src="picture/ribbon.svg" alt="ribbon" style="margin-right: 10px; width:62px; height:62px;">
-                            <h3 class="line-1 c-3 bc-3" style="padding-top: 15px;"><b>Para</b>Proven</h3>
+                            <h3 style="padding-top: 15px;"><b>Para</b>Proven</h3>
                         </div>
                         <p class="pt-4" style="font-size: 16px;">Program Pendampingan Co-creation UKM yang bertujuan untuk membuktikan Dokumentasi Bisnis.</p>
                         <br>
