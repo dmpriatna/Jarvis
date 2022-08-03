@@ -177,20 +177,20 @@
                                     <h2>Community</h2>
                                     <div class="row">
                                         <div class="col-3">
-                                            <img src="picture/parapreuner.png" alt="" style="width: 100%; border-top-right-radius: 20px; height: 68.88px; font-size: 10px;">
-                                            <div class="btn-small">ParaPreuner</div>
+                                            <img src="picture/parapreuner.png" alt="" style="width: 100%; border-top-right-radius: 20px; height: 68.88px;">
+                                            <div class="btn-small" style="font-size: 10px;">ParaPreuner</div>
                                         </div>
                                         <div class="col-3">
-                                            <img src="picture/paralancer.png" alt="" style="width: 100%; border-top-right-radius: 20px; height: 68.88px; font-size: 10px;">
-                                            <div class="btn-small">ParaLancer</div>
+                                            <img src="picture/paralancer.png" alt="" style="width: 100%; border-top-right-radius: 20px; height: 68.88px;">
+                                            <div class="btn-small" style="font-size: 10px;">ParaLancer</div>
                                         </div>
                                         <div class="col-3">
-                                            <img src="picture/parapartner.png" alt="" style="width: 100%; border-top-right-radius: 20px; height: 68.88px; font-size: 10px;">
-                                            <div class="btn-small">ParaPartner</div>
+                                            <img src="picture/parapartner.png" alt="" style="width: 100%; border-top-right-radius: 20px; height: 68.88px;">
+                                            <div class="btn-small" style="font-size: 10px;">ParaPartner</div>
                                         </div>
                                         <div class="col-3">
-                                            <img src="picture/parapartner.png" alt="" style="width: 100%; border-top-right-radius: 20px; height: 68.88px; font-size: 10px;">
-                                            <div class="btn-small">Blog</div>
+                                            <img src="picture/parapartner.png" alt="" style="width: 100%; border-top-right-radius: 20px; height: 68.88px;">
+                                            <div class="btn-small" style="font-size: 10px;">Blog</div>
                                         </div>
                                     </div>
                                 </div>
