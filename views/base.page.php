@@ -140,9 +140,9 @@
                             <h2>Office & Basecamp</h2>
                             <p style="border-bottom: solid 1px; padding-bottom: 10px; font-size: 14px; padding-right: 30px;"><i class="fa fa-map-marker-alt"></i>Jl. Cigadung Raya Timur No. 35, Cigadung, Kec.
                                 Cibeunying Kaler, Kota Bandung, Jawa Barat, Indonesia 40133</p>
-                            <p style="border-bottom: solid 1px; padding-bottom: 10px; font-size: 14px;"><i class="fa fa-map-marker-alt"></i>Jl. Kyai H. Usman Dhomiri No. 48A, Kota Cimahi, Jawa
+                            <p style="border-bottom: solid 1px; padding-bottom: 10px; font-size: 14px; padding-right: 30px;"><i class="fa fa-map-marker-alt"></i>Jl. Kyai H. Usman Dhomiri No. 48A, Kota Cimahi, Jawa
                                 Barat, Indonesia 40526</p>
-                            <p style="border-bottom: solid 1px; padding-bottom: 10px; font-size: 14px;"><i class="fa fa-map-marker-alt"></i>Jalan SG 1/3, Taman Industri Bolton, Taman Sri
+                            <p style="border-bottom: solid 1px; padding-bottom: 10px; font-size: 14px; padding-right: 30px;"><i class="fa fa-map-marker-alt"></i>Jalan SG 1/3, Taman Industri Bolton, Taman Sri
                                 Gombak, Selangor, Malaysia 68100</p>
                         </div>
                     </div>
