@@ -152,7 +152,7 @@
                                 <div class="footer-contact">
                                     <h2>Connect Us</h2>
                                     <p><i class="fa fa-phone-alt" style="font-size: 14px;"></i>+62 896 1985 5558</p>
-                                    <p><i class="fa fa-envelope style="font-size: 14px;"></i>co-creation@parakarsa.com</p>
+                                    <p><i class="fa fa-envelope" style="font-size: 14px;"></i>co-creation@parakarsa.com</p>
                                     <p style="font-size: 14px;">Actor of Parakarsa</p>
                                 </div>
                             </div>
@@ -165,7 +165,7 @@
                                         <a href="https://www.linkedin.com/company/parakarsa/" target="_blank" style="text-align: center; padding: 10px 20px;"><img src="picture/linkedin.svg" alt="linkedin"> LinkedIn</a>
                                     </div>
                                     <div class="row">
-                                        <a href="" target="_blank" style="text-align: center; padding: 10px 14px;"><img src="picture/youtube.svg" alt="youtube"> Youtube</a>
+                                        <a href="" target="_blank" style="text-align: center; padding: 10px 16px;"><img src="picture/youtube.svg" alt="youtube"> Youtube</a>
                                         <a href="https://www.facebook.com/Parakarsa-111285798230661" target="_blank"><img src="picture/facebook.svg" alt="facebook"> Facebook</a>
                                     </div>
                                 </div>
