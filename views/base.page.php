@@ -135,7 +135,7 @@
         <div class="footer wow fadeIn" data-wow-delay="0.3s" style="border-top-left-radius: 160px;">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-md-3 col-lg-3">
                         <div class="footer-contact">
                             <h2>Office & Basecamp</h2>
                             <p style="border-bottom: solid 1px; padding-bottom: 10px; font-size: 14px; padding-right: 30px;"><i class="fa fa-map-marker-alt"></i>Jl. Cigadung Raya Timur No. 35, Cigadung, Kec.
