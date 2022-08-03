@@ -166,7 +166,7 @@
                                     </div>
                                     <div class="row">
                                         <a href="" target="_blank" style="text-align: center; padding: 10px 17px;"><img src="picture/youtube.svg" alt="youtube"> Youtube</a>
-                                        <a href="https://www.facebook.com/Parakarsa-111285798230661" target="_blank" style="text-align: center; padding: 10px 24px;"><img src="picture/facebook.svg" alt="facebook"> Facebook</a>
+                                        <a href="https://www.facebook.com/Parakarsa-111285798230661" target="_blank" style="text-align: center; padding: 10px 22px;"><img src="picture/facebook.svg" alt="facebook"> Facebook</a>
                                     </div>
                                 </div>
                             </div>
