@@ -162,7 +162,7 @@
                                     <div class="row">
                                         <a href="https://www.tiktok.com/@parakarsa" target="_blank" style="padding: 10px 24px; text-align: center;"><img src="picture/tiktok.svg" alt="tiktok"> Tiktok</a>
                                         <a href="https://www.instagram.com/parakarsa_/" target="_blank" style="text-align: center; padding: 10px 20px;"><img src="picture/instagram.svg" alt="instagram"> Instagram</a>
-                                        <a href="https://www.linkedin.com/company/parakarsa/" target="_blank" style="text-align: center; padding: 10px 20px;"><img src="picture/linkedin.svg" alt="linkedin"> LinkedIn</a>
+                                        <a href="https://www.linkedin.com/company/parakarsa/" target="_blank" style="text-align: center; padding: 10px 22px;"><img src="picture/linkedin.svg" alt="linkedin"> LinkedIn</a>
                                     </div>
                                     <div class="row">
                                         <a href="" target="_blank" style="text-align: center; padding: 10px 17px;"><img src="picture/youtube.svg" alt="youtube"> Youtube</a>
