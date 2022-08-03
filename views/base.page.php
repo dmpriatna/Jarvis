@@ -148,7 +148,7 @@
                     </div>
                     <div class="col">
                         <div class="row">
-                            <div class="col-3">
+                            <div class="col-6">
                                 <div class="footer-contact">
                                     <h2>Connect Us</h2>
                                     <p><i class="fa fa-phone-alt" style="font-size: 14px;"></i>+62 896 1985 5558</p>
