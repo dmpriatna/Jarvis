@@ -138,11 +138,11 @@
                     <div class="col-md-6 col-lg-3">
                         <div class="footer-contact">
                             <h2>Office & Basecamp</h2>
-                            <p style="left: 0; width: 70%; bottom: 0; border-bottom: solid 1px;  content: ''; padding-bottom: 10px; font-size: 14px;"><i class="fa fa-map-marker-alt"></i>Jl. Cigadung Raya Timur No. 35, Cigadung, Kec.
+                            <p style="left: 0; width: 85%; bottom: 0; border-bottom: solid 1px;  content: ''; padding-bottom: 10px; font-size: 14px;"><i class="fa fa-map-marker-alt"></i>Jl. Cigadung Raya Timur No. 35, Cigadung, Kec.
                                 Cibeunying Kaler, Kota Bandung, Jawa Barat, Indonesia 40133</p>
-                            <p style="left: 0; width: 70%; bottom: 0; border-bottom: solid 1px;  content: ''; padding-bottom: 10px; font-size: 14px;"><i class="fa fa-map-marker-alt"></i>Jl. Kyai H. Usman Dhomiri No. 48A, Kota Cimahi, Jawa
+                            <p style="left: 0; width: 85%; bottom: 0; border-bottom: solid 1px;  content: ''; padding-bottom: 10px; font-size: 14px;"><i class="fa fa-map-marker-alt"></i>Jl. Kyai H. Usman Dhomiri No. 48A, Kota Cimahi, Jawa
                                 Barat, Indonesia 40526</p>
-                            <p style="left: 0; width: 70%; bottom: 0; border-bottom: solid 1px;  content: ''; padding-bottom: 10px; font-size: 14px;"><i class="fa fa-map-marker-alt"></i>Jalan SG 1/3, Taman Industri Bolton, Taman Sri
+                            <p style="left: 0; width: 85%; bottom: 0; border-bottom: solid 1px;  content: ''; padding-bottom: 10px; font-size: 14px;"><i class="fa fa-map-marker-alt"></i>Jalan SG 1/3, Taman Industri Bolton, Taman Sri
                                 Gombak, Selangor, Malaysia 68100</p>
                         </div>
                     </div>
