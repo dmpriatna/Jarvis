@@ -160,7 +160,7 @@
                                 <div class="footer-channel">
                                     <h2>Channel</h2>
                                     <div class="row">
-                                        <a href="https://www.tiktok.com/@parakarsa" target="_blank" style="padding: 8px 24px; text-align: center; font-size: 12px;"><img src="picture/tiktok.svg" alt="tiktok"> Tiktok</a>
+                                        <a href="https://www.tiktok.com/@parakarsa" target="_blank" style="padding: 28px 24px; text-align: center; font-size: 12px;"><img src="picture/tiktok.svg" alt="tiktok"> Tiktok</a>
                                         <a href="https://www.instagram.com/parakarsa_/" target="_blank"><img src="picture/instagram.svg" alt="instagram"> Instagram</a>
                                         <a href="https://www.linkedin.com/company/parakarsa/" target="_blank"><img src="picture/linkedin.svg" alt="linkedin"> LinkedIn</a>
                                     </div>
