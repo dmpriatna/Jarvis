@@ -578,21 +578,6 @@ a:focus {
     z-index: 3;
 }
 
-/*** Hover BG -Rafi ***/
-
-.hbg{
-        background-color: black;
-        min-height: 250px;
-        padding: 30px 15px;
-        display: flex;
-        align-items: center;
-        justify-content: flex-start;
-    }
-.hbg:hover{
-    background-color: var(--color-theme-2);
-}
-
-/*** Hover BG Ends ***/
 
 .feature .feature-text {
     padding-left: 30px;
