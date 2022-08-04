@@ -519,11 +519,6 @@ a:focus {
 .feature .col-md-12 {
     background: var(--color-theme-1);
 }
-/** Add **/
-.feature .col-md-12:hover {
-    background: var(--color-theme-2);
-}
-/** Add Ends**/
 
 
 .feature .col-md-12:nth-child(2n) {
