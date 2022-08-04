@@ -578,6 +578,17 @@ a:focus {
     z-index: 3;
 }
 
+/*** Hover BG -Rafi ***/
+
+.hbg{
+    background-color: var(--color-theme-1);
+}
+.hbg:hover{
+    background-color: var(--color-theme-2);
+}
+
+/*** Hover BG Ends ***/
+
 .feature .feature-text {
     padding-left: 30px;
 }
