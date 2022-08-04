@@ -581,7 +581,7 @@ a:focus {
 /*** Hover BG -Rafi ***/
 
 .hbg{
-        background-color: var(--color-theme-1);
+        background-color: black;
         min-height: 250px;
         padding: 30px 15px;
         display: flex;
