@@ -356,7 +356,7 @@
 <!-- Feature Start-->
 <div class="feature wow fadeInUp" data-wow-delay="0.1s">
     <div class="container-fluid bc-1">
-    <div class="c-3 bc-3" style="width: auto; left: 0; border-style: solid; border-color: inherit;"></div>
+    <div class="c-3 bc-3" style="width: 1366px; left: 0; border-style: solid; border-color: inherit;"></div>
         <h1 class="text-center c-2 f-50 py-5" style="font-size: 40px;"><b>Program Unggulan Untuk</b> UMKM Enthusiasm!</h1>
         <div class="line-1 c-3 bc-3"></div>
         <div class="row align-items-center">
