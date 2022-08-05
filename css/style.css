@@ -535,9 +535,22 @@ a:focus {
     background-color: var(--color-theme-3);
 }
 
-.feature .feature-item:hover {
-   background-color: var(--color-theme-3);
+/*** Add ***/
+
+.hbg {
+    min-height: 250px;
+    padding: 30px 15px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: var(--color-theme-3);
 }
+
+.hbg:hover{
+    background-color: var(--color-theme-1);
+}
+
+/*** Add Ends ***/
 
 
 
