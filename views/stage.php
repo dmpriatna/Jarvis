@@ -396,7 +396,7 @@
                         </div>
                         <p class="pt-3" style="font-size: 16px;">Program Eskalasi Enterprise & Job Ecosystems yang bertujuan Melampaui Realisasi Sebelumnya.</p>
                         <br>
-                        <p style="font-size: 14px; padding-top: 30px;">#TerusBerdampingan bersama Parakarsa</p>
+                        <p style="font-size: 14px; padding-top: 40px;">#TerusBerdampingan bersama Parakarsa</p>
                         <br>
                         <div class="btn invert">Join Now</div>
                     </div>
