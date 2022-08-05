@@ -532,7 +532,7 @@ a:focus {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    background-color: var(--color-theme-1);
+    background-color: var(--color-theme-3);
 }
 
 .feature .feature-item:hover {
