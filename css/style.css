@@ -106,8 +106,9 @@ a:focus {
 }
 
 .top-bar .logo img {
+    display: block;
     max-width: 100%;
-    position: absolute;
+    position: relative;
     height: auto;
     top: -50px;
     width: 250px;
