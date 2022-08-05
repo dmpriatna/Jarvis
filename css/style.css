@@ -605,6 +605,16 @@ a:focus {
     font-weight: 400;
 }
 
+.feature .one:hover {
+    background-color: var(--color-theme-3);
+    color: var(--color-theme-1);
+}
+
+.feature .three:hover {
+    background-color: var(--color-theme-1);
+    color: var(--color-theme-3);
+}
+
 .feature .col-md-12:nth-child(2n) [class^="flaticon-"]::before,
 .feature .col-md-12:nth-child(2n) h3,
 .feature .col-md-12:nth-child(2n) p {

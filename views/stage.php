@@ -401,7 +401,7 @@
         <h1 class="text-center c-2 f-50 py-5" style="font-size: 40px;"><b>Program Unggulan Untuk</b> UMKM Enthusiasm!</h1>
         <div class="line-1 c-3 bc-3"></div>
         <div class="row align-items-center">
-            <div class="col-lg-4 col-md-12">
+            <div class="col-lg-4 col-md-12 one">
                 <div class="">
                     <div class="feature-text">
                         <div class="d-flex"><img src="picture/ribbon.svg" alt="ribbon" style="margin-right: 10px; width:62px; height:62px;">
@@ -415,7 +415,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-12">
+            <div class="col-lg-4 col-md-12 three">
                 <div class="feature-item bc-3">
                     <div class="feature-text">
                         <div class="d-flex"><img src="picture/people.svg" alt="people" style="margin-right: 10px; width:62px; height:62px;">
@@ -429,7 +429,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-12 bc-1">
+            <div class="col-lg-4 col-md-12 bc-1 one">
                 <div class="">
                     <div class="feature-text">
                         <div class="d-flex"><img src="picture/papers.svg" alt="papers" style="margin-right: 10px; padding-bottom:20px;width:62px; height:62px;">
