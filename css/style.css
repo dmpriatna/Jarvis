@@ -110,6 +110,7 @@ a:focus {
     position: absolute;
     top: -50px;
     height: 300px;
+    width: 104px;
 }
 
 .top-bar .top-bar-item {
