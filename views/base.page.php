@@ -62,7 +62,7 @@
                     <div class="col-lg-4 col-md-12">
                         <div class="logo">
                             <a href="/">
-                                <img src="picture/relogo.png" alt="Logo">
+                                <img src="picture/logo.png" alt="Logo">
                             </a>
                         </div>
                     </div>
