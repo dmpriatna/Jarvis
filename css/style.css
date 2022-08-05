@@ -109,6 +109,7 @@ a:focus {
     display: block;
     max-height: 100%;
     height: 300px;
+    weight: 104px;
 }
 
 .top-bar .top-bar-item {
