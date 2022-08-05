@@ -534,6 +534,12 @@ a:focus {
     justify-content: flex-start;
 }
 
+.feature .feature-item:hover {
+   background-color: var(--color-theme-3);
+}
+
+
+
 .feature .feature-icon {
     position: relative;
     width: 60px;
