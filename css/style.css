@@ -110,7 +110,7 @@ a:focus {
     max-width: 100%;
     position: relative;
     height: auto;
-    top: -50px;
+    top: auto;
     width: 250px;
     margin: auto;
 }
