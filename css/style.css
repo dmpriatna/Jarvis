@@ -87,7 +87,7 @@ a:focus {
 /**********************************/
 .top-bar {
     position: relative;
-    height: 90px;
+    height: 200px;
     background: var(--color-theme-2);
 }
 
