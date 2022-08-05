@@ -62,7 +62,7 @@
                     <div class="col-lg-4 col-md-12">
                         <div class="logo">
                             <a href="/">
-                                <img src="picture/logo.png" alt="Logo" style="height: 100px; weight: 50px;">
+                                <img src="picture/logo.png" alt="Logo" style="height: 500px; weight: 50px;">
                             </a>
                         </div>
                     </div>
