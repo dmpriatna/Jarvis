@@ -111,6 +111,8 @@ a:focus {
     top: -50px;
     height: auto;
     width: 200px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .top-bar .top-bar-item {
