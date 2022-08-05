@@ -105,10 +105,6 @@ a:focus {
     font-weight: 700;
 }
 
-.top-bar .logo img {
-    
-}
-
 .top-bar .top-bar-item {
     display: flex;
     align-items: center;
