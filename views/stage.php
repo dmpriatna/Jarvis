@@ -389,7 +389,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-12">
-                <div class="feature-item">
+                <div class="feature-item bc-1">
                     <div class="feature-text">
                         <div class="d-flex"><img src="picture/papers.svg" alt="papers" style="margin-right: 10px; padding-bottom:20px;width:62px; height:62px;">
                             <h3 style="padding-top: 8px;"><b>Para</b>Beyond</h3>
