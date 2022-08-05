@@ -361,7 +361,7 @@
         <div class="line-1 c-3 bc-3"></div>
         <div class="row align-items-center">
             <div class="col-lg-4 col-md-12">
-                <div class="feature-item">
+                <div class="">
                     <div class="feature-text">
                         <div class="d-flex"><img src="picture/ribbon.svg" alt="ribbon" style="margin-right: 10px; width:62px; height:62px;">
                             <h3 style="padding-top: 15px;"><b>Para</b>Proven</h3>
@@ -389,7 +389,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-12 bc-1">
-                <div class="feature-item">
+                <div class="">
                     <div class="feature-text">
                         <div class="d-flex"><img src="picture/papers.svg" alt="papers" style="margin-right: 10px; padding-bottom:20px;width:62px; height:62px;">
                             <h3 style="padding-top: 8px;"><b>Para</b>Beyond</h3>
