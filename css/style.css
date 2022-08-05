@@ -102,12 +102,12 @@ a:focus {
     color: var(--color-theme-1);
     font-size: 60px;
     line-height: 60px;
-    font-weight: 700px;
+    font-weight: 700;
 }
 
 .top-bar .logo img {
-    max-width: 104px;
-    max-height: 300px;
+    max-width: 100%;
+    max-height: 60px;
 }
 
 .top-bar .top-bar-item {
