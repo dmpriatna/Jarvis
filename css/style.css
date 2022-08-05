@@ -106,10 +106,9 @@ a:focus {
 }
 
 .top-bar .logo img {
+    width: 100%;
+    height: auto;
     display: block;
-    max-height: 100%;
-    height: 300px;
-    weight: 104px;
 }
 
 .top-bar .top-bar-item {
