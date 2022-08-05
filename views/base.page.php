@@ -32,7 +32,7 @@
 <body>
     <div class="wrapper bc-2">
         <!-- Top Bar Start -->
-        <div class="top-bar" style="margin: 20px 0px 20px;
+        <div class="top-bar" style="margin: 20px 0px 20px;">
             <div class="container-fluid">
                 <div class="row align-items-center no-gutters">
                     <div class="col-lg-4 col-md-7 d-none d-lg-block">
@@ -69,7 +69,7 @@
                     <div class="col-lg-4 col-md-7 d-none d-lg-block">
                         <div class="line-3 c-1 bc-1"></div>
                         <div class="row no-gutters" style="margin: 10px 0;">
-                            <div class="col">
+                            <div class="col-6">
                                 <div class="top-bar-item">
                                     <img src="picture/location-1.svg" alt="">
                                     <div class="top-bar-text">
@@ -78,8 +78,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="align-middle" style="margin-left: 10px;">
-                                <div class="btn stroke-0 small" style="font-size: 12px; padding: 10px 15px; border-color: var(--color-theme-1); color: var(--color-theme-1); font-family: Modeco Trial;">Join Our Ecosystem</div>
+                            <div class="col-6">
+                                <div class="align-middle" style="margin-left: 10px;">
+                                    <div class="btn stroke-0 small" style="font-size: 12px; padding: 10px 15px; border-color: var(--color-theme-1); color: var(--color-theme-1); font-family: Modeco Trial;">Join Our Ecosystem</div>
+                                </div>
                             </div>
                         </div>
                         <div class="line-1 c-1 bc-1"></div>

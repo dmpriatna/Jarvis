@@ -11,8 +11,8 @@
                 <img src="picture/carousel-2.jpg" alt="Carousel Image">
                 <div class="carousel-caption">
                     <h1 class="animated fadeInRight v-line-6 c-2" style="font-size: 40px; padding-left: 20px;">Raih Keuntungan dengan Pendampingan Co-creation</h1>
-                    <p class="animated fadeInLeft" style="font-size: 16px; margin-right: 320px;">Pendampingan  Dokumentasi Lintas disiplin
-                         ilmu untuk mengembangkan, memperbaiki, & Menumbuhkan Bisnis UMKM.</p>
+                    <p class="animated fadeInLeft" style="font-size: 16px; margin-right: 320px;">Pendampingan Dokumentasi Lintas disiplin
+                        ilmu untuk mengembangkan, memperbaiki, & Menumbuhkan Bisnis UMKM.</p>
                     <div style="display: flex; align-items: center;">
                         <a class="btn animated fadeInUp" href="/blank" style="font-size: 14px; margin-top: 40px; width: 250px; height: 55px;">Join Our Ecosystem</a>
                         <span style="margin-left: 25px;"></span>
@@ -25,7 +25,7 @@
                 <img src="picture/carousel-1.jpg" alt="Carousel Image">
                 <div class="carousel-caption">
                     <h1 class="animated fadeInRight v-line-6" style="font-size: 40px; padding-left: 20px;">Ikat Keberlanjutan dengan Komunitas Co-creation </h1>
-                    <p class="animated fadeInLeft" style="font-size: 16px; margin-right: 200px;">Komunitas yang telah   Dokumentasi Lintas disiplin ilmu untuk UMKM, Freelancer, & Partner Parakarsa </p>
+                    <p class="animated fadeInLeft" style="font-size: 16px; margin-right: 200px;">Komunitas yang telah Dokumentasi Lintas disiplin ilmu untuk UMKM, Freelancer, & Partner Parakarsa </p>
                     <div style="display: flex; align-items: center;">
                         <a class="btn animated fadeInUp" href="/blank" style="font-size: 14px; margin-top: 40px; width: 250px; height: 55px;">Join Our Ecosystem</a>
                         <span style="margin-left: 25px;"></span>
@@ -87,10 +87,9 @@
                         <div class="line-1 c-3 bc-3" style="margin-top: 80px;"></div>
                     </div>
                 </div>
-                    <div class="col-lg-7 col-md-12 brl-100" style="margin-left: -50px;">
+                <div class="col-lg-7 col-md-12 brl-100">
                     <h3 style="position: absolute; padding-left: 70px; padding-top: 96px; padding-right: 140px; font-weight: bold; font-size: 35px;">Parakarsa Siap Membuktikan Solusi Pendampingan Terbaik</h3>
-                    <img src="picture/section-2.png" alt="section-2" style="border-bottom-left-radius: 100px; height: 100%; width: 776px; margin-left: 23px;">
-                    
+                    <img src="picture/section-2.png" alt="section-2" style="border-bottom-left-radius: 100px; width: calc(100% + 60px); margin-left: -50px;">
                 </div>
             </div>
         </div>
@@ -184,11 +183,51 @@
         <div class="container py-5">
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <h6 class="text-secondary font-weight-semi-bold text-uppercase mb-3">Projek kami membuat produk dokumentasi</h6>
-                    <h1 class="mb-4 section-title font-weight-bold" style="color: var(--color-theme-3);">Natar (Para Proven)</h1>
-                    <p class="" style="color: var(--color-theme-2);">Projek membuat Dokumentasi Bisnis yang bisa diikuti dari tingkatan UMKM Beginner, Intermidiate,
-                         & Advance untuk membuktikan bisnisnya dalam keperluan pitching hingga mendapatakan pendanaan.</p>
-                    <a href="/more" class="btn invert mt-3 py-2 px-4" style="font-size: 16px; font-weight: regular; font-family: Lora; height: 40px; background-color: var(--color-theme-1);color: var(--color-theme-2); text-align: center;">Lebih Banyak Project</a> 
+                    <h6 class="font-weight-semi-bold c-2">Projek kami membuat produk dokumentasi</h6>
+                    <div id="scene">
+                        <div id="left-zone">
+                            <ul class="list">
+                                <li class="item">
+                                    <input type="radio" id="strawberry" name="basic_carousel" value="strawberry" checked="checked" />
+                                    <label class="label_strawberry" for="strawberry"></label>
+                                    <div class="content content_strawberry">
+                                        <h1 class="mb-4 section-title font-weight-bold">Natar <span>(Para Proven)</span></h1>
+                                        <p>Projek membuat Dokumentasi Bisnis yang bisa diikuti dari tingkatan UMKM Beginner, Intermidiate,
+                                            & Advance untuk membuktikan bisnisnya dalam keperluan pitching hingga mendapatakan pendanaan.</p>
+                                        <a href="/blank" class="btn invert mt-3 py-2 px-4" style="font-size: 16px; font-weight: regular; font-family: Lora; height: 40px; background-color: var(--color-theme-1);color: var(--color-theme-2); text-align: center;">Lebih Banyak Project</a>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <input type="radio" id="banana" name="basic_carousel" value="banana" />
+                                    <label class="label_banana" for="banana"></label>
+                                    <div class="content content_banana">
+                                        <h1 class="mb-4 section-title font-weight-bold">Temurancang <span>(ParaProven)</span></h1>
+                                        <p>Projek membuat Dokumentasi Bisnis yang bisa diikuti dari tingkatan UMKM Beginner, Intermidiate, & Advance untuk membuktikan bisnisnya dalam keperluan pitching hingga mendapatakan pendanaan.</p>
+                                        <a href="/blank" class="btn invert mt-3 py-2 px-4" style="font-size: 16px; font-weight: regular; font-family: Lora; height: 40px; background-color: var(--color-theme-1);color: var(--color-theme-2); text-align: center;">Lebih Banyak Project</a>
+                                    </div>
+                                </li>
+                                <li class="item">
+                                    <input type="radio" id="apple" name="basic_carousel" value="apple" />
+                                    <label class="label_apple" for="apple"></label>
+                                    <div class="content content_apple">
+                                        <h1 class="mb-4 section-title font-weight-bold">Kartanesia <span>(ParaProven)</span></h1>
+                                        <p>Projek membuat Dokumentasi Bisnis yang bisa diikuti dari tingkatan UMKM Beginner, Intermidiate, & Advance untuk membuktikan bisnisnya dalam keperluan pitching hingga mendapatakan pendanaan.</p>
+                                        <a href="/blank" class="btn invert mt-3 py-2 px-4" style="font-size: 16px; font-weight: regular; font-family: Lora; height: 40px; background-color: var(--color-theme-1);color: var(--color-theme-2); text-align: center;">Lebih Banyak Project</a>
+                                    </div>
+                                </li>
+                                <!-- <li class="item">
+                                    <input type="radio" id="orange" name="basic_carousel" value="orange" />
+                                    <label class="label_orange" for="orange"></label>
+                                    <div class="content content_orange"><span class="picto"></span>
+                                        <h1>orange</h1>
+                                        <p>The orange (specifically, the sweet orange) is the fruit of the citrus species Citrus × sinensis in the family Rutaceae.</p>
+                                    </div>
+                                </li> -->
+                            </ul>
+                        </div>
+                        <div id="middle-border"></div>
+                        <div id="right-zone"></div>
+                    </div>
                 </div>
                 <div class="col-lg-6 pt-5 pt-lg-0">
                     <div class="owl-carousel service-carousel position-relative">
@@ -220,31 +259,33 @@
     </div>
     <!-- Services End -->
 
-<!-- Extra Section -->
-<div class="container mt-50">
-    <div class="section-header text-center">
-        <h2 style="margin-top: 100px; font-size: 45px;"><b>Komunitas Terbentuk Oleh</b> Ekosistem Parakarsa</h2>
+    <!-- Extra Section -->
+    <div class="container mt-50">
+        <div class="section-header text-center">
+            <h2 style="margin-top: 100px; font-size: 45px;"><b>Komunitas Terbentuk Oleh</b> Ekosistem Parakarsa</h2>
+        </div>
+        <div class="row" style="text-align: center;">
+            <div class="col-sm-4">
+                <h1 class="mb-2" style="font-size: 60px; font-family: Lora; padding-bottom: 24px; padding-top: 10px;" data-toggle="counter-up">500</h1>
+                <img src="picture/parapreuner.png" alt="" style="width: 100%;" class="btr-100">
+                <div class="btn normal" style="width: inherit;">ParaPreuner (UMKM)</div>
+            </div>
+            <div class="col-sm-4">
+                <h1 class="mb-2" style="font-size: 60px; font-family: Lora; padding-bottom: 24px; padding-top: 10px;" data-toggle="counter-up">50</h1>
+                <img src="picture/paralancer.png" alt="" style="width: 100%;" class="btr-100">
+                <div class="btn normal" style="width: inherit;">ParaLancer (Freelancer)</div>
+            </div>
+            <div class="col-sm-4">
+                <h1 class="mb-2" style="font-size: 60px; font-family: Lora; padding-bottom: 24px; padding-top: 10px;" data-toggle="counter-up">20</h1>
+                <img src="picture/parapartner.png" alt="" style="width: 100%;" class="btr-100">
+                <div class="btn normal" style="width: inherit;">ParaPartner (Partner)</div>
+            </div>
+        </div>
+        <center>
+            <div class="btn invert stroke-0" style="margin-top: 80px;">Lebih Banyak Dokumen</div>
+        </center>
     </div>
-    <div class="row" style="text-align: center;">
-        <div class="col-sm-4">
-            <h1 class="mb-2" style="font-size: 60px; font-family: Lora; padding-bottom: 24px; padding-top: 10px;" data-toggle="counter-up">500</h1>
-            <img src="picture/parapreuner.png" alt="" style="width: 100%;" class="btr-100">
-            <div class="btn normal" style="width: inherit;">ParaPreuner (UMKM)</div>
-        </div>
-        <div class="col-sm-4">
-            <h1 class="mb-2" style="font-size: 60px; font-family: Lora; padding-bottom: 24px; padding-top: 10px;" data-toggle="counter-up">50</h1>
-            <img src="picture/paralancer.png" alt="" style="width: 100%;" class="btr-100">
-            <div class="btn normal" style="width: inherit;">ParaLancer (Freelancer)</div>
-        </div>
-        <div class="col-sm-4">
-            <h1 class="mb-2" style="font-size: 60px; font-family: Lora; padding-bottom: 24px; padding-top: 10px;" data-toggle="counter-up">20</h1>
-            <img src="picture/parapartner.png" alt="" style="width: 100%;" class="btr-100">
-            <div class="btn normal" style="width: inherit;">ParaPartner (Partner)</div>
-        </div>
-    </div>
-    <center><div class="btn invert stroke-0" style="margin-top: 80px;">Lebih Banyak Dokumen</div></center>
-</div>
-<!-- Section Extra End -->
+    <!-- Section Extra End -->
 
     <!-- Extra Section -->
     <div class="container mt-50">
@@ -356,7 +397,7 @@
 <!-- Feature Start-->
 <div class="feature wow fadeInUp" data-wow-delay="0.1s">
     <div class="container-fluid bc-1">
-    <div class="c-3 bc-3" style="width: auto; border-style: solid; border-color: inherit;"></div>
+        <div class="c-3 bc-3" style="width: auto; border-style: solid; border-color: inherit;"></div>
         <h1 class="text-center c-2 f-50 py-5" style="font-size: 40px;"><b>Program Unggulan Untuk</b> UMKM Enthusiasm!</h1>
         <div class="line-1 c-3 bc-3"></div>
         <div class="row align-items-center">
@@ -410,7 +451,7 @@
 
 <!-- Team Start -->
 <div class="team bc-2">
-    <div class="container" >
+    <div class="container">
         <div class="section-header text-center">
             <h2 style="margin-top: 100px;"><b>The Actor </b>Behind Parakarsa</h2>
         </div>
