@@ -538,6 +538,7 @@ a:focus {
 /*** Add ***/
 
 .hbg {
+    position: relative;
     min-height: 250px;
     padding: 30px 15px;
     display: flex;
