@@ -114,9 +114,9 @@
     </section>
     <section class="u-clearfix u-section-4" id="carousel_7b99">
       <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-1"></div>
-      <img src="picture/team-1.jpg" alt="" class="u-image u-image-default u-image-1">
+      <img src="picture/team-1.jpg" alt="" class="u-image u-image-default u-image-1" style="border-top-right-radius: 40px;">
       <div class="u-container-style u-group u-group-1">
-        <div class="u-container-layout u-valign-middle-lg u-valign-middle-md u-container-layout-1">
+        <div class="u-container-layout u-valign-middle-lg u-valign-middle-md u-container-layout-1" style="border-top-left-radius: 40px;">
           <h2 class="u-text u-text-palette-2-base u-text-1"><b>Customer</b> Focus
           </h2>
           <h6 class="u-text u-text-body-alt-color u-text-2">We are always on the quest of creating innovative and
