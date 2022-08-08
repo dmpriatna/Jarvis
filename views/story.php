@@ -113,9 +113,9 @@
       </div>
     </section>
     <section class="u-clearfix u-section-4" id="carousel_7b99">
-      <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-1"></div>
+      <div class="u-palette-1-base u-shape u-shape-rectangle u-shape-1" style="border-top-left-radius: 60px;"></div>
       <img src="picture/team-1.jpg" alt="" class="u-image u-image-default u-image-1" style="border-top-right-radius: 80px;">
-      <div class="u-container-style u-group u-group-1" style="border-top-left-radius: 60px;">
+      <div class="u-container-style u-group u-group-1">
         <div class="u-container-layout u-valign-middle-lg u-valign-middle-md u-container-layout-1">
           <h2 class="u-text u-text-palette-2-base u-text-1"><b>Customer</b> Focus
           </h2>
