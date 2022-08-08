@@ -98,13 +98,13 @@
                   <p class="u-text-1" style="font-size: 16px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt .</p>
                 </div>
               </div>
-              <div class="u-container-style u-image u-layout-cell u-size-15 u-size-30-md u-image-1" style="border-top-left-radius: 40px;">
+              <div class="u-container-style u-image u-layout-cell u-size-15 u-size-30-md u-image-1" style="border-top-left-radius: 80px;">
                 <div class="u-container-layout"></div>
               </div>
-              <div class="u-container-style u-image u-layout-cell u-size-15 u-size-30-md u-image-2" style="border-top-left-radius: 40px;">
+              <div class="u-container-style u-image u-layout-cell u-size-15 u-size-30-md u-image-2" style="border-top-left-radius: 80px;">
                 <div class="u-container-layout"></div>
               </div>
-              <div class="u-container-style u-image u-layout-cell u-right-cell u-size-15 u-size-30-md u-image-3" style="border-top-left-radius: 40px;">
+              <div class="u-container-style u-image u-layout-cell u-right-cell u-size-15 u-size-30-md u-image-3" style="border-top-left-radius: 80px;">
                 <div class="u-container-layout"></div>
               </div>
             </div>
