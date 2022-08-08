@@ -330,7 +330,7 @@
       <div alt="" class="u-image u-image-circle u-image-1" data-image-width="200" data-image-height="200"></div>
       <div class="u-container-style u-group u-group-1">
         <div class="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-container-layout-1">
-          <h2 class="u-text u-text-1 v-line-6" style="color: var(--color-theme-3);"><b>Customer</b><br> Focus
+          <h2 class="u-text u-text-1 v-line-6" style="color: var(--color-theme-3); font-size: 40px;"><b>Customer</b><br> Focus
           </h2>
           <h6 class="u-text u-text-body-alt-color u-text-2">We are always on the quest of creating innovative and
             inspirational components of content experience.</h6>
