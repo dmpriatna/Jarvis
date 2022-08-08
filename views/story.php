@@ -117,7 +117,7 @@
       <img src="picture/team-1.jpg" alt="" class="u-image u-image-default u-image-1" style="border-top-right-radius: 80px;">
       <div class="u-container-style u-group u-group-1">
         <div class="u-container-layout u-valign-middle-lg u-valign-middle-md u-container-layout-1">
-          <h2 class="u-text u-text-palette-2-base u-text-1"><b>Customer</b> Focus
+          <h2 class="v-line-6 u-text u-text-palette-2-base u-text-1"><b>Customer</b> Focus
           </h2>
           <h6 class="u-text u-text-body-alt-color u-text-2">We are always on the quest of creating innovative and
             inspirational components of content experience.</h6>
