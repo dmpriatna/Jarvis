@@ -339,7 +339,7 @@
             <br>
             <br>
           </p>
-          <a href="https://nicepage.app" class="u-border-1 u-border-white u-btn u-button-style u-btn-1">learn more</a>
+          <a href="https://nicepage.app" class="u-border-1 u-border-white u-btn u-button-style u-btn-1">Learn more</a>
         </div>
       </div>
       <img src="picture/team-1.jpg" alt="" class="u-image u-image-default u-image-2" style="border-top-left-radius: 80px;">
