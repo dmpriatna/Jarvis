@@ -33,7 +33,7 @@
       <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
         <div class="u-layout">
           <div class="u-layout-row">
-            <div class="u-container-style u-image u-layout-cell u-left-cell u-size-30 u-image-1">
+            <div class="u-container-style u-image u-layout-cell u-left-cell u-size-50 u-image-1">
               <div class="u-container-layout"></div>
             </div>
             <div class="u-border-no-bottom u-border-no-left u-border-no-right u-border-no-top u-container-style u-layout-cell u-palette-1-base u-right-cell u-size-30 u-layout-cell-2">
