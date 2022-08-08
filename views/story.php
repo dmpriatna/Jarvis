@@ -119,7 +119,7 @@
         <div class="u-container-layout u-valign-middle-lg u-valign-middle-md u-container-layout-1">
           <h2 class="v-line-6 u-text u-text-1" style="font-size: 40px; color: var(--color-theme-3);"><b>Customer</b><br> Focus
           </h2>
-          <h6>#Terusberdampingan bersama Parakarsa</h6>
+          <h6 style="font-weight: regular; font-family: Lora; font-color: var(--color-theme-3);">#Terusberdampingan bersama Parakarsa</h6>
           <h6 class="u-text u-text-body-alt-color u-text-2">We are always on the quest of creating innovative and
             inspirational components of content experience.</h6>
           <p class="u-text u-text-body-alt-color u-text-3">Sed ut perspiciatis unde omnis iste natus error sit voluptatem
