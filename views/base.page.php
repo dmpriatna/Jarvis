@@ -79,7 +79,7 @@
                                 </div>
                             </div>
                             <div class="col-6">
-                                <div class="align-middle" style="margin-right: 10px;">
+                                <div class="align-middle" style="right: 0px;">
                                     <div class="btn stroke-0 small" style="font-size: 12px; padding: 10px 15px; border-color: var(--color-theme-1); color: var(--color-theme-1); font-family: Modeco Trial;">Join Our Ecosystem</div>
                                 </div>
                             </div>
