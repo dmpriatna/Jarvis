@@ -93,8 +93,8 @@
             <div class="u-layout-row">
               <div class="u-container-style u-layout-cell u-left-cell u-size-15 u-size-30-md u-layout-cell-1">
                 <div class="u-container-layout u-valign-middle">
-                  <h3 class="u-text u-text-1" style="font-weight: bold; left: 0;">Parakarsa</h3>
-                  <h3 class="u-text u-text-1" style="font-weight: regular; letter-spacing: 20px; font-size: 30px;">GALLERY</h3>
+                  <h3 class="u-text u-text-1" style="font-weight: bold; left: 0; color: var(--color-theme-1);">Parakarsa</h3>
+                  <h3 class="u-text u-text-1" style="font-weight: regular; letter-spacing: 20px; font-size: 25px; color: var(--color-theme-1);">GALLERY</h3>
                   <p>Friday mood at maximum, time for design fun!</p>
                 </div>
               </div>
