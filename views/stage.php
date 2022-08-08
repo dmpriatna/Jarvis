@@ -407,7 +407,7 @@
                         <div class="d-flex"><img src="picture/ribbon.svg" alt="ribbon" style="margin-right: 10px; width:62px; height:62px;">
                             <h3 style="padding-top: 15px;"><b>Para</b>Proven</h3>
                         </div>
-                        <p class="pt-4" style="font-size: 16px;">Program Pendampingan Co-creation UKM yang bertujuan untuk membuktikan Dokumentasi Bisnis.</p>
+                        <p class="pt-4" style="font-size: 14px;">Program Pendampingan Co-creation UKM yang bertujuan untuk membuktikan Dokumentasi Bisnis.</p>
                         <br>
                         <p style="font-size: 14px; padding-top: 20px;">#TerusBerdampingan bersama Parakarsa</p>
                         <br>
