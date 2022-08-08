@@ -332,7 +332,7 @@
         <div class="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-container-layout-1">
           <h2 class="u-text u-text-1" style="color: var(--color-theme-3); font-size: 60px;"><b>Customer</b> Focus
           </h2>
-          <h6 class="u-text u-text-body-alt-color u-text-2">We are always on the quest of creating innovative and
+          <h6 class="u-text u-text-body-alt-color u-text-2" style="font-style: Lora; font-weight: medium;">We are always on the quest of creating innovative and
             inspirational components of content experience.</h6>
           <p class="u-text u-text-body-alt-color u-text-3">Sed ut perspiciatis unde omnis iste natus error sit voluptatem
             accusantium doloremque <br>laudantium, totam rem sadips ipsums aperiam, eaque ipsa quae ab illo inventore.
