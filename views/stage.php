@@ -183,7 +183,7 @@
         <div class="container py-5">
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <h6 class="font-weight-semi-bold c-2">Projek kami membuat produk dokumentasi</h6>
+                    <h6 class="wow fadeInUp font-weight-semi-bold c-2">Projek kami membuat produk dokumentasi</h6>
                     <div id="scene">
                         <div id="left-zone">
                             <ul class="list">
