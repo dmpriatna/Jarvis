@@ -141,7 +141,7 @@
                   <div class="u-border-5 u-border-palette-2-base u-line u-line-horizontal u-line-1"></div>
                   <h1 class="u-text u-text-1" style="font-family: Modeco Trial; color: var(--color-theme-1) ;"><b>More Than </b>A <br>Portfolio
                   </h1>
-                  <h6 class="u-text u-text-2" style="font-family: Lora; font-weight; medium;">The work you do while you procrastinate is the work you should be doing for
+                  <h6 class="u-text u-text-2" style="font-family: Lora; font-weight; bold;">The work you do while you procrastinate is the work you should be doing for
                     the rest of your life. Ut enim ad minim veniam, quis nostrud exercitation</h6>
                   <p class="u-align-left u-text u-text-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                     eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
@@ -152,12 +152,12 @@
               </div>
               <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-23 u-layout-cell-2">
                 <div class="u-container-layout u-valign-middle">
-                  <p class="u-text u-text-grey-40 u-text-4">Awards</p>
+                  <p class="u-text u-text-grey-40 u-text-4" style="color: var(--color-theme-1);">Awards</p>
                   <p class="u-text u-text-5">Forbes 30 Under 30 <br>Forbes (US), 2014
                   </p>
-                  <p class="u-text u-text-grey-40 u-text-6">Vision</p>
+                  <p class="u-text u-text-grey-40 u-text-6" style="color: var(--color-theme-1);">Vision</p>
                   <p class="u-text u-text-7">Lorem ipsum dolor sit</p>
-                  <p class="u-text u-text-grey-40 u-text-8">Best Project 2018</p>
+                  <p class="u-text u-text-grey-40 u-text-8" style="color: var(--color-theme-1);">Best Project 2018</p>
                   <p class="u-text u-text-9">enim ad minim veniam</p>
                 </div>
               </div>
