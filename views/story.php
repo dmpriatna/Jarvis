@@ -167,7 +167,7 @@
       </div>
     </section>
     <section class="u-clearfix u-palette-1-base u-section-6" id="carousel_8673">
-      <div class="u-clearfix u-sheet u-sheet-1">
+      <div class="u-clearfix u-sheet u-sheet-1" style="padding-top: 40px;">
         <div class="u-clearfix u-expanded-width u-gutter-30 u-layout-wrap u-layout-wrap-1">
           <div class="u-layout">
             <div class="u-layout-row">
