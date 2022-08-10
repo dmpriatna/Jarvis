@@ -58,7 +58,7 @@
       <hr style="transform: rotate(90deg); width: 10%; height: 4px; border: 0 none; background-color: var(--color-theme-1);"></hr>
 
 
-    <div>
+    <div style="position: absolute;">
       <hr style="width: 100%; height: 4px; border: 0 none; background-color: var(--color-theme-1);"></hr>
       <hr style="width: 100%; height: 4px; border: 0 none; background-color: var(--color-theme-1);"></hr>
     </div>
