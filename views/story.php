@@ -93,7 +93,7 @@
             <div class="u-layout-row">
               <div class="u-container-style u-layout-cell u-left-cell u-size-15 u-size-30-md u-layout-cell-1">
                 <div class="u-container-layout u-valign-middle">
-                  <p style="font-size: 30px; font-family: Modeco Trial; font-weight: bold; color: var(--color-theme-1);">Parakarsa<br>GALLERY</p>
+                  <p style="font-size: 30px; font-family: Modeco Trial; font-weight: bold; color: var(--color-theme-1);">Parakarsa<br style="font-size: 10px;">GALLERY</p>
                   <p class="u-text-1" style="font-size: 16px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt .</p>
                   <button type="button" style="padding-top: 5px; margin-left: 20px; width: 150px; height: 40px; cursor: pointer; color: var(--color-theme-3); background-color: var(--color-theme-1); font-weight: bold; font-family: Modeco Trial; text-align: center; border: none; outline: none;">Lebih Banyak</button>
                 </div>
