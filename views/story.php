@@ -87,12 +87,6 @@
       </div>
     </section>
 
-    <section>
-      <hr style="margin-top: 40px;"></hr>
-
-
-  </section>
-
 
 
 
