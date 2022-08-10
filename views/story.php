@@ -52,8 +52,8 @@
 
     <section class="u-clearfix u-expanded-width-xs u-section-3">
     <div style="margin-top: 40px;">
-      <hr></hr>
-      <hr></hr>
+      <hr style="width: 100%; height: 4px; border: 0 none; background-color: var(--color-theme-1);"></hr>
+      <hr style="width: 100%; height: 4px; border: 0 none; background-color: var(--color-theme-1);"></hr>
     </div>
     </section>
 
