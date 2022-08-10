@@ -88,7 +88,7 @@
     </section>
 
     <section>
-      <hr></hr>
+      <hr style="margin-top: 40px;"></hr>
 
 
   </section>
