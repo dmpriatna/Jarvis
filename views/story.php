@@ -56,7 +56,7 @@
       <hr style="width: 100%; height: 4px; border: 0 none; background-color: var(--color-theme-1);"></hr>
       <p style="margin-top: 15px; font-size: 60px; margin-left: auto; margin-right: auto; text-align: center; color: var(--color-theme-1); font-family: Modeco Trial;"><b>About</b> Parkarsa</p>
       <hr style="margin-top: 50px; transform: rotate(90deg); width: 10%; height: 2px; border: 0 none; background-color: var(--color-theme-1);"></hr>
-      <p style="text-align: right; font-size: 16px;">
+      <p style="text-align: right; font-size: 16px; margin-left: 20px;">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do <br>
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim <br>
         ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip <br>
