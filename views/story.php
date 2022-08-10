@@ -51,7 +51,7 @@
     </section>
 
     <section class="u-clearfix u-expanded-width-xs u-section-3">
-    <div style>
+    <div style="margin-top: 40px;">
       <hr></hr>
       <hr></hr>
     </div>
