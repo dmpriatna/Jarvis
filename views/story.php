@@ -96,7 +96,7 @@
                   <h3 class="u-text u-text-1" style="font-weight: bold; left: 0; color: var(--color-theme-1);">Parakarsa</h3>
                   <h3 class="u-text u-text-1" style="top: 0; font-weight: regular; letter-spacing: 15px; font-size: 25px; color: var(--color-theme-1);">GALLERY</h3>
                   <p class="u-text-1" style="font-size: 16px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt .</p>
-                  <button type="button">Click Me!</button>
+                  <button type="button" style="cursor: pointer; color: var(--color-theme-1); background-color: yellow;">Click Me!</button>
                 </div>
               </div>
               <div class="u-container-style u-image u-layout-cell u-size-15 u-size-30-md u-image-1" style="border-top-left-radius: 80px;">
