@@ -139,9 +139,9 @@
               <div class="u-container-style u-layout-cell u-left-cell u-size-37 u-layout-cell-1">
                 <div class="u-container-layout u-valign-middle-lg u-container-layout-1">
                   <div class="u-border-5 u-border-palette-2-base u-line u-line-horizontal u-line-1"></div>
-                  <h1 class="u-text u-text-1"><b>More Than </b>A Portfolio
+                  <h1 class="u-text u-text-1" style="font-family: Modeco Trial; color: var(--color-theme-1) ;"><b>More Than </b>A <br>Portfolio
                   </h1>
-                  <h6 class="u-text u-text-2">The work you do while you procrastinate is the work you should be doing for
+                  <h6 class="u-text u-text-2" style="font-family: Lora; font-weight; medium;">The work you do while you procrastinate is the work you should be doing for
                     the rest of your life. Ut enim ad minim veniam, quis nostrud exercitation</h6>
                   <p class="u-align-left u-text u-text-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                     eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
