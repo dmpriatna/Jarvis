@@ -97,7 +97,7 @@
                   <p style="margin-left: 20px; margin-top: -30px; font-size: 30px; font-family: Modeco Trial; font-weight: medium; color: var(--color-theme-1); letter-spacing: 15px;">GALLERY</p>
                   <hr style="background-color: var(--color-theme-3); border: 0 none; width: 80%; height: 3px; margin-left: 20px; margin-top: -25px;"></hr>
                   <p class="u-text-1" style="font-size: 16px; margin-top: 20px; padding-bottom: 5px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt .</p>
-                  <button type="button" style="cursor: pointer;padding-top: 5px; margin-left: 20px; width: 150px; height: 40px; color: var(--color-theme-1); background-color: var(--color-theme-3); font-weight: bold; font-family: Modeco Trial; text-align: center; border: none; outline: none;">Lebih Banyak</button>
+                  <a href="#" style="cursor: pointer; padding-top: 5px; margin-left: 20px; width: 150px; height: 40px; color: var(--color-theme-1); background-color: var(--color-theme-3); font-weight: bold; font-family: Modeco Trial; text-align: center; border: none; outline: none;">Lebih Banyak</a>
                 </div>
               </div>
               <div class="u-container-style u-image u-layout-cell u-size-15 u-size-30-md u-image-1" style="border-top-left-radius: 80px;">
