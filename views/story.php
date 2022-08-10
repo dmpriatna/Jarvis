@@ -54,7 +54,7 @@
     <div style="margin-top: 40px;">
       <hr style="width: 100%; height: 4px; border: 0 none; background-color: var(--color-theme-1);"></hr>
       <hr style="width: 100%; height: 4px; border: 0 none; background-color: var(--color-theme-1);"></hr>
-      <h1 style="margin-left: auto; margin-right: auto; color: var(--color-theme-1); font-family: Modeco Trial;"><b>About</b> Us</h2>
+      <h1 style="margin-left: auto; margin-right: auto; text-align: center; color: var(--color-theme-1); font-family: Modeco Trial;"><b>About</b> Us</h2>
     </div>
     </section>
 
