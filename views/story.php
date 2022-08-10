@@ -152,12 +152,12 @@
               </div>
               <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-23 u-layout-cell-2">
                 <div class="u-container-layout u-valign-middle">
-                  <p class="u-text u-text-grey-40 u-text-4" style="color: var(--color-theme-1);">Awards</p>
+                  <p class="u-text u-text-4" style="color: var(--color-theme-1);">Awards</p>
                   <p class="u-text u-text-5">Forbes 30 Under 30 <br>Forbes (US), 2014
                   </p>
-                  <p class="u-text u-text-grey-40 u-text-6" style="color: var(--color-theme-1);">Vision</p>
+                  <p class="u-text u-text-6" style="color: var(--color-theme-1);">Vision</p>
                   <p class="u-text u-text-7">Lorem ipsum dolor sit</p>
-                  <p class="u-text u-text-grey-40 u-text-8" style="color: var(--color-theme-1);">Best Project 2018</p>
+                  <p class="u-text u-text-8" style="color: var(--color-theme-1);">Best Project 2018</p>
                   <p class="u-text u-text-9">enim ad minim veniam</p>
                 </div>
               </div>
