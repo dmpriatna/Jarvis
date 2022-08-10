@@ -61,7 +61,7 @@
     <div>
       <hr style="width: 100%; height: 4px; border: 0 none; background-color: var(--color-theme-1);"></hr>
       <hr style="width: 100%; height: 4px; border: 0 none; background-color: var(--color-theme-1);"></hr>
-    </div
+    </div>
     </div>
     </section>
 
