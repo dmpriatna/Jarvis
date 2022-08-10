@@ -95,7 +95,7 @@
                 <div class="u-container-layout u-valign-middle">
                   <p style="margin-left: 20px; font-size: 30px; font-family: Modeco Trial; font-weight: bold; color: var(--color-theme-1);">Parakarsa</p>
                   <p style="margin-left: 20px; margin-top: -30px; font-size: 30px; font-family: Modeco Trial; font-weight: medium; color: var(--color-theme-1); letter-spacing: 15px;">GALLERY</p>
-                  <hr style="background-color: var(--color-theme-3); border: 0 none; width: 20%; height: 5px; margin-left: 20px;"></hr>
+                  <hr style="background-color: var(--color-theme-3); border: 0 none; width: 20%; height: 5px; margin-left: 20px; margin-top: -10px;"></hr>
                   <p class="u-text-1" style="font-size: 16px; margin-top: 5px; padding-bottom: 10px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt .</p>
                   <button type="button" style="padding-top: 5px; margin-left: 20px; width: 150px; height: 40px; cursor: pointer; color: var(--color-theme-3); background-color: var(--color-theme-1); font-weight: bold; font-family: Modeco Trial; text-align: center; border: none; outline: none;">Lebih Banyak</button>
                 </div>
