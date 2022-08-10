@@ -51,9 +51,10 @@
     </section>
 
     <section class="u-clearfix u-expanded-width-xs u-section-3">
-
-    <hr></hr>
-
+    <div style>
+      <hr></hr>
+      <hr></hr>
+    </div>
     </section>
 
 
