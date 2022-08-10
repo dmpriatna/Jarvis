@@ -55,8 +55,11 @@
       <hr style="width: 100%; height: 4px; border: 0 none; background-color: var(--color-theme-1);"></hr>
       <hr style="width: 100%; height: 4px; border: 0 none; background-color: var(--color-theme-1);"></hr>
       <p style="margin-top: 15px; font-size: 60px; margin-left: auto; margin-right: auto; text-align: center; color: var(--color-theme-1); font-family: Modeco Trial;"><b>About</b> Parkarsa</p>
-      <hr style="transform: rotate(90deg); width: 10%; height: 2px; border: 0 none; background-color: var(--color-theme-1);"></hr>
-
+      <hr style="margin-top: 50px; transform: rotate(90deg); width: 10%; height: 2px; border: 0 none; background-color: var(--color-theme-1);"></hr>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate 
+        velit esse cillum dolore eu fugiat nulla pari atur.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pari atur.</p>
 
     <div style="margin-top: 300px;">
       <hr style="width: 100%; height: 4px; border: 0 none; background-color: var(--color-theme-1);"></hr>
