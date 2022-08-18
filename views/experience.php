@@ -27,7 +27,7 @@
             </div>
             <p>&nbsp;</p>
         </div>
-        <div class="row" style="margin-top: 50px;">
+        <div class="row" style="margin-top: 30px;">
             <div class="col-md-4">
                 <img src="/picture/project-2.jpg" alt="project-2" height="100%" width="100%" style="object-fit: cover; border-top-left-radius: 60px;">
             </div>
@@ -39,7 +39,7 @@
             </div>
             <p>&nbsp;</p>
         </div>
-        <div class="row" style="margin-top: 50px;">
+        <div class="row" style="margin-top: 30px;">
             <div class="col-md-4">
                 <img src="/picture/project-3.jpg" alt="project-3" height="100%" width="100%" style="object-fit: cover; border-top-left-radius: 60px;">
             </div>
