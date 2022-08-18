@@ -12,7 +12,7 @@
         </div>
     </div>
     <div class="container">
-        <div class="row" style="padding-left: 10px; margin-top: 20px;">
+        <div class="row" style="padding-left: 10px; margin-top: 50px;">
             <h1 class="v-line-6" style="font-weight: bold;">Online Process Oriented<br> Training Group</h1>
         </div>
         <div class="row">
