@@ -99,13 +99,13 @@
         <p style="font-size: 16px; color: var(--color-theme-0);">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pari atur. Excepteur sint occaecat cupidatat non.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu.</p>
     </div>
 </div>
-<div class="container" style="margin-top: 60px;">
+        <div>
+            <h1 style="font-family: Modeco; color: var(--color-theme-1); margin-top: 40px;"><b>MEMBER's</b> GALLERY</h1>
+        </div>
+<div class="container" style="margin-top: 40px;">
     <div class="row">
         <div class="col-md-4">
             <img src="picture/portfolio-1.jpg" alt="" style="border-top-right-radius: 80px; height: 400px; width: 100%; object-fit: cover;">
-        </div>
-        <div>
-            <h1 style="font-family: Modeco; color: var(--color-theme-3);"><b>MEMBER's</b> GALLERY</h1>
         </div>
         <div class="col" style="margin-left: 60px; display: grid; align-items: center; align-content: space-evenly;">
             <h1 style="font-weight: bold; font-size: 40px;"><b>Sedang Mengikuti Event</b> UMKM Kota Bandung</h1>
