@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Modeco';
+    src: url(Modeco/ModecoTrial-Regular.otf) format("opentype");
+}
+@font-face {
+    font-family: 'Modeco-I';
+    src: url(Modeco/ModecoTrial-RegularOblique.otf) format("opentype");
+}
+@font-face {
+    font-family: 'Modeco-EL';
+    src: url(Modeco/ModecoTrial-ExtraLight.otf) format("opentype");
+}
+@font-face {
+    font-family: 'Modeco-ELI';
+    src: url(Modeco/ModecoTrial-ExtraLightOblique.otf) format("opentype");
+}
+@font-face {
+    font-family: 'Modeco-B';
+    src: url(Modeco/ModecoTrial-Bold.otf) format("opentype");
+}
+@font-face {
+    font-family: 'Modeco-BI';
+    src: url(Modeco/ModecoTrial-BoldOblique.otf) format("opentype");
+}
