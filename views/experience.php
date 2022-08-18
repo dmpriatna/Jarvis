@@ -17,10 +17,10 @@
         </div>
         <div class="row">
             <div class="col-md-4">
-                <img src="/picture/project-1.jpg" alt="project-1" height="100%" width="100%" style="object-fit: cover;">
+                <img src="/picture/project-1.jpg" alt="project-1" height="100%" width="100%" style="object-fit: cover; border-top-left-radius: 40px;">
             </div>
             <div class="col-md-8">
-                <h1>Natar</h1>
+                <h1 style="font-weight: bold;">Natar</h1>
                 <h3>Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.</p>
                 <div class="btn normal">Learn more</div>
