@@ -105,10 +105,10 @@
 <div class="container" style="margin-top: 40px;">
     <div class="row">
         <div class="col-md-4">
-            <img src="picture/portfolio-1.jpg" alt="" style="border-top-right-radius: 80px; height: 400px; width: 460px; object-fit: cover;">
+            <img src="picture/portfolio-1.jpg" alt="" style="border-top-left-radius: 80px; height: 400px; width: 460px; object-fit: cover;">
         </div>
         <div class="col" style="margin-left: 60px; display: grid; align-items: center; align-content: space-evenly;">
-            <h1 style="font-weight: bold; font-size: 40px; margin-left: 60px;"><b>Sedang Mengikuti Event</b> UMKM Kota Bandung</h1>
+            <h1 style="font-weight: bold; font-size: 40px; margin-left: 80px; margin-top: -20px;"><b>Sedang Mengikuti Event</b> UMKM Kota Bandung</h1>
             <p style="margin-top: -60px; color: var(--color-theme-0); margin-left: 60px; font-size: 16px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
         </div>
     </div>
