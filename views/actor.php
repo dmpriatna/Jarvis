@@ -8,7 +8,7 @@
         </div>
     </div>
 </div>
-<ul class="nav justify-content-center bc-3" style="border-bottom: 3px solid green; border-top: 3px solid green;">
+<ul class="nav justify-content-center" style="background-color: hidden; margin-top: 20px; border-bottom: 3px solid var(--color-theme-1); border-top: 3px solid var(--color-theme-1);">
     <li class="nav-item">
         <a class="nav-link active" href="/actor" style="color: var(--color-theme-1);">ACTOR</a>
     </li>
