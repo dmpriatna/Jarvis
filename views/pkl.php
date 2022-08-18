@@ -8,7 +8,7 @@
         </div>
     </div>
 </div>
-<ul class="nav justify-content-center bc-3">
+<ul class="nav justify-content-center" style="background-color: hidden; margin-top: 20px; border-bottom: 3px solid var(--color-theme-1); border-top: 3px solid var(--color-theme-1);">
     <li class="nav-item">
         <a class="nav-link active" href="/actor">ACTOR</a>
     </li>
@@ -24,7 +24,7 @@
 </ul>
 <div class="container">
     <div class="row justify-content-center">
-        <h1 style="font-size: 52px; font-weight: 700; margin-top: 20px;">PKL</h1>
+        <h1 style="font-size: 52px; font-weight: 700; margin-top: 40px;">PKL</h1>
         <p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.</p>
     </div>
 </div>
