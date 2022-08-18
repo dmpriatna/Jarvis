@@ -17,7 +17,7 @@
         </div>
         <div class="row">
             <div class="col-md-4">
-                <img src="/picture/project-1.jpg" alt="project-1" height="100%" width="100%" style="object-fit: cover; border-top-left-radius: 40px;">
+                <img src="/picture/project-1.jpg" alt="project-1" height="100%" width="100%" style="object-fit: cover; border-top-left-radius: 60px;">
             </div>
             <div class="col-md-8">
                 <h1 style="font-weight: bold;">Natar</h1>
@@ -29,25 +29,25 @@
         </div>
         <div class="row">
             <div class="col-md-4">
-                <img src="/picture/project-2.jpg" alt="project-2" height="100%" width="100%" style="object-fit: cover;">
+                <img src="/picture/project-2.jpg" alt="project-2" height="100%" width="100%" style="object-fit: cover; border-top-left-radius: 60px;">
             </div>
             <div class="col-md-8">
-                <h1>Kartanesia</h1>
-                <h3>Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.</p>
-                <div class="btn normal">Learn more</div>
+                <h1 style="font-weight: bold;">Kartanesia</h1>
+                <h3 style="font-weight: bold; font-size: 20px; color: var(--color-theme-0); font-family: Lora;">Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
+                <p style="font-size: 16px; color: var(--color-theme-0);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.</p>
+                <div class="btn normal" style="padding-top: 10px; text-align: center; font-family: Modeco; letter-spacing: 0.5px; font-size: 14px; height: 40px; width: 140px; font-weight: Medium;">Learn more</div>
             </div>
             <p>&nbsp;</p>
         </div>
         <div class="row">
             <div class="col-md-4">
-                <img src="/picture/project-3.jpg" alt="project-3" height="100%" width="100%" style="object-fit: cover;">
+                <img src="/picture/project-3.jpg" alt="project-3" height="100%" width="100%" style="object-fit: cover; border-top-left-radius: 60px;">
             </div>
             <div class="col-md-8">
-                <h1>Temurancang</h1>
-                <h3>Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.</p>
-                <div class="btn normal">Learn more</div>
+                <h1 style="font-weight: bold;">Temurancang</h1>
+                <h3 style="font-weight: bold; font-size: 20px; color: var(--color-theme-0); font-family: Lora;">Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
+                <p style="font-size: 16px; color: var(--color-theme-0);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.</p>
+                <div class="btn normal" style="padding-top: 10px; text-align: center; font-family: Modeco; letter-spacing: 0.5px; font-size: 14px; height: 40px; width: 140px; font-weight: Medium;">Learn more</div>
             </div>
             <p>&nbsp;</p>
         </div>
