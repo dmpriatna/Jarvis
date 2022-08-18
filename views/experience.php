@@ -21,7 +21,7 @@
             </div>
             <div class="col-md-8">
                 <h1 style="font-weight: bold;">Natar</h1>
-                <h3 style="font-size: 20px;">Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
+                <h3 style="font-size: 20px; color: var(--colot-theme-5); font-family: Lora;">Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
                 <p style="font-size: 16px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis semornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.</p>
                 <div class="btn normal">Learn more</div>
             </div>
