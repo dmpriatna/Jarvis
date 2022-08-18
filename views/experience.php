@@ -23,7 +23,7 @@
                 <h1 style="font-weight: bold;">Natar</h1>
                 <h3 style="font-weight: bold; font-size: 20px; color: var(--color-theme-0); font-family: Lora;">Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
                 <p style="font-size: 16px; color: var(--color-theme-0);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis semornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.</p>
-                <div class="btn normal" style="font-family: Modeco; letter-spacing: 1px; height: 40px;">Learn more</div>
+                <div class="btn normal" style="text-align: center; font-family: Modeco; letter-spacing: 1px; height: 40px;">Learn more</div>
             </div>
             <p>&nbsp;</p>
         </div>
