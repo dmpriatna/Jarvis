@@ -100,12 +100,12 @@
     </div>
 </div>
         <div>
-            <h1 style="font-family: Modeco; color: var(--color-theme-1); margin-top: 40px;"><b>MEMBER's</b> GALLERY</h1>
+            <h1 style="text-align: center; font-family: Modeco; color: var(--color-theme-1); margin-top: 40px;"><b>MEMBER's</b> GALLERY</h1>
         </div>
 <div class="container" style="margin-top: 40px;">
     <div class="row">
         <div class="col-md-4">
-            <img src="picture/portfolio-1.jpg" alt="" style="border-top-right-radius: 80px; height: 400px; width: 100%; object-fit: cover;">
+            <img src="picture/portfolio-1.jpg" alt="" style="border-top-right-radius: 80px; height: 400px; width: 460px; object-fit: cover;">
         </div>
         <div class="col" style="margin-left: 60px; display: grid; align-items: center; align-content: space-evenly;">
             <h1 style="font-weight: bold; font-size: 40px;"><b>Sedang Mengikuti Event</b> UMKM Kota Bandung</h1>
