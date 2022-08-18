@@ -108,8 +108,8 @@
             <img src="picture/portfolio-1.jpg" alt="" style="border-top-right-radius: 80px; height: 400px; width: 460px; object-fit: cover;">
         </div>
         <div class="col" style="margin-left: 60px; display: grid; align-items: center; align-content: space-evenly;">
-            <h1 style="font-weight: bold; font-size: 40px;"><b>Sedang Mengikuti Event</b> UMKM Kota Bandung</h1>
-            <p style="margin-top: -60px; color: var(--color-theme-0); font-size: 16px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
+            <h1 style="font-weight: bold; font-size: 40px; padding-left: 20px;"><b>Sedang Mengikuti Event</b> UMKM Kota Bandung</h1>
+            <p style="margin-top: -60px; color: var(--color-theme-0); padding-left: 20px; font-size: 16px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
         </div>
     </div>
 </div>
