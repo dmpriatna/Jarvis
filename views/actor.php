@@ -9,7 +9,7 @@
     </div>
 </div>
 <ul class="nav justify-content-center bc-3">
-    <hr></hr>
+    <hr>
     <li class="nav-item">
         <a class="nav-link active" href="/actor" style="color: var(--color-theme-1);">ACTOR</a>
     </li>
@@ -22,7 +22,7 @@
     <li class="nav-item">
         <a class="nav-link" href="/pkl" style="color: var(--color-theme-1);">PKL</a>
     </li>
-    <hr></hr>
+    <hr>
 </ul>
 <div class="container">
     <div class="row justify-content-center">
