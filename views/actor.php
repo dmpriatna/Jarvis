@@ -25,7 +25,7 @@
 <div class="container">
     <div class="row justify-content-center">
         <h1 style="font-size: 52px; font-weight: 700; margin-top: 40px;">The Actor Behind Parakarsa</h1>
-        <p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.</p>
+        <p style="text-align: center; color: var(--color-theme-0);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.</p>
     </div>
 </div>
 <div class="container team">
