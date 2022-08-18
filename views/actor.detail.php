@@ -29,7 +29,7 @@
                 <div class="col-5">
                     <img src="picture/team-1.jpg" alt="" style="border-radius: 100%; height: 50px; width: 50px; object-fit: cover;">
                 </div>
-                <div class="col-5" style="font-size: x-small;">
+                <div class="col-5" style="font-size: small;">
                     <b>Client Name</b>
                     <span>Profession</span>
                 </div>
