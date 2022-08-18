@@ -15,8 +15,8 @@
         </div>
         <div class="col" style="display: grid; align-items: center; align-content: space-evenly;">
             <h1 style="font-weight: bold;">Irfan Fakhri Muhammad</h1>
-            <h4 style="font-weight: semi-bold; font-family: Lora;">Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
+            <h4 style="font-weight: 600; color: var(--color-theme-0); font-family: Lora;">Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h4>
+            <p style="color: var(--color-theme-0);">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
             <span>Teaching students all about the beste SEO techniques is something I love to do as a full-time job</span>
         </div>
     </div>
