@@ -8,8 +8,7 @@
         </div>
     </div>
 </div>
-<hr>
-<ul class="nav justify-content-center bc-3">
+<ul class="nav justify-content-center bc-3" style="border-bottom: 3px solid green;">
     <li class="nav-item">
         <a class="nav-link active" href="/actor" style="color: var(--color-theme-1);">ACTOR</a>
     </li>
