@@ -13,7 +13,7 @@
     </div>
     <div class="container">
         <div class="row" style="padding-left: 10px; margin-top: 20px;">
-            <h1>Online Process Oriented</h1>
+            <h1>Online Process Oriented</h1><br>
             <h3>Training Group</h3>
         </div>
         <div class="row">
