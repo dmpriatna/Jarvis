@@ -22,7 +22,7 @@
     </div>
 </div>
 <div class="container py-5">
-    <h2><b>Pelanggan</b> NATAR</h2>
+    <h2 style="font-size: 20px;"><b>Pelanggan</b> NATAR</h2>
     <div class="row">
         <div class="col-md-2">
             <div class="row no-gutters">
