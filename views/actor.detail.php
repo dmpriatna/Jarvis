@@ -99,11 +99,11 @@
         <p style="font-size: 16px; color: var(--color-theme-0);">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pari atur. Excepteur sint occaecat cupidatat non.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu.</p>
     </div>
 </div>
-<div class="container">
+<div class="container" style="margin-top: 40px;">
     <div>
         <h3 style="text-align: center; font-size: 40px;"><b>MEMBER's</b>GALLERY</h3>
     </div>
-    <div class="row">
+    <div class="row" style="margin-top: 40px;">
         <div class="col-md-6">
             <img src="picture/portfolio-1.jpg" alt="">
         </div>
