@@ -100,7 +100,7 @@
     </div>
 </div>
 <div class="container">
-    <div>
+    <div style="text-align: center;">
         <h3><b>MEMBER's</b>GALLERY</h3>
     </div>
     <div class="row">
