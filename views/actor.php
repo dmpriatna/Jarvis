@@ -10,16 +10,16 @@
 </div>
 <ul class="nav justify-content-center bc-3">
     <li class="nav-item">
-        <a class="nav-link active" href="/actor">ACTOR</a>
+        <a class="nav-link active" href="/actor" style="color: var(--color-theme-1);">ACTOR</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="/advisor">ADVISOR</a>
+        <a class="nav-link" href="/advisor" style="color: var(--color-theme-1);">ADVISOR</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="/volunteer">VOLUNTEER</a>
+        <a class="nav-link" href="/volunteer" style="color: var(--color-theme-1);">VOLUNTEER</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="/pkl">PKL</a>
+        <a class="nav-link" href="/pkl" style="color: var(--color-theme-1);">PKL</a>
     </li>
 </ul>
 <div class="container">
