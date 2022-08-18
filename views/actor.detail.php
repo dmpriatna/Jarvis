@@ -113,7 +113,7 @@
         </div>
     </div>
 </div>
-<div class="container">
+<div class="container" style="margin-top: 50px;">
     <div class="row">
         <div class="col" style="display: grid; align-items: center; align-content: space-evenly;">
             <h1 style="font-weight: 700;">Irfan Fakhri Muhammad</h1>
