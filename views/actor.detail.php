@@ -100,8 +100,8 @@
     </div>
 </div>
 <div class="container">
-    <div style="text-align: center;">
-        <h3><b>MEMBER's</b>GALLERY</h3>
+    <div>
+        <h3 style="text-align: center; font-size: 40px;"><b>MEMBER's</b>GALLERY</h3>
     </div>
     <div class="row">
         <div class="col-md-6">
