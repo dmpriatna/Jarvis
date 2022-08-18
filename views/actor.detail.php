@@ -18,6 +18,7 @@
             <h4 style="margin-top: -60px; font-weight: 500; color: var(--color-theme-0); font-size: 20px; font-family: Lora;">Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h4>
             <p style="margin-top: -60px; color: var(--color-theme-0); font-size: 16px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
             <span style="margin-top: -70px; color: var(--color-theme-0);">Teaching students all about the beste SEO techniques is something I love to do as a full-time job</span>
+            <span><b>#TerusBerdampingan</b> bersama Parakarsa</span>
         </div>
     </div>
 </div>
