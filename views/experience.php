@@ -15,7 +15,7 @@
         <div class="row" style="padding-left: 10px; margin-top: 20px;">
             <h1 style="font-weight: bold;">Online Process Oriented</h1>
             <br>
-            <p style="font-size: 20px;">Training Group</p>
+            <p style="font-size: 40px;">Training Group</p>
         </div>
         <div class="row">
             <div class="col-md-4">
