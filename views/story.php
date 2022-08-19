@@ -55,16 +55,19 @@
       <hr style="width: 100%; height: 4px; border: 0 none; background-color: var(--color-theme-1);"></hr>
       <hr style="width: 100%; height: 4px; border: 0 none; background-color: var(--color-theme-1);"></hr>
       <p style="margin-top: 35px; font-size: 60px; margin-left: auto; margin-right: auto; text-align: center; color: var(--color-theme-1); font-family: Modeco Trial;"><b>About</b> Parkarsa</p>
+    <div class="col-md-4">
       <div class="col-5">
-      <hr style="margin-top: 80px; transform: rotate(90deg); width: 18%; height: 2px; border: 0 none; background-color: var(--color-theme-1);"></hr>
         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard
            dummy text ever since 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more
            recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-      
-          </div>
-      
-      
-
+        </div>
+          <hr style="margin-top: 80px; transform: rotate(90deg); width: 18%; height: 2px; border: 0 none; background-color: var(--color-theme-1);"></hr>
+      <div class="col-5">
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard
+           dummy text ever since 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more
+           recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+        </div>
+    </div>
     <div style="margin-top: 150px;">
       <hr style="width: 100%; height: 4px; border: 0 none; background-color: var(--color-theme-1);"></hr>
       <hr style="width: 100%; height: 4px; border: 0 none; background-color: var(--color-theme-1);"></hr>
