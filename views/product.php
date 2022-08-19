@@ -50,7 +50,7 @@
                     </div>
                     <input style="margin-top:10px; margin-left: 15px;" type="checkbox">
                     <label style="font-size: 13px">I've read and agree to Corso's written Privacy Policy and Terms & Conditions</label>
-                    <button class="buttonReg"><b>REGISTER</b></button>
+                    <a href="/done"><button class="buttonReg"><b>REGISTER</b></button></a>
                 </div>
             </div>
         </div>
@@ -122,8 +122,51 @@
 <!-- Content 4 End -->
 
 <!-- Content 5 Start -->
-<div>
-    <h1>being to show</h1>
+<div class="container-fluid p-5 section-6">
+    <h2 class="p2"><b>What Will You Learn In Our SEO </b></h2>
+    <h2 class="p2" style="margin-top:-20px"><b>Focused Training Course</b></h2>
+    <div class="row">
+        <div class="col-md-6">
+            <div>
+                <hr style="width:75%; text-align:left; height:24px; color:#0B473B;">
+                <h4 style="text-align:left; margin-left:72px;"><b>Optimizing your site for mobile devices </b></h4>
+                <p style="text-align:left; margin-left:72px; margin-right:24px;">One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices
+                <p>
+            </div>
+            <div>
+                <hr style="width:75%; text-align:left; height:24px; color:#0B473B;">
+                <h4 style="text-align:left; margin-left:72px;"><b>Optimizing your site for mobile devices </b></h4>
+                <p style="text-align:left; margin-left:72px; margin-right:24px;">One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices
+                <p>
+            </div>
+            <div>
+                <hr style="width:75%; text-align:left; height:24px; color:#0B473B;">
+                <h4 style="text-align:left; margin-left:72px;"><b>Optimizing your site for mobile devices </b></h4>
+                <p style="text-align:left; margin-left:72px; margin-right:24px;">One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices
+                <p>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div>
+                <hr style="width:75%; text-align:left; height:24px; color:#0B473B;">
+                <h4 style="text-align:left; margin-left:72px;"><b>Optimizing your site for mobile devices </b></h4>
+                <p style="text-align:left; margin-left:72px; margin-right:24px;">One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices
+                <p>
+            </div>
+            <div>
+                <hr style="width:75%; text-align:left; height:24px; color:#0B473B;">
+                <h4 style="text-align:left; margin-left:72px;"><b>Optimizing your site for mobile devices </b></h4>
+                <p style="text-align:left; margin-left:72px; margin-right:24px;">One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices
+                <p>
+            </div>
+            <div>
+                <hr style="width:75%; text-align:left; height:24px; color:#0B473B;">
+                <h4 style="text-align:left; margin-left:72px;"><b>Optimizing your site for mobile devices </b></h4>
+                <p style="text-align:left; margin-left:72px; margin-right:24px;">One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices
+                <p>
+            </div>
+        </div>
+    </div>
 </div>
 <!-- Content 5 Start -->
 

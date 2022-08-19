@@ -92,6 +92,12 @@ $router->get('/connect', function() {
   return;
 });
 
+$router->get('/done', function() {
+  $content = file_get_contents(dirname(__FILE__).'/views/thankyou.php');
+  include('views/base.page.php');
+  return;
+});
+
 $router->get('/kartanesia', function() {
   include('views/KARTANESIA/index.html');
   return;
