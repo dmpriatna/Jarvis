@@ -32,7 +32,7 @@
         </div>
         <div class="col-md-6">
             <h1><b>Para</b>Lancer</h1>
-            <h3 style="font-family: Lora; font-weight: 500; color: var(--color-theme-0);">Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
+            <h3 style="font-size: 20px; font-family: Lora; font-weight: 500; color: var(--color-theme-0);">Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
             <p style="color: var(--color-theme-0);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.</p>
             <div class="btn normal">Learn more</div>
         </div>
@@ -44,7 +44,7 @@
         </div>
         <div class="col-md-6">
             <h1><b>Para</b>Partner</h1>
-            <h3 style="font-family: Lora; font-weight: 500; color: var(--color-theme-0);">Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
+            <h3 style="font-size: 20px; font-family: Lora; font-weight: 500; color: var(--color-theme-0);">Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
             <p style="color: var(--color-theme-0);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.</p>
             <div class="btn normal">Learn more</div>
         </div>
