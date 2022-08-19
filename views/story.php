@@ -68,13 +68,7 @@
       <hr style="width: 100%; height: 4px; border: 0 none; background-color: var(--color-theme-1);"></hr>
       <hr style="width: 100%; height: 4px; border: 0 none; background-color: var(--color-theme-1);"></hr>
     </div>
-    </div>
     </section>
-
-
-
-
-
 
     <section class="u-clearfix u-section-2" id="carousel_4073">
       <div class="u-clearfix u-sheet u-sheet-1">
