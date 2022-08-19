@@ -55,7 +55,7 @@
       <hr style="width: 100%; height: 4px; border: 0 none; background-color: var(--color-theme-1);"></hr>
       <hr style="width: 100%; height: 4px; border: 0 none; background-color: var(--color-theme-1);"></hr>
       <p style="margin-top: 35px; font-size: 60px; margin-left: auto; margin-right: auto; text-align: center; color: var(--color-theme-1); font-family: Modeco Trial;"><b>About</b> Parkarsa</p>
-      <hr style="margin-top: 80px; transform: rotate(90deg); width: 25%; height: 2px; border: 0 none; background-color: var(--color-theme-1);"></hr>
+      <hr style="margin-top: 80px; transform: rotate(90deg); width: 18%; height: 2px; border: 0 none; background-color: var(--color-theme-1);"></hr>
       
 
     <div style="margin-top: 150px;">
