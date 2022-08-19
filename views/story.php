@@ -56,10 +56,10 @@
       <hr style="width: 100%; height: 4px; border: 0 none; background-color: var(--color-theme-1);"></hr>
       <p style="margin-top: 35px; font-size: 60px; margin-left: auto; margin-right: auto; text-align: center; color: var(--color-theme-1); font-family: Modeco Trial;"><b>About</b> Parkarsa</p>
       <hr style="margin-top: 80px; transform: rotate(90deg); width: 10%; height: 2px; border: 0 none; background-color: var(--color-theme-1);"></hr>
-        <p style="margin-top: -50px; text-align: right; padding-left: 44px; float: left; width:45%; display: inline-block;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard
+        <p style="margin-top: -80px; text-align: right; padding-left: 44px; float: left; width:45%; display: inline-block;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard
            dummy text ever since 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more
            recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-        <p style="margin-top: -50px; text-align: left; padding-right: 44px; float: right; width:45%; display: inline-block;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard
+        <p style="margin-top: -80px; text-align: left; padding-right: 44px; float: right; width:45%; display: inline-block;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard
            dummy text ever since 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more
            recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
     </div>
