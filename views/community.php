@@ -16,7 +16,7 @@
     </div>
     <div class="row">
         <div class="col-md-6">
-            <img src="/picture/project-1.jpg" alt="project-1" height="80%" width="100%" style="border-top-left-radius: 60px; object-fit: cover;">
+            <img src="/picture/project-1.jpg" alt="project-1" height="75%" width="100%" style="border-top-left-radius: 60px; object-fit: cover;">
         </div>
         <div class="col-md-6">
             <h1><b>Para</b>Preneur</h1>
@@ -28,7 +28,7 @@
     </div>
     <div class="row">
         <div class="col-md-6">
-            <img src="/picture/project-2.jpg" alt="project-2" height="100%" width="100%" style="border-top-left-radius: 60px;object-fit: cover;">
+            <img src="/picture/project-2.jpg" alt="project-2" height="75%" width="100%" style="border-top-left-radius: 60px;object-fit: cover;">
         </div>
         <div class="col-md-6">
             <h1><b>Para</b>Lancer</h1>
@@ -40,7 +40,7 @@
     </div>
     <div class="row">
         <div class="col-md-6">
-            <img src="/picture/project-3.jpg" alt="project-3" height="100%" width="100%" style="border-top-left-radius: 60px; object-fit: cover;">
+            <img src="/picture/project-3.jpg" alt="project-3" height="75%" width="100%" style="border-top-left-radius: 60px; object-fit: cover;">
         </div>
         <div class="col-md-6">
             <h1><b>Para</b>Partner</h1>
