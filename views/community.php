@@ -16,7 +16,7 @@
     </div>
     <div class="row">
         <div class="col-md-6">
-            <img src="/picture/project-1.jpg" alt="project-1" height="100%" width="100%" style="border-top-left-radius: 60px; object-fit: cover;">
+            <img src="/picture/project-1.jpg" alt="project-1" height="80%" width="100%" style="border-top-left-radius: 60px; object-fit: cover;">
         </div>
         <div class="col-md-6">
             <h1><b>Para</b>Preneur</h1>
