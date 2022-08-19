@@ -80,10 +80,10 @@
                   <div class="u-border-5 u-border-palette-2-base u-line u-line-horizontal u-line-1"></div>
                   <h1 class="u-text u-text-1"><b>About</b> Us
                   </h1>
-                  <h6 class="u-text u-text-2">It is our goal to help you
+                  <h6 class="u-text u-text-2" style="font-family: Lora; color: var(--color-theme-0) font-weight: 500;">It is our goal to help you
                     turn your ideas into successful reality. Below you’ll find the gallery that includes some of the
                     latest projects</h6>
-                  <p class="u-text u-text-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                  <p class="u-text u-text-3" style="color: var(--color-theme-0);">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
                     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
                     ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
                     voluptate velit esse cillum dolore eu fugiat nulla pari atur. Excepteur sint occaecat cupidatat non
@@ -92,13 +92,13 @@
               </div>
               <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-23 u-layout-cell-2">
                 <div class="u-container-layout">
-                  <p class="u-text u-text-grey-40 u-text-4">Projects</p>
+                  <p class="u-text u-text-grey-40 u-text-4" style="color: var(color-theme-1);">Projects</p>
                   <p class="u-text u-text-5">Lorem ipsum dolor sit amet, consectetur adip iscing.</p>
-                  <p class="u-text u-text-grey-40 u-text-6">Mission</p>
+                  <p class="u-text u-text-grey-40 u-text-6" style="color: var(color-theme-1);">Mission</p>
                   <p class="u-text u-text-7">Lorem ipsum dolor sit amet.</p>
-                  <p class="u-text u-text-grey-40 u-text-8">Date</p>
+                  <p class="u-text u-text-grey-40 u-text-8" style="color: var(color-theme-1);">Date</p>
                   <p class="u-text u-text-9">12 June 2018</p>
-                  <p class="u-text u-text-grey-40 u-text-10">Photography</p>
+                  <p class="u-text u-text-grey-40 u-text-10" style="color: var(color-theme-1);">Photography</p>
                   <p class="u-text u-text-11">Oliver Baco</p>
                 </div>
               </div>
