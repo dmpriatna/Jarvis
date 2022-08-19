@@ -1,3 +1,16 @@
+<?php
+$host = $_SERVER['SERVER_NAME'];
+$isPro = strpos($host, "development");
+$blank = "/blank";
+$navStory = $isPro ? $blank : "/story";
+$navProgram = $isPro ? $blank : "/program";
+$navExperience = $isPro ? $blank : "/experience";
+$navImpact = $isPro ? $blank : "/impact";
+$navActor = $isPro ? $blank : "/actor";
+$navCommunity = $isPro ? $blank : "/community";
+$navConnect = $isPro ? $blank : "/connect";
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -103,27 +116,27 @@
                     <div class="collapse navbar-collapse justify-content-center" id="navbarCollapse">
                         <div class="navbar-nav">
                             <a href="/" class="nav-item nav-link active" style="font-size: 14px;">The Stage</a>
-                            <a href="/story" class="nav-item nav-link" style="padding-left: 40px; font-size: 15px;">Story</a>
+                            <a href=<?=$navStory?> class="nav-item nav-link" style="padding-left: 40px; font-size: 15px;">Story</a>
                             <div class="nav-item dropdown">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" style="padding-left: 40px; font-size: 14px;">Ecosystems</a>
                                 <div class="dropdown-menu">
-                                    <a href="/project" class="dropdown-item">ParaPrograms</a>
-                                    <a href="/project" class="dropdown-item">ParaProjects</a>
+                                    <a href=<?=$navProgram?> class="dropdown-item">ParaPrograms</a>
+                                    <a href=<?=$navProgram?> class="dropdown-item">ParaProjects</a>
                                     <a href="/product" class="dropdown-item">ParaProducts</a>
                                 </div>
                             </div>
-                            <a href="/experience" class="nav-item nav-link" style="padding-left: 40px; font-size: 14px;">Experience</a>
-                            <a href="/impact" class="nav-item nav-link" style="padding-left: 40px; font-size: 14px;">Impact</a>
-                            <a href="/actor" class="nav-item nav-link" style="padding-left: 40px; font-size: 14px;">Actor</a>
+                            <a href=<?=$navExperience?> class="nav-item nav-link" style="padding-left: 40px; font-size: 14px;">Experience</a>
+                            <a href=<?=$navImpact?> class="nav-item nav-link" style="padding-left: 40px; font-size: 14px;">Impact</a>
+                            <a href=<?=$navActor?> class="nav-item nav-link" style="padding-left: 40px; font-size: 14px;">Actor</a>
                             <div class="nav-item dropdown">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" style="padding-left: 40px; font-size: 14px;">Community</a>
                                 <div class="dropdown-menu">
-                                    <a href="/community" class="dropdown-item">ParaLancer</a>
-                                    <a href="/community" class="dropdown-item">ParaPreneur</a>
-                                    <a href="/community" class="dropdown-item">ParaParner</a>
+                                    <a href=<?=$navCommunity?> class="dropdown-item">ParaLancer</a>
+                                    <a href=<?=$navCommunity?> class="dropdown-item">ParaPreneur</a>
+                                    <a href=<?=$navCommunity?> class="dropdown-item">ParaParner</a>
                                 </div>
                             </div>
-                            <a href="/connect" class="nav-item nav-link" style="padding-left: 40px; font-size: 14px;">Connect</a>
+                            <a href=<?=$navConnect?> class="nav-item nav-link" style="padding-left: 40px; font-size: 14px;">Connect</a>
                         </div>
                     </div>
                 </nav>
@@ -219,6 +232,7 @@
 
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
     <script src="lib/easing/easing.min.js"></script>
     <script src="lib/wow/wow.min.js"></script>

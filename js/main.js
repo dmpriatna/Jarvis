@@ -1,3 +1,5 @@
+feather.replace();
+
 (function ($) {
     "use strict";
 
