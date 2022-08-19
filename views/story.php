@@ -80,7 +80,7 @@
                   <div class="u-border-5 u-border-palette-2-base u-line u-line-horizontal u-line-1"></div>
                   <h1 class="u-text u-text-1"><b>About</b> Us
                   </h1>
-                  <h6 class="u-text u-text-2" style="font-family: Lora; color: var(--color-theme-0) font-weight: 600;">It is our goal to help you
+                  <h6 class="" style="font-family: Lora; color: var(--color-theme-0) font-weight: 500;">It is our goal to help you
                     turn your ideas into successful reality. Below you’ll find the gallery that includes some of the
                     latest projects</h6>
                   <p class="u-text u-text-3" style="color: var(--color-theme-0);">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
