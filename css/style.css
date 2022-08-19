@@ -153,6 +153,163 @@ a:focus {
     font-weight: 400;
 }
 
+.bc-content {
+    background: var(--color-theme-1) !important;
+}
+
+.p {
+    color: #ffffff;
+}
+
+.button1 {
+    padding: 13px;
+    background-color: var(--color-theme-3);
+    color: var(--color-theme-1);
+    width: 170px;
+    margin-right: 15px;
+    border: none;
+}
+
+.button2 {
+    padding: 13px;
+    background-color: var(--color-theme-1);
+    width: 170px;
+    border-style: solid;
+    border-color: #ffffff;
+}
+
+.button3 {
+    height: 50px;
+    padding: 12px;
+    margin-top: 20px;
+    background-color: var(--color-theme-2);
+    color: var(--color-theme-1);
+    width: 170px;
+    border-style: solid;
+    border-color: var(--color-theme-1);
+}
+
+.parakarsa {
+    opacity: 0.5;
+    background-color: #000000;
+}
+
+.p1 {
+    color: #ffffff;
+    text-align: center;
+    position: relative;
+    padding-top: -100px;
+    z-index: 5;
+}
+
+.bottle1 {
+    width: 400px;
+    height: 545px;
+    position: relative;
+}
+
+.card {
+    border-style: solid;
+    border-width: 3px;
+    border-color: var(--color-theme-1);
+    height: 550px;
+    width: 500px;
+    background-color: var(--color-theme-2);
+}
+
+.p2 {
+    color: var(--color-theme-1);
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 39px;
+}
+
+.diamond {
+    border-bottom: 1px;
+    margin-right: 10px;
+}
+
+.form1 {
+    padding-left: 15px;
+    margin-left: 15px;
+    width: 420px;
+    height: 40px;
+    background-color: var(--color-theme-1);
+    border-radius: 7px;
+    color: #ffffff;
+}
+
+.form2 {
+    position: absolute;
+    padding-left: 15px;
+    margin-left: 15px;
+    width: 300px;
+    height: 40px;
+    background-color: var(--color-theme-2);
+    border-radius: 7px;
+    color: #ffffff;
+    border-color: var(--color-theme-1);
+    margin-left: 480px;
+}
+
+.form3 {
+    padding-left: 15px;
+    margin-left: 15px;
+    width: 300px;
+    height: 40px;
+    background-color: var(--color-theme-1);
+    border-radius: 7px;
+    color: #ffffff;
+    margin-left: 530px;
+}
+
+.check {
+    margin-left: 530px;
+}
+
+.icon-round {
+    padding: .20rem;
+    border-radius: 50%;
+    color: white;
+    width: 2rem;
+    height: auto;
+}
+
+.buttonReg {
+    margin-left: 15px;
+    width: 420px;
+    height: 40px;
+    border-style: solid;
+    border-width: 3px;
+    color: var(--color-theme-1);
+    border-color: var(--color-theme-1);
+    background-color: var(--color-theme-2);
+}
+
+.p4 {
+    color: var(--color-theme-1);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 50%;
+}
+
+.vidpres {
+    justify-content: center;
+    display: flex;
+    width: max-content;
+}
+
+.half {
+    width: 20%;
+}
+
+.text-color {
+    color: var(--color-theme-1);
+}
+
+
+
 /* @media (min-width: 992px) {
     .top-bar {
         padding: 0 60px;
@@ -2531,23 +2688,19 @@ select.form-control {
     margin-bottom: 20px;
 }
 
-.brr-100
-{
+.brr-100 {
     border-bottom-right-radius: 100px;
 }
 
-.btr-100
-{
+.btr-100 {
     border-top-right-radius: 100px;
 }
 
-.brl-100
-{
+.brl-100 {
     border-bottom-left-radius: 100px;
 }
 
-.btl-100
-{
+.btl-100 {
     border-top-left-radius: 100px;
 }
 
@@ -2588,7 +2741,7 @@ select.form-control {
     padding-right: 50px;
     position: absolute;
     top: 50%;
-    transform: translateY(-50%);    
+    transform: translateY(-50%);
 }
 
 .v-center img {
@@ -2775,4 +2928,40 @@ select.form-control {
 #scene #right-zone {
     height: 100%;
     flex-grow: 3;
+}
+
+.mist {
+    object-fit: cover;
+}
+
+.mist::after {
+    align-items: center;
+    background-color: #212121cc;
+    content: url('../picture/play.svg');
+    cursor: pointer;
+    display: flex;
+    height: 480px;
+    justify-content: center;
+    position: absolute;
+    width: 100%;
+}
+
+input#video {
+    display: none;
+}
+
+input#video~.mist iframe {
+    display: none;
+}
+
+input#video:checked~.mist::after {
+    content: none;
+}
+
+input#video:checked~.mist img {
+    display: none;
+}
+
+input#video:checked~.mist iframe {
+    display: block;
 }
