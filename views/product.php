@@ -243,11 +243,6 @@
     </h4>
     <h4 class="text-color" style="text-align: center;">newslatter and our social channels
     </h4>
-    <input class="form2" type="number" placeholder="Phone Number">
-</div>
-<input class="check" type="checkbox" name="" id="">
-<label style="font-size: 8px" for="">I've read and agree to Corso's written Privacy Policy and Terms & Conditions</label>
-<button class="form3"><b>SIGN UP</b></button>
 <div class="mb-2" style="margin-top: 13px">
     <i class="icon-round mr-3" style="background-color: #0B473B; margin-left:590px" data-feather="facebook"></i>
     <i class="icon-round mr-3" style="background-color: #0B473B" data-feather="twitter"></i>
