@@ -47,7 +47,7 @@
                         <input class="form1" style="margin-top:10px" type="text" placeholder="Email Address">
                         <input class="form1" style="margin-top:10px" type="number" placeholder="Phone Address">
                     </div>
-                    <input style="margin-top:10px; margin-left: 15px;" type="checkbox">
+                    <input style="margin-top:11px; margin-left: 15px;" type="checkbox">
                     <label style="font-size: 13px; color: var(--color-theme-0);">I've read and agree to Corso's written Privacy Policy and Terms & Conditions</label>
                     <a href="/done"><button class="buttonReg"><b>REGISTER</b></button></a>
                 </div>
