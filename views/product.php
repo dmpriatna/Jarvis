@@ -17,7 +17,7 @@
             </div>
         </div>
         <div class="col-6" style="opacity:0.8">
-            <img class="parakarsa" style="width: 667px" src="picture/parakarsa-photo.svg">
+            <img class="parakarsa" style="width: 640px" src="picture/parakarsa-photo.svg">
         </div>
     </div>
 </div>
