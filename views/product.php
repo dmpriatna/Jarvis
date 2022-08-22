@@ -194,7 +194,7 @@
                 <div class="card-body">
                     <img src="picture/task.svg" alt="" style="margin-left: 50px;">
                     <h5 class="text-color" style="text-align: center; padding-top:15px"><b>Writing article</b></h5>
-                    <p style="font-size: 13px">Understand where your website is currently Understand where your website is currently positioned in search engine queries in search engine queries</p>
+                    <p style="font-size: 13px; color: var(--color-theme-0);">Understand where your website is currently Understand where your website is currently positioned in search engine queries in search engine queries</p>
                 </div>
             </div>
             <button class="button3" style="width:220px; margin-left: 30px"><b>Read More</b></button>
@@ -204,7 +204,7 @@
                 <div class="card-body">
                     <img src="picture/task.svg" alt="" style="margin-left: 50px;">
                     <h5 class="text-color" style="text-align: center; padding-top:15px"><b>Writing article</b></h5>
-                    <p style="font-size: 13px">Understand where your website is currently Understand where your website is currently positioned in search engine queries in search engine queries</p>
+                    <p style="font-size: 13px; color: var(--color-theme-0);">Understand where your website is currently Understand where your website is currently positioned in search engine queries in search engine queries</p>
                 </div>
             </div>
             <button class="button3" style="width:220px; margin-left: 30px"><b>Read More</b></button>
@@ -214,7 +214,7 @@
                 <div class="card-body">
                     <img src="picture/task.svg" alt="" style="margin-left: 50px;">
                     <h5 class="text-color" style="text-align: center; padding-top:15px"><b>Writing article</b></h5>
-                    <p style="font-size: 13px">Understand where your website is currently Understand where your website is currently positioned in search engine queries in search engine queries</p>
+                    <p style="font-size: 13px; color: var(--color-theme-0);">Understand where your website is currently Understand where your website is currently positioned in search engine queries in search engine queries</p>
                 </div>
             </div>
             <button class="button3" style="width:220px; margin-left: 30px"><b>Read More</b></button>
@@ -224,7 +224,7 @@
                 <div class="card-body">
                     <img src="picture/task.svg" alt="" style="margin-left: 50px;">
                     <h5 class="text-color" style="text-align: center; padding-top:15px"><b>Writing article</b></h5>
-                    <p style="font-size: 13px">Understand where your website is currently Understand where your website is currently positioned in search engine queries in search engine queries</p>
+                    <p style="font-size: 13px; color: var(--color-theme-0);">Understand where your website is currently Understand where your website is currently positioned in search engine queries in search engine queries</p>
                 </div>
             </div>
             <button class="button3" style="width:220px; margin-left: 30px"><b>Read More</b></button>
