@@ -243,6 +243,7 @@ a:focus {
 
 .form1::placeholder{
     color: var(--color-theme-2);
+    font-weight: 300;
 }
 
 
