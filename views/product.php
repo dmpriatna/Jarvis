@@ -202,8 +202,8 @@
         <div class="col-3">
             <div class="card" style="height:280px; width:220px; border-top-right-radius: 80px; background-color: #FFFFFF; border:none; margin-left: 30px">
                 <div class="card-body">
-                    <img src="picture/task.svg" alt="">
-                    <h5 class="text-color" style="padding-top:15px"><b>Writing article</b></h5>
+                    <img src="picture/task.svg" alt="" style="margin-left: 50px;">
+                    <h5 class="text-color" style="text-align: center; padding-top:15px"><b>Writing article</b></h5>
                     <p style="font-size: 13px">Understand where your website is currently Understand where your website is currently positioned in search engine queries in search engine queries</p>
                 </div>
             </div>
@@ -212,8 +212,8 @@
         <div class="col-3">
             <div class="card" style="height:280px; width:220px; border-top-right-radius: 80px; background-color: #FFFFFF; border:none; margin-left: 30px">
                 <div class="card-body">
-                    <img src="picture/task.svg" alt="">
-                    <h5 class="text-color" style="padding-top:15px"><b>Writing article</b></h5>
+                    <img src="picture/task.svg" alt="" style="margin-left: 50px;">
+                    <h5 class="text-color" style="text-align: center; padding-top:15px"><b>Writing article</b></h5>
                     <p style="font-size: 13px">Understand where your website is currently Understand where your website is currently positioned in search engine queries in search engine queries</p>
                 </div>
             </div>
@@ -222,8 +222,8 @@
         <div class="col-3">
             <div class="card" style="height:280px; width:220px; border-top-right-radius: 80px; background-color: #FFFFFF; border:none; margin-left: 30px">
                 <div class="card-body">
-                    <img src="picture/task.svg" alt="">
-                    <h5 class="text-color" style="padding-top:15px"><b>Writing article</b></h5>
+                    <img src="picture/task.svg" alt="" style="margin-left: 50px;">
+                    <h5 class="text-color" style="text-align: center; padding-top:15px"><b>Writing article</b></h5>
                     <p style="font-size: 13px">Understand where your website is currently Understand where your website is currently positioned in search engine queries in search engine queries</p>
                 </div>
             </div>
