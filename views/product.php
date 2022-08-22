@@ -190,7 +190,7 @@
 <div class="container-fluid">
     <div class="row">
         <div class="col-3">
-            <div class="card" style="height:280px; width:220px; border-top-right-radius: 80px; background-color: #FFFFFF; border:none; margin-left: 30px">
+            <div class="card" style="height:280px; width:220px; border-top-right-radius: 80px; background-color: #FFFFFF; border:none; margin-left: 70px">
                 <div class="card-body">
                     <img src="picture/task.svg" alt="">
                     <h5 class="text-color" style="text-align: center; padding-top:15px"><b>Writing article</b></h5>
