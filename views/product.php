@@ -87,7 +87,7 @@
 <div class="container-fluid p-5 section-4">
     <div class="row">
         <div class="col-5">
-            <img src="picture/Garry.svg" alt="" style="border-top-left-radius: 80px; margin-top: 10px;">
+            <img src="picture/Garry.svg" alt="" style="border-top-left-radius: 80px; margin-top: 5px;">
         </div>
         <div class="col-7">
             <h2 class="p2"><b>I'm Garry Septiana</b></h2>
