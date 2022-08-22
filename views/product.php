@@ -59,7 +59,7 @@
 
 <!-- Content 3 Start -->
 <div class="container-fluid p-5 section-3">
-    <h2 style="padding-bottom:60px; text-align: center; font-weight: bold; font-size: 20px; font-family: Modeco;">ParaPartner</h2>
+    <h2 style="padding-bottom:60px; text-align: center; font-weight: bold; letter-spacing: 10px; font-size: 24px; font-family: Modeco;">ParaPartner</h2>
     <div class="row">
         <div class="col-2">
             <img src="picture/Legalku.svg" alt="">
