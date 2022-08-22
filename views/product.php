@@ -244,10 +244,10 @@
     <h4 class="text-color" style="text-align: center;">newslatter and our social channels
     </h4>
 <div class="mb-2" style="margin-top: 13px; margin-left: 50%;">
-    <i class="icon-round mr-3" style="background-color: #0B473B; margin-left:590px" data-feather="facebook"></i>
-    <i class="icon-round mr-3" style="background-color: #0B473B" data-feather="twitter"></i>
-    <i class="icon-round mr-3" style="background-color: #0B473B" data-feather="instagram"></i>
-    <i class="icon-round mr-3" style="background-color: #0B473B" data-feather="linkedin"></i>
+    <i class="icon-round mr-3" style="background-color: #0B473B;" data-feather="facebook"></i>
+    <i class="icon-round mr-3" style="background-color: #0B473B;" data-feather="twitter"></i>
+    <i class="icon-round mr-3" style="background-color: #0B473B;" data-feather="instagram"></i>
+    <i class="icon-round mr-3" style="background-color: #0B473B;" data-feather="linkedin"></i>
 </div>
 
 <!-- Content 9 End -->
