@@ -238,6 +238,7 @@ a:focus {
     background-color: var(--color-theme-1);
     border-radius: 7px;
     color: #ffffff;
+    border: none;
 }
 
 .form1::placeholder{
