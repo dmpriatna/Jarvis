@@ -5,15 +5,14 @@
             <div class="container p-3 py-5">
                 <div style="padding-top:70px; padding-left:100px">
                     <div class="row">
-                        <img style="padding-right: 10px; height: 50px" src="picture/Vector-2.svg">
-                        <h1 class="p"><b>Natar</b> Training Courses</h1>
+                        <h1 class="v-line-6"><b>Natar</b> Training Courses</h1>
                     </div>
                     <p class="p">Pendampingan Dokumentasi Lintas disiplin</p>
                     <p class="p" style="margin-top: -20px">ilmu untuk mengembangkan, memperbaiki, &</p>
                     <p class="p" style="margin-top: -20px">menumbuhkan bisnis UMKM</p>
                     <p class="p" style="padding-bottom: 40px">#TerusBerdampingan bersama Parakarsa</p>
-                    <button class="button1"><b>Join Our Ecosystem</b></button>
-                    <button class="button2" style="color: #ffffff"><b>Discover</b></button>
+                    <button class="button1" style="font-family: Modeco; color: var(--color-theme-1);"><b>Join Our Ecosystem</b></button>
+                    <button class="button2" style="font-family: Modeco; color: var(--color-theme-0)f"><b>Discover</b></button>
                 </div>
             </div>
         </div>
