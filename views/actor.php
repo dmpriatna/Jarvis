@@ -2,7 +2,7 @@
     <div class="row">
         <img src="picture/carousel-3.jpg" alt="carousel-3" height="350px" width="100%" style="object-fit: cover;">
         <div style="position: absolute; background: #00000080; width: 100%; height: 350px; text-align: center; align-content: center; display: grid;">
-            <h5 class="c-2">The Community Connector</h5>
+            <h5 class="c-2">The Community Connectors</h5>
             <h1 class="c-2">Co-create Sustainable</h1>
             <h1 class="c-2">Engagement</h1>
         </div>
