@@ -6,7 +6,7 @@
                 <div style="padding-top:70px; padding-left:100px">
                     <div class="row">
                         <img style="padding-right: 10px; height: 50px" src="picture/Vector-2.svg">
-                        <h1 class="p"><b>Natar</b> Training Course</h1>
+                        <h1 class="p"><b>Natar</b> Training Courses</h1>
                     </div>
                     <p class="p">Pendampingan Dokumentasi Lintas disiplin</p>
                     <p class="p" style="margin-top: -20px">ilmu untuk mengembangkan, memperbaiki, &</p>
