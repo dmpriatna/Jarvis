@@ -122,7 +122,7 @@
 <div class="container-fluid p-5 section-6">
     <h2 class="p2"><b>What Will You Learn In Our SEO </b></h2>
     <h2 class="p2" style="margin-top:-20px"><b>Focused Training Course</b></h2>
-    <div class="row">
+    <div class="row" style="margin-top: 50px;">
         <div class="col-md-6">
             <div>
                 <hr style="width:75%; text-align:left; border: 1px solid var(--color-theme-1);">
