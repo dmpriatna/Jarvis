@@ -238,12 +238,12 @@
 
 <!-- Content 9 Start -->
 
-<div class="container-fluid p-5 section-9">
+<div class="container-fluid p-5 section-9" style="margin-top: 50px;">
     <h4 class="text-color" style="text-align: center;"><b>Stay updated with news by subscribing to our</b>
     </h4>
     <h4 class="text-color" style="text-align: center;">newslatter and our social channels
     </h4>
-<div class="mb-2" style="margin-top: 50px; margin-left: 50%;">
+<div class="mb-2" style="margin-top: 20px; margin-left: auto; margin-right: auto;">
     <i class="icon-round mr-3" style="background-color: #0B473B;" data-feather="facebook"></i>
     <i class="icon-round mr-3" style="background-color: #0B473B;" data-feather="twitter"></i>
     <i class="icon-round mr-3" style="background-color: #0B473B;" data-feather="instagram"></i>
