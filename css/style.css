@@ -240,6 +240,11 @@ a:focus {
     color: #ffffff;
 }
 
+.form1::placeholder{
+    color: var(--color-theme-2);
+}
+
+
 .form2 {
     position: absolute;
     padding-left: 15px;
