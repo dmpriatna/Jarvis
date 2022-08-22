@@ -99,7 +99,7 @@
                   <p class="u-text u-text-8" style="color: var(color-theme-1);">Date</p>
                   <p class="u-text u-text-9">12 June 2018</p>
                   <p class="u-text u-text-10" style="color: var(color-theme-1);">Photography</p>
-                  <p class="u-text u-text-11">Oliver Baco</p>
+                  <p class="u-text u-text-11">Olivers Baco</p>
                 </div>
               </div>
             </div>
