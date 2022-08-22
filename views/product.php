@@ -125,7 +125,7 @@
     <div class="row">
         <div class="col-md-6">
             <div>
-                <hr style="width:75%; text-align:left; height:24px; color: var(--color-theme-1);">
+                <hr style="width:75%; text-align:left; height:24px; border-color: var(--color-theme-1);">
                 <h4 style="text-align:left; margin-left:72px;"><b>Optimizing your site for mobile devices </b></h4>
                 <p style="text-align:left; margin-left:72px; margin-right:24px;">One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices
                 <p>
