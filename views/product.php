@@ -182,10 +182,9 @@
 
 <!-- Content 7 Start -->
 <div class="container-fluid p-5 section-7 ">
-    <h2 class="p2"><b>Key Takeaways</b></h2>
-    <p>
-        <center>Here are the main topics that will be covered in the SEO training course.
-            They cover all the basics<br> of SEO and even some advanced techniques that will help you along the way
+    <h2 class="p2" style="font-weight: bold;"><b>Key Takeaways</b></h2>
+    <p style="text-align: center; color: var(--color-theme-0);">Here are the main topics that will be covered in the SEO training course.They cover all the basics
+        <br> of SEO and even some advanced techniques that will help you along the way
     </p>
 </div>
 <div class="container-fluid">
