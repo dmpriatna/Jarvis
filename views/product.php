@@ -43,7 +43,7 @@
                         <p style="margin-top: -20px; color: var(--color-theme-0);"><b>#TerusBerdampingan</b> bersama Parakarsa</p>
                     </div>
                     <div>
-                        <input class="form1" type="text" placeholder="Complete Name">
+                        <input class="form1" type="text" placeholder="Complete Name" style="border: none;">
                         <input class="form1" style="margin-top:10px" type="text" placeholder="Email Address">
                         <input class="form1" style="margin-top:10px" type="number" placeholder="Phone Address">
                     </div>
