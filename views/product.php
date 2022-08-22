@@ -12,7 +12,7 @@
                     <p class="p" style="margin-top: -20px">menumbuhkan bisnis UMKM</p>
                     <p class="p" style="padding-bottom: 40px">#TerusBerdampingan bersama Parakarsa</p>
                     <button class="button1" style="font-weight: bold; font-family: Modeco; color: var(--color-theme-1);"><b>Join Our Ecosystem</b></button>
-                    <button class="button2" style="font-weight: bold; font-family: Modeco; color: var(--color-theme-2)f"><b>Discover</b></button>
+                    <button class="button2" style="font-weight: bold; font-family: Modeco; color: var(--color-theme-2);"><b>Discover</b></button>
                 </div>
             </div>
         </div>
