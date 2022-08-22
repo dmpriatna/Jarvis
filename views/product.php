@@ -169,8 +169,8 @@
 
 <!-- Content 6 Start -->
 <div class="container-fluid p-5 section-6">
-    <h1 class="p2">Course Video Presentation</h1>
-    <img style="padding-left:425px; margin-top: -10px" src="picture/vektor-4.svg" alt="">
+    <h1 class="p2" style="text-align: center;">Course Video Presentation</h1>
+    <hr style="width:50%; border: 1px solid var(--color-theme-1);">
 </div>
 
 <input type="checkbox" name="video" id="video">
