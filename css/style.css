@@ -260,6 +260,11 @@ a:focus {
     margin-left: 480px;
 }
 
+.form2::placeholder{
+    color: var(--color-theme-2);
+    font-weight: 300;
+}
+
 .form3 {
     padding-left: 15px;
     margin-left: 15px;

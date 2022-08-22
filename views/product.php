@@ -217,7 +217,7 @@
                     <p style="font-size: 13px; color: var(--color-theme-0);">Understand where your website is currently Understand where your website is currently positioned in search engine queries in search engine queries</p>
                 </div>
             </div>
-            <button class="button3" style="width:220px; margin-left: 30px"><b>Read More</b></button>
+            <button class="button3" style="width:220px; margin-left: 30px; font-family: Modeco;"><b>Read More</b></button>
         </div>
         <div class="col-3">
             <div class="card" style="height:280px; width:220px; border-top-right-radius: 80px; background-color: #FFFFFF; border:none; margin-left: 30px">
@@ -234,19 +234,14 @@
 <!-- Content 7 End -->
 
 <!-- Content 8 Start -->
-<div>
-    <h1>being to show</h1>
-</div>
 <!-- Content 8 End -->
 
 <!-- Content 9 Start -->
 
 <div class="container-fluid p-5 section-9">
-    <h4 class="text-color">
-        <center><b>Stay updated with news by subscribing to our</b>
+    <h4 class="text-color" style="text-align: center;"><b>Stay updated with news by subscribing to our</b>
     </h4>
-    <h4 class="text-color">
-        <center>newslatter and our social channels
+    <h4 class="text-color" style="text-align: center;">newslatter and our social channels
     </h4>
     <input class="form2" type="number" placeholder="Phone Number">
 </div>
