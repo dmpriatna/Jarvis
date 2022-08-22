@@ -40,10 +40,10 @@
                             <li style="color: var(--color-theme-0);"><i class="diamond" src="picture/diamond"></i><b>It's safe with us</b> and will not be used for marketing</li>
                             <li style="color: var(--color-theme-0);"><i class="diamond" src="picture/diamond"></i><b>It's safe with us</b> and will not be used for marketing</li>
                         </ul>
-                        <p style="margin-top: -20px"><b>#TerusBerdampingan</b> bersama Parakarsa</p>
+                        <p style="margin-top: -20px color: var(--color-theme-0);"><b>#TerusBerdampingan</b> bersama Parakarsa</p>
                     </div>
                     <div>
-                        <input class="form1" type="text" placeholder="Complete Name">
+                        <input class="form1" type="text" placeholder="Complete Name" style="color: var(--color-theme-2);">
                         <input class="form1" style="margin-top:10px" type="text" placeholder="Email Address">
                         <input class="form1" style="margin-top:10px" type="number" placeholder="Phone Address">
                     </div>
