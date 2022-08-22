@@ -36,9 +36,9 @@
                         <h3 class="p2"><b>Register Using The Form</b></h3>
                         <p style="color: var(--color-theme-0);">It's easy to register for the course, just fill out the form and click submit. Then you will be registered for one of the best SEO training courses in the industry</p>
                         <ul class="container p-3" style="margin-top: -20px">
-                            <li><i class="diamond" src="picture/diamond" style="color: var(--color-theme-0);"></i><b>It's safe with us</b> and will not be used for marketing</li>
-                            <li><i class="diamond" src="picture/diamond" style="color: var(--color-theme-0);"></i><b>It's safe with us</b> and will not be used for marketing</li>
-                            <li><i class="diamond" src="picture/diamond" style="color: var(--color-theme-0);"></i><b>It's safe with us</b> and will not be used for marketing</li>
+                            <li style="color: var(--color-theme-0);"><i class="diamond" src="picture/diamond"></i><b>It's safe with us</b> and will not be used for marketing</li>
+                            <li style="color: var(--color-theme-0);"><i class="diamond" src="picture/diamond"></i><b>It's safe with us</b> and will not be used for marketing</li>
+                            <li style="color: var(--color-theme-0);"><i class="diamond" src="picture/diamond"></i><b>It's safe with us</b> and will not be used for marketing</li>
                         </ul>
                         <p style="margin-top: -20px"><b>#TerusBerdampingan</b> bersama Parakarsa</p>
                     </div>
