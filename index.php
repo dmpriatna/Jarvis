@@ -8,6 +8,16 @@ require_once 'core/myContext.php';
 
 $router = new Router(new Request);
 
+$router->get('/paralancer-connect', function() {
+  header('Location: https://bit.ly/paralancer-connect');
+  die();
+});
+
+$router->get('/daftar-pendampingan', function() {
+  header('Location: https://bit.ly/pedampingankartanesia');
+  die();
+});
+
 $router->get('/', function() {
   $content = file_get_contents(dirname(__FILE__).'/views/stage.php');
   include('views/base.page.php');
