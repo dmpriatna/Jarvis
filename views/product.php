@@ -27,7 +27,7 @@
 <div class="container-fluid p-5 section-2">
     <div class="row">
         <div class="col-6">
-            <img class="bottle1" src="picture/bottle.svg">
+            <img class="bottle1" src="picture/bottle.svg" style="margin-left: 40px;">
         </div>
         <div class="col-6">
             <div class="card">
