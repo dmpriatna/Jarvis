@@ -9,12 +9,12 @@ require_once 'core/myContext.php';
 $router = new Router(new Request);
 
 $router->get('/paralancer-connect', function() {
-  header('Location: https://bit.ly/paralancer-connect');
+  header('Location: https://bit.ly/fgdparalancer');
   die();
 });
 
 $router->get('/daftar-pendampingan', function() {
-  header('Location: https://bit.ly/pedampingankartanesia');
+  header('Location: https://bit.ly/pendampingankartanesia');
   die();
 });
 
