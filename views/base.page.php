@@ -1,9 +1,9 @@
 <?php
 $host = $_SERVER['SERVER_NAME'];
-$isPro = strpos($host, "development");
+$isPro = str_contains($host, "development") && str_contains($host, "localhost");
 $blank = "/blank";
 $navStory = $isPro ? $blank : "/story";
-$navProgram = $isPro ? $blank : "/program";
+$navProgram = $isPro ? $blank : "/project";
 $navExperience = $isPro ? $blank : "/experience";
 $navImpact = $isPro ? $blank : "/impact";
 $navActor = $isPro ? $blank : "/actor";

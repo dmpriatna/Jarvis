@@ -11,41 +11,41 @@
 <div class="container">
     <div class="row py-5">
         <div class="col" style="text-align: center;">
-            <h1>Oriented Training Groups</h1>
+            <h1 style="font-family: Modeco; font-weight: bold;">Oriented Training Groups</h1>
         </div>
     </div>
     <div class="row">
         <div class="col-md-6">
-            <img src="/picture/project-1.jpg" alt="project-1" height="100%" width="100%" style="object-fit: cover;">
+            <img src="/picture/project-1.jpg" alt="project-1" height="77%" width="100%" style="border-top-left-radius: 60px; object-fit: cover;">
         </div>
         <div class="col-md-6">
             <h1><b>Para</b>Preneur</h1>
-            <h3>Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.</p>
+            <h3 style="font-size: 20px; font-family: Lora; font-weight: 500; color: var(--color-theme-0);">Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
+            <p style="color: var(--color-theme-0);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.</p>
             <div class="btn normal">Learn more</div>
         </div>
         <p>&nbsp;</p>
     </div>
     <div class="row">
         <div class="col-md-6">
-            <img src="/picture/project-2.jpg" alt="project-2" height="100%" width="100%" style="object-fit: cover;">
+            <img src="/picture/project-2.jpg" alt="project-2" height="77%" width="100%" style="border-top-left-radius: 60px;object-fit: cover;">
         </div>
         <div class="col-md-6">
             <h1><b>Para</b>Lancer</h1>
-            <h3>Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.</p>
+            <h3 style="font-size: 20px; font-family: Lora; font-weight: 500; color: var(--color-theme-0);">Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
+            <p style="color: var(--color-theme-0);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.</p>
             <div class="btn normal">Learn more</div>
         </div>
         <p>&nbsp;</p>
     </div>
     <div class="row">
         <div class="col-md-6">
-            <img src="/picture/project-3.jpg" alt="project-3" height="100%" width="100%" style="object-fit: cover;">
+            <img src="/picture/project-3.jpg" alt="project-3" height="77%" width="100%" style="border-top-left-radius: 60px; object-fit: cover;">
         </div>
         <div class="col-md-6">
             <h1><b>Para</b>Partner</h1>
-            <h3>Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.</p>
+            <h3 style="font-size: 20px; font-family: Lora; font-weight: 500; color: var(--color-theme-0);">Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
+            <p style="color: var(--color-theme-0);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.</p>
             <div class="btn normal">Learn more</div>
         </div>
         <p>&nbsp;</p>

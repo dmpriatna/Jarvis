@@ -8,6 +8,16 @@ require_once 'core/myContext.php';
 
 $router = new Router(new Request);
 
+$router->get('/paralancer-connect', function() {
+  header('Location: https://bit.ly/fgdparalancer');
+  die();
+});
+
+$router->get('/daftar-pendampingan', function() {
+  header('Location: https://bit.ly/pendampingankartanesia');
+  die();
+});
+
 $router->get('/', function() {
   $content = file_get_contents(dirname(__FILE__).'/views/stage.php');
   include('views/base.page.php');
@@ -88,6 +98,12 @@ $router->get('/community_detail', function() {
 
 $router->get('/connect', function() {
   $content = file_get_contents(dirname(__FILE__).'/views/connect.php');
+  include('views/base.page.php');
+  return;
+});
+
+$router->get('/done', function() {
+  $content = file_get_contents(dirname(__FILE__).'/views/thankyou.php');
   include('views/base.page.php');
   return;
 });
