@@ -1,6 +1,6 @@
 <?php
 $host = $_SERVER['SERVER_NAME'];
-$isPro = $host !== "development" && $host !== "localhost";
+$isPro = str_contains($host, "development") && str_contains($host, "localhost");
 $blank = "/blank";
 $navStory = $isPro ? $blank : "/story";
 $navProgram = $isPro ? $blank : "/project";
