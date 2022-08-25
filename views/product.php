@@ -202,8 +202,8 @@
     <!-- end of description -->
 
 
-        <!-- Video -->
-        <div class="basic-4">
+<!-- Video -->
+            <div class="basic-4">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -214,7 +214,7 @@
                     <div class="image-container">
                         <div class="video-wrapper">
                             <a class="popup-youtube" href="https://www.youtube.com/embed/4qMBOtrchVI" data-effect="fadeIn">
-                                <img class="img-fluid" src="picture/carousel-3.jpg" alt="alternative">
+                                <img class="img-fluid" src="picture/carousel-3.jpg" alt="alternative" style="height: 480px; width: 80%;">
                                 <span class="video-play-button">
                                     <span></span>
                                 </span>
