@@ -339,7 +339,7 @@
 
 <!-- Date -->
 <div id="date" class="basic-5">
-        <div class="container">
+        <div class="container" style="background-image: url("picture/carousel-3.jpg");">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="text-container">
