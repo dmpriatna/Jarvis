@@ -157,7 +157,7 @@
                 <div class="col-lg-6">
                     <ul class="list-unstyled li-space-lg second">
                         <li class="media">
-                            <i class="bullet">4</i>
+                            <i class="bullet" style="padding-left: 20px; font-size: 25px;font-weight: bold; color: var(--color-theme-1);">4</i>
                             <div class="media-body">
                             <hr style="width:65%; border: 1px solid var(--color-theme-1);">
                                 <h4>Analyse your existing search traffic</h4>
@@ -165,15 +165,17 @@
                             </div>
                         </li>
                         <li class="media">
-                            <i class="bullet">5</i>
+                            <i class="bullet" style="padding-left: 20px; font-size: 25px;font-weight: bold; color: var(--color-theme-1);">5</i>
                             <div class="media-body">
+                            <hr style="width:65%; border: 1px solid var(--color-theme-1);">
                                 <h4>Keep updated with the latest changes</h4>
                                 <p>Google changes it's search indexing algorithm twice a year so it's important to stay updated with news</p>
                             </div>
                         </li>
                         <li class="media">
-                            <i class="bullet">6</i>
+                            <i class="bullet" style="padding-left: 20px; font-size: 25px;font-weight: bold; color: var(--color-theme-1);">6</i>
                             <div class="media-body">
+                            <hr style="width:65%; border: 1px solid var(--color-theme-1);">
                                 <h4>Learn the most important ranking factors</h4>
                                 <p>Learn which are the most important search engine ranking factors and optimize your website accordnigly</p>
                             </div>
