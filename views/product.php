@@ -130,7 +130,7 @@
                 <div class="col-lg-6">
                     <ul class="list-unstyled li-space-lg first">
                         <li class="media">
-                            <i class="bullet" style="padding-left: 20px; font-size: 25px;font-weight: bold; color: var(--color-theme-1);">1</i>
+                            <i class="bullet" style="font-size: 25px;font-weight: bold; color: var(--color-theme-1);">1</i>
                             <div class="media-body">
                             <hr style="width:65%; border: 1px solid var(--color-theme-1);">
                                 <h4>Optimizing your site for mobile devices</h4>
@@ -138,14 +138,14 @@
                             </div>
                         </li>
                         <li class="media">
-                            <i class="bullet" style="padding-left: 20px; font-size: 25px;font-weight: bold; color: var(--color-theme-1);">2</i>
+                            <i class="bullet" style="font-size: 25px;font-weight: bold; color: var(--color-theme-1);">2</i>
                             <div class="media-body">
                                 <h4>Understand how users search</h4>
                                 <p>It's not enough anymore to find relevant industry keywords and write huge amounts of content </p>
                             </div>
                         </li>
                         <li class="media">
-                            <i class="bullet style="padding-left: 20px; font-size: 25px;font-weight: bold; color: var(--color-theme-1);"">3</i>
+                            <i class="bullet style="font-size: 25px;font-weight: bold; color: var(--color-theme-1);"">3</i>
                             <div class="media-body">
                             <hr style="width:65%; border: 1px solid var(--color-theme-1);">
                                 <h4>Write for humans optimize for engines</h4>
@@ -157,7 +157,7 @@
                 <div class="col-lg-6">
                     <ul class="list-unstyled li-space-lg second">
                         <li class="media">
-                            <i class="bullet" style="padding-left: 20px; font-size: 25px;font-weight: bold; color: var(--color-theme-1);">4</i>
+                            <i class="bullet" style="font-size: 25px;font-weight: bold; color: var(--color-theme-1);">4</i>
                             <div class="media-body">
                             <hr style="width:65%; border: 1px solid var(--color-theme-1);">
                                 <h4>Analyse your existing search traffic</h4>
@@ -165,7 +165,7 @@
                             </div>
                         </li>
                         <li class="media">
-                            <i class="bullet" style="padding-left: 20px; font-size: 25px;font-weight: bold; color: var(--color-theme-1);">5</i>
+                            <i class="bullet" style="font-size: 25px;font-weight: bold; color: var(--color-theme-1);">5</i>
                             <div class="media-body">
                             <hr style="width:65%; border: 1px solid var(--color-theme-1);">
                                 <h4>Keep updated with the latest changes</h4>
@@ -173,7 +173,7 @@
                             </div>
                         </li>
                         <li class="media">
-                            <i class="bullet" style="padding-left: 20px; font-size: 25px;font-weight: bold; color: var(--color-theme-1);">6</i>
+                            <i class="bullet" style="font-size: 25px;font-weight: bold; color: var(--color-theme-1);">6</i>
                             <div class="media-body">
                             <hr style="width:65%; border: 1px solid var(--color-theme-1);">
                                 <h4>Learn the most important ranking factors</h4>
