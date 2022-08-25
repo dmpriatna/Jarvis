@@ -123,10 +123,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2 style="text-align: center; font-weigh: bold;">What Will You Learn In Our SEO <br>Focused Training Course</h2>
+                    <h2 style="text-align: center; font-weight: bold;">What Will You Learn In Our SEO <br>Focused Training Course</h2>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
-            <div class="row">
+            <div class="row" style="margin-top: 40px;">
                 <div class="col-lg-6">
                     <ul class="list-unstyled li-space-lg first">
                         <li class="media">
