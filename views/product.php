@@ -130,7 +130,7 @@
                 <div class="col-lg-6">
                     <ul class="list-unstyled li-space-lg first">
                         <li class="media">
-                            <i class="bullet" style="font-size: 25px;font-weight: bold; color: var(--color-theme-1);">1</i>
+                            <i class="bullet" style="padding-left: -10px; font-size: 25px;font-weight: bold; color: var(--color-theme-1);">1</i>
                             <div class="media-body">
                             <hr style="width:65%; border: 1px solid var(--color-theme-1);">
                                 <h4>Optimizing your site for mobile devices</h4>
