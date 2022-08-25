@@ -201,18 +201,33 @@
     </div> <!-- end of basic-2 -->
     <!-- end of description -->
 
-<!-- Content 6 Start -->
-<div class="container-fluid p-5 section-6">
-    <h1 class="p2" style="text-align: center;">Course Video Presentation</h1>
-    <hr style="width:30%; border: 3px solid var(--color-theme-1);">
-</div>
 
-<input type="checkbox" name="video" id="video">
-<label class="d-flex justify-content-center mist" for="video">
-    <img src="picture/carousel-3.jpg" alt="carousel-3" height="480" width="100%" class="mist">
-    <iframe width="100%" height="480" src="https://www.youtube.com/embed/4qMBOtrchVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</label>
-<!-- Content 6 End -->
+        <!-- Video -->
+        <div class="basic-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2 style="text-align: center;">Course Video Presentation</h2>
+                    <hr style="width:30%; border: 3px solid var(--color-theme-1);">
+
+                    <!-- Video Preview -->
+                    <div class="image-container">
+                        <div class="video-wrapper">
+                            <a class="popup-youtube" href="https://www.youtube.com/embed/4qMBOtrchVI" data-effect="fadeIn">
+                                <img class="img-fluid" src="picture/carousel-3.jpg" alt="alternative">
+                                <span class="video-play-button">
+                                    <span></span>
+                                </span>
+                            </a>
+                        </div> <!-- end of video-wrapper -->
+                    </div> <!-- end of image-container -->
+                    <!-- end of video preview -->
+
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of basic-4 -->
+    <!-- end of video -->
 
 <!-- Content 7 Start -->
 <div class="container-fluid p-5 section-7 ">
