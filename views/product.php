@@ -341,6 +341,7 @@
 <div id="date" class="basic-5">
         <div class="container">
             <div class="row">
+                <img src="picture/carousel-3.jpg"></img>
                 <div class="col-lg-12">
                     <div class="text-container">
                         <h2 style="font-weight: bold;"><b>December 22nd 2020 at</b><br> Innovation Hub Space</h2>
