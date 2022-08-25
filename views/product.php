@@ -138,15 +138,16 @@
                             </div>
                         </li>
                         <li class="media">
-                            <i class="bullet">2</i>
+                            <i class="bullet" style="padding-left: 20px; font-size: 25px;font-weight: bold; color: var(--color-theme-1);">2</i>
                             <div class="media-body">
                                 <h4>Understand how users search</h4>
                                 <p>It's not enough anymore to find relevant industry keywords and write huge amounts of content </p>
                             </div>
                         </li>
                         <li class="media">
-                            <i class="bullet">3</i>
+                            <i class="bullet style="padding-left: 20px; font-size: 25px;font-weight: bold; color: var(--color-theme-1);"">3</i>
                             <div class="media-body">
+                            <hr style="width:65%; border: 1px solid var(--color-theme-1);">
                                 <h4>Write for humans optimize for engines</h4>
                                 <p>Write well structured and understandable articles not just a mix of paragraphs that contain keywords</p>
                             </div>
@@ -158,6 +159,7 @@
                         <li class="media">
                             <i class="bullet">4</i>
                             <div class="media-body">
+                            <hr style="width:65%; border: 1px solid var(--color-theme-1);">
                                 <h4>Analyse your existing search traffic</h4>
                                 <p>A good action plan comes out of understanding where your current position is and the environment</p>
                             </div>
