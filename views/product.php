@@ -140,6 +140,7 @@
                         <li class="media">
                             <i class="bullet" style="font-size: 25px;font-weight: bold; color: var(--color-theme-1);">2</i>
                             <div class="media-body">
+                            <hr style="width:65%; border: 1px solid var(--color-theme-1);">
                                 <h4>Understand how users search</h4>
                                 <p>It's not enough anymore to find relevant industry keywords and write huge amounts of content </p>
                             </div>
