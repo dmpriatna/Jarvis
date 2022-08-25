@@ -343,7 +343,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="text-container">
-                        <h2>December 22nd 2020 at Innovation Hub Space</h2>
+                        <h2 style="font-weight: bold;"><b>December 22nd 2020 at</b><br> Innovation Hub Space</h2>
                         <p>Our mission is to help people do better SEO. The team is excited to invite you to the next SEO Training Course session which undoubtedly will provide you with the necessary skills to improve your online presence. Fill out the form to register and we'll contact you in less than 24h</p>
                         <a class="btn-solid-lg page-scroll" href="#register">REGISTER</a>
                     </div> <!-- end of text-container -->
