@@ -268,6 +268,59 @@
 <!-- Content 7 End -->
 
 <!-- Content 8 Start -->
+<div class="container-fluid bg-testimonial py-5 btl-100" style="margin-top: 80px; height: 460px;">
+    <div class="container py-4">
+        <div class="row">
+            <div class="col-lg-7">
+                <h1 class="section-title mb-5" style=" color: var(--color-theme-2); margin-top: 10px; font-size: 32px;"><b>Bagaimana </b>Kesan Mereka?</h1>
+                <div class="owl-carousel testimonial-carousel position-relative">
+                    <div class="d-flex flex-column text-white">
+                        <div class="d-flex align-items-center mb-3">
+                            <img class="img-fluid" src="picture/testimonial-1.jpeg" alt="">
+                            <div class="ml-3">
+                                <h5 class="" style=" color: var(--color-theme-3); font-size: 20px; font-weight: medium; font-family: Lora;">Rina Mulyani, S.Pd, M.T</h5>
+                                <i style="font-size: 16px;">Kabid. UMKM DISDAGKOPERIN Kota Cimahi</i>
+                            </div>
+                        </div>
+                        <p class="pt-2" style="padding-right: 20px;">Terima kasih kepada Parakarsa yang telah membantu pemerintah Cimahi dalam meningkatkan
+                            kualitas UMKM, khususnya wirausaha pemula di Cimahi melalui
+                            pendampingan NATAR.</p>
+                    </div>
+                    <div class="d-flex flex-column text-white">
+                        <div class="d-flex align-items-center mb-3">
+                            <img class="img-fluid" src="picture/testimonial-2.jpg" alt="">
+                            <div class="ml-3">
+                                <h5 class="" style=" color: var(--color-theme-3); font-size: 20px; font-weight: medium; font-family: Lora;">Pudji Destari</h5>
+                                <i style="font-size: 16px;">Elmanta, Cimahi.</i>
+                            </div>
+                        </div>
+                        <p class="pt-2" style="padding-right: 20px; padding-left: 5px;">Kehadiran Teh Ayu sebagai pendamping sangat bermanfaat sekali untuk saya selama
+                            pelatihan, skill dan kompetensinya cukup baik. Mampu memberikan ide dan masukan juga
+                            dari pertama pelatihan sampai pembuatan presentasi bisnis. Pokonya The Best lah Teh
+                            Ayu.</p>
+                    </div>
+                    <div class="d-flex flex-column text-white">
+                        <div class="d-flex align-items-center mb-3">
+                            <img class="img-fluid" src="picture/testimonial-3.jpg" alt="">
+                            <div class="ml-3">
+                                <h5 class="" style=" color: var(--color-theme-3); font-size: 20px; font-weight: medium; font-family: Lora;">Tri Ayu Eka</h5>
+                                <i style="font-size: 16px;">Madu Bhimaristan, Cimahi.</i>
+                            </div>
+                        </div>
+                        <p class="pt-2" style="padding-right: 30px;">Materi pendampingan Parakarsa ini mantuuull, banyak materi S2 yang disampaikan disini
+                            dengan cara yang lebih sederhana dan praktis. Jadi ibu - ibu alhamdulillah bersyukur,
+                            pak Irfan memahami kita tnggal dapat formula termudah.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-5" style="min-height: 400px;">
+                <div class="position-relative h-100 rounded overflow-hidden">
+                    <img class="position-absolute" src="picture/testimonial-0.jpg" style="object-fit: cover; width: 480px; height: 300px;">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <!-- Content 8 End -->
 
 <!-- Content 9 Start -->
