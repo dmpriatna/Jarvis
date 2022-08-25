@@ -201,56 +201,6 @@
     </div> <!-- end of basic-2 -->
     <!-- end of description -->
 
-
-<!-- Content 5 Start -->
-<div class="container-fluid p-5 section-6">
-    <h2 class="p2"><b>What Will You Learn In Our SEO </b></h2>
-    <h2 class="p2" style="margin-top:-20px"><b>Focused Training Course</b></h2>
-    <div class="row" style="margin-top: 50px;">
-        <div class="col-md-6">
-            <div>
-                <hr style="width:75%; text-align:left; border: 1px solid var(--color-theme-1);">
-                <h4 style="text-align:left; margin-left:72px;"><b>Optimizing your site for mobile devices </b></h4>
-                <p style="text-align:left; margin-left:72px; margin-right:24px;">One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices
-                <p>
-            </div>
-            <div style="margin-top: 50px;">
-                <hr style="width:75%; text-align:left; border: 1px solid var(--color-theme-1);">
-                <h4 style="text-align:left; margin-left:72px;"><b>Optimizing your site for mobile devices </b></h4>
-                <p style="text-align:left; margin-left:72px; margin-right:24px;">One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices
-                <p>
-            </div>
-            <div style="margin-top: 50px;">
-                <hr style="width:75%; text-align:left; border: 1px solid var(--color-theme-1);">
-                <h4 style="text-align:left; margin-left:72px;"><b>Optimizing your site for mobile devices </b></h4>
-                <p style="text-align:left; margin-left:72px; margin-right:24px;">One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices
-                <p>
-            </div>
-        </div>
-        <div class="col-md-6">
-            <div>
-                <hr style="width:75%; text-align:left; border: 1px solid var(--color-theme-1);">
-                <h4 style="text-align:left; margin-left:72px;"><b>Optimizing your site for mobile devices </b></h4>
-                <p style="text-align:left; margin-left:72px; margin-right:24px;">One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices
-                <p>
-            </div>
-            <div style="margin-top: 50px;">
-                <hr style="width:75%; text-align:left; border: 1px solid var(--color-theme-1);">
-                <h4 style="text-align:left; margin-left:72px;"><b>Optimizing your site for mobile devices </b></h4>
-                <p style="text-align:left; margin-left:72px; margin-right:24px;">One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices
-                <p>
-            </div>
-            <div style="margin-top: 50px;">
-                <hr style="width:75%; text-align:left; border: 1px solid var(--color-theme-1);">
-                <h4 style="text-align:left; margin-left:72px;"><b>Optimizing your site for mobile devices </b></h4>
-                <p style="text-align:left; margin-left:72px; margin-right:24px;">One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices
-                <p>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Content 5 Start -->
-
 <!-- Content 6 Start -->
 <div class="container-fluid p-5 section-6">
     <h1 class="p2" style="text-align: center;">Course Video Presentation</h1>
