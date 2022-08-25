@@ -211,7 +211,7 @@
                     <hr style="width:30%; border: 3px solid var(--color-theme-1);">
 
                     <!-- Video Preview -->
-                    <div class="image-container">
+                    <div class="image-container" style="margin-top: 50px;">
                         <div class="video-wrapper">
                             <a class="popup-youtube" href="https://www.youtube.com/embed/4qMBOtrchVI" data-effect="fadeIn">
                                 <img class="img-fluid" src="picture/carousel-3.jpg" alt="alternative" style="margin-left: 10%; height: 430px; width: 80%;">
