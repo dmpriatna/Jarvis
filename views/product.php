@@ -201,9 +201,8 @@
     </div> <!-- end of basic-2 -->
     <!-- end of description -->
 
-
-<!-- Video -->
-            <div class="basic-4" style="margin-top: 50px;">
+    <!-- Video -->
+    <div class="basic-4" style="margin-top: 50px;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -213,7 +212,7 @@
                     <!-- Video Preview -->
                     <div class="image-container" style="margin-top: 50px;">
                         <div class="video-wrapper">
-                            <a class="popup-youtube" href="https://www.youtube.com/embed/4qMBOtrchVI" data-effect="fadeIn">
+                            <a class="popup-youtube" href="https://www.youtube.com/embed/4qMBOtrchVI" data-effect="fadeIn" style="height: 430px; width: 80%;">
                                 <img class="img-fluid" src="picture/carousel-3.jpg" alt="alternative" style="margin-left: 10%; height: 430px; width: 80%;">
                                 <span class="video-play-button">
                                     <span></span>
