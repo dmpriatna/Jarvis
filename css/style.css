@@ -40,6 +40,39 @@ a:focus {
     text-decoration: none;
 }
 
+.basic-5 {
+	background-color: #fbf9f5;
+}
+
+.basic-5 .text-container {
+	padding-top: 6rem;
+	padding-bottom: 6.125rem;
+	border-radius: 0.75rem;
+	background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../picture/carousel-1.jpg') center center no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+
+.basic-5 h2 {
+	width: 90%;
+	margin-right: auto;
+	margin-bottom: 2rem;
+	margin-left: auto;
+	color: #eee;
+}
+
+.basic-5 p {
+	width: 88%;
+	margin-right: auto;
+	margin-bottom: 1.75rem;
+	margin-left: auto;
+	color: #ddd;
+}
+
+.basic-5 .btn-solid-lg:hover {
+	border: 0.125rem solid #fff;
+	color: #fff;
+}
 
 .btn:focus {
     box-shadow: none;

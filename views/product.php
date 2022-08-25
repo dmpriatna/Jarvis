@@ -339,8 +339,7 @@
 
 <!-- Date -->
 <div id="date" class="basic-5">
-        <div class="container" style="text-align: center;">
-        <img src="picture/carousel-3.jpg" style="background-size: cover; padding-top: 6rem; padding-bottom: 6.125rem; height: 100%; width: 100%;">
+        <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="text-container">
