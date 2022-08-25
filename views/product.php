@@ -145,7 +145,7 @@
                             <i class="bullet" style="font-size: 25px;font-weight: bold; color: var(--color-theme-1);">2</i>
                             <hr style="margin-left: 20px; width: 80%; border: 1px solid var(--color-theme-1);">        
                                </div>
-                                <h4 style="padding-top: 10px; font-weight: bold; font-family: Modeco;">Optimizing your site for mobile devices</h4>
+                                <h4 style="padding-top: -5px; font-weight: bold; font-family: Modeco;">Optimizing your site for mobile devices</h4>
                                 <p>One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices</p>
                             </div>
                         </li>
