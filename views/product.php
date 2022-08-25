@@ -17,7 +17,7 @@
             </div>
         </div>
         <div class="col-6" style="opacity:0.8">
-            <img class="parakarsa" style="margin-left: 25px; width: 640px;" src="picture/parakarsa-photo.svg">
+            <img class="parakarsa" style="width: 640px;" src="picture/parakarsa-photo.svg">
         </div>
     </div>
 </div>
@@ -27,7 +27,7 @@
 <div class="container-fluid p-5 section-2">
     <div class="row">
         <div class="col-6">
-            <img class="bottle1" src="picture/bottle.svg">
+            <img class="bottle1" style="margin-left: 40px;" src="picture/bottle.svg">
         </div>
         <div class="col-6">
             <div class="card">
