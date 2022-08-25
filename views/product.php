@@ -338,13 +338,13 @@
 <!-- Content 8 End -->
 
 <!-- Date -->
-<div class="bg-dec">
+<div class="bg-dec" style="margin-top: 40px;">
         <div class="container">
         <div class="row">
                 <div class="col-lg-12">
                     <div class="text-container">
-                        <h2>December 22nd 2020 at Innovation Hub Space</h2>
-                        <p>Our mission is to help people do better SEO. The team is excited to invite you to the next SEO Training Course session which undoubtedly will provide you with the necessary skills to improve your online presence. Fill out the form to register and we'll contact you in less than 24h</p>
+                        <h2 style="color: #FFFFFF; font-weight: bold;">December 22nd 2020 at Innovation Hub Space</h2>
+                        <p style="color: #FFFFFF;>Our mission is to help people do better SEO. The team is excited to invite you to the next SEO Training Course session which undoubtedly will provide you with the necessary skills to improve your online presence. Fill out the form to register and we'll contact you in less than 24h</p>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
