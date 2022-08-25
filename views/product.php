@@ -139,20 +139,24 @@
                                 <p>One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices</p>
                             </div>
                         </li>
+                        <div>
+                        <div class="col-lg-10">    
                         <li class="media">
                             <i class="bullet" style="font-size: 25px;font-weight: bold; color: var(--color-theme-1);">2</i>
-                            <div class="media-body">
-                            <hr style="width:65%; border: 1px solid var(--color-theme-1);">
-                                <h4 style="font-weight: bold; font-family: Modeco;">Understand how users search</h4>
-                                <p>It's not enough anymore to find relevant industry keywords and write huge amounts of content </p>
+                            <hr style="margin-left: 20px; width: 80%; border: 1px solid var(--color-theme-1);">        
+                               </div>
+                                <h4 style="padding-top: 15px; font-weight: bold; font-family: Modeco;">Optimizing your site for mobile devices</h4>
+                                <p>One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices</p>
                             </div>
                         </li>
+                        <div>
+                        <div class="col-lg-10">    
                         <li class="media">
                             <i class="bullet" style="font-size: 25px;font-weight: bold; color: var(--color-theme-1);">3</i>
-                            <div class="media-body">
-                            <hr style="width:65%; border: 1px solid var(--color-theme-1);">
-                                <h4 style="font-weight: bold; font-family: Modeco;">Write for humans optimize for engines</h4>
-                                <p>Write well structured and understandable articles not just a mix of paragraphs that contain keywords</p>
+                            <hr style="margin-left: 20px; width: 80%; border: 1px solid var(--color-theme-1);">        
+                               </div>
+                                <h4 style="padding-top: 15px; font-weight: bold; font-family: Modeco;">Optimizing your site for mobile devices</h4>
+                                <p>One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices</p>
                             </div>
                         </li>
                     </ul>
