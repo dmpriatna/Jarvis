@@ -119,7 +119,7 @@
 <!-- Content 4 End -->
 
 <!-- Description -->
-<div id="description" class="basic-2">
+<div id="description" class="basic-2" style="margin-top: 40px;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
