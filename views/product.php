@@ -268,9 +268,6 @@
 <!-- Content 7 End -->
 
 <!-- Content 8 Start -->
-    <div>
-        <img src="picture/carousel-3.jpg" alt="carousel-3" height="480" width="100%" class="mist">
-    </div>
 <!-- Content 8 End -->
 
 <!-- Content 9 Start -->
