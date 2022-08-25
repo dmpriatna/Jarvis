@@ -203,11 +203,11 @@
 
 
 <!-- Video -->
-            <div class="basic-4">
+            <div class="basic-4" style="margin-top: 50px;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2 style="text-align: center;">Course Video Presentation</h2>
+                    <h2 style="text-align: center; font-weight: bold;">Course Video Presentation</h2>
                     <hr style="width:30%; border: 3px solid var(--color-theme-1);">
 
                     <!-- Video Preview -->
