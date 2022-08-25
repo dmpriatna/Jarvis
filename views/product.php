@@ -132,7 +132,7 @@
                         <div>
                         <li class="media">
                             <i class="bullet" style="margin-left: 20px; font-size: 25px;font-weight: bold; color: var(--color-theme-1);">1</i>
-                            <div class="media-body">
+                            <div class="col-lg-6">
                             <hr style="width:65%; border: 1px solid var(--color-theme-1);">
                                 </div>
                                 <h4 style="font-weight: bold; font-family: Modeco;">Optimizing your site for mobile devices</h4>
@@ -151,7 +151,7 @@
                             <i class="bullet" style="font-size: 25px;font-weight: bold; color: var(--color-theme-1);">3</i>
                             <div class="media-body">
                             <hr style="width:65%; border: 1px solid var(--color-theme-1);">
-                                <h4>Write for humans optimize for engines</h4>
+                                <h4 style="font-weight: bold; font-family: Modeco;">Write for humans optimize for engines</h4>
                                 <p>Write well structured and understandable articles not just a mix of paragraphs that contain keywords</p>
                             </div>
                         </li>
