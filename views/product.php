@@ -345,7 +345,7 @@
                     <div class="text-container">
                         <h2 style="color: #FFFFFF; font-weight: bold;">December 22nd 2020 at Innovation Hub Space</h2>
                         <p style="color: #FFFFFF;">Our mission is to help people do better SEO. The team is excited to invite you to the next SEO Training Course session which undoubtedly will provide you with the necessary skills to improve your online presence. Fill out the form to register and we'll contact you in less than 24h</p>
-                        <a class="btn-solid-lg page-scroll" href="#register" style="font-family: Modeco;color: #FFFFFF; margin-top: 20px; padding: 10px 10px 10px 5px; border: 1px solid #FFFFFF;">Read More</a>
+                        <a class="btn-solid-lg page-scroll" href="#register" style="font-family: Modeco;color: #FFFFFF; margin-top: 40px; padding: 10px 10px 20px 20px; border: 1px solid #FFFFFF;">Read More</a>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
