@@ -48,7 +48,7 @@ a:focus {
 	padding-top: 6rem;
 	padding-bottom: 6.125rem;
 	border-radius: 0.75rem;
-	background: url(picture/carousel-3.jpg);
+	background-image: url(picture/carousel-3.jpg);
 	background-size: cover;
 	text-align: center;
 }
