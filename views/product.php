@@ -60,7 +60,7 @@
 <!-- Content 3 Start -->
 <div class="container-fluid p-5 section-3">
     <h2 style="padding-bottom:60px; text-align: center; font-weight: bold; letter-spacing: 10px; font-size: 28px; font-family: Modeco;">ParaPartner</h2>
-    <div class="row" style="margin-left: 15px;">
+    <div class="row" style="margin-left: 20px;">
         <div class="col-2">
             <img src="picture/Legalku.svg" alt="">
         </div>
@@ -236,7 +236,7 @@
     </p>
 </div>
 <div class="container-fluid">
-    <div class="row">
+    <div class="row" style="margin-left: 20px;">
         <div class="col-3">
             <div class="card" style="height:280px; width:220px; border-top-right-radius: 80px; background-color: #FFFFFF; border:none; margin-left: 30px">
                 <div class="card-body">
