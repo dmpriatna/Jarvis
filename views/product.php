@@ -139,7 +139,7 @@
                                 <p>One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices</p>
                             </div>
                         </li>
-                        <div class="col-lg-10">    
+                        <div class="col-lg-6">    
                         <li class="media">
                             <i class="bullet" style="font-size: 25px;font-weight: bold; color: var(--color-theme-1);">2</i>
                             <hr style="margin-left: 20px; width: 80%; border: 1px solid var(--color-theme-1);">        
