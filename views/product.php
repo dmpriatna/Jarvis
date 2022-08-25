@@ -340,7 +340,7 @@
 <!-- Date -->
 <div style="text-align: center;">
         <div class="container">
-            <img src="picture/carousel-1.jpg" style="background-size: cover;">
+            <img src="picture/carousel-1.jpg" style="background-size: cover; width: 100%;">
         </div> <!-- end of container -->
     </div> <!-- end of basic-5 -->
     <!-- end of date -->
