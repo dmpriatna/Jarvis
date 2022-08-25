@@ -2569,6 +2569,12 @@ a:focus {
     background-size: cover;
 }
 
+.bg-dec {
+    text-align: center;
+    background-size: cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../picture/carousel-1.jpg), no-repeat center center;
+}
+
 .testimonial-carousel .owl-item img {
     width: 75px;
     height: 75px;
