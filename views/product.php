@@ -5,7 +5,7 @@
             <div class="container p-3 py-5">
                 <div style="padding-top:70px; padding-left:100px">
                     <div class="row">
-                        <h1 class="p v-line-6" style="margin-left: 17px;"><b>Natars</b> Training Course</h1>
+                        <h1 class="p v-line-6" style="margin-left: 17px;"><b>Natar</b> Training Course</h1>
                     </div>
                     <p class="p">Pendampingan Dokumentasi Lintas disiplin</p>
                     <p class="p" style="margin-top: -20px">ilmu untuk mengembangkan, memperbaiki, &</p>
@@ -123,7 +123,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h2>What Will You Learn In Our SEO Focused Training Course</h2>
+                    <h2 style="text-align: center; font-weigh: bold;">What Will You Learn In Our SEO <br>Focused Training Course</h2>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
             <div class="row">
