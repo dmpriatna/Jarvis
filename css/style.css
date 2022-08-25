@@ -2570,6 +2570,8 @@ a:focus {
 }
 
 .bg-dec .container {
+    padding-top: 6rem;
+	padding-bottom: 6.125rem;
     text-align: center;
     background-size: cover;
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../picture/carousel-1.jpg), no-repeat center center;
