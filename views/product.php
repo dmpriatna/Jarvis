@@ -119,7 +119,7 @@
 <!-- Content 4 End -->
 
 <!-- Description -->
-<div id="description" class="basic-2" style="margin-top: 40px;">
+<div id="description" class="basic-2" style="margin-top: 80px;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -202,7 +202,7 @@
     <!-- end of description -->
 
     <!-- Video -->
-    <div class="basic-4" style="margin-top: 50px;">
+    <div class="basic-4" style="margin-top: 80px;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -229,14 +229,14 @@
     <!-- end of video -->
 
 <!-- Content 7 Start -->
-<div class="container-fluid p-5 section-7 ">
+<div class="container-fluid p-5 section-7" style="margin-top: 80px;">
     <h2 class="p2" style="font-weight: bold;"><b>Key Takeaways</b></h2>
     <p style="text-align: center; color: var(--color-theme-0);">Here are the main topics that will be covered in the SEO training course.They cover all the basics
         <br> of SEO and even some advanced techniques that will help you along the way
     </p>
 </div>
 <div class="container-fluid">
-    <div class="row" style="margin-left: 20px;">
+    <div class="row" style="margin-left: 17px;">
         <div class="col-3">
             <div class="card" style="height:280px; width:220px; border-top-right-radius: 80px; background-color: #FFFFFF; border:none; margin-left: 30px">
                 <div class="card-body">
