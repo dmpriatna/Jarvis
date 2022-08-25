@@ -136,7 +136,7 @@
                             <hr style="margin-left: 20px; width: 80%; border: 1px solid var(--color-theme-1);">        
                                </div>
                                 <h4 style="padding-top: -5px; font-weight: bold; font-family: Modeco;">Optimizing your site for mobile devices</h4>
-                                <p>One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices</p>
+                                <p style="color: var(--color-theme-0);">One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices</p>
                             </div>
                         </li>
                         <div style="margin-top: 30px;">
@@ -146,7 +146,7 @@
                             <hr style="margin-left: 20px; width: 80%; border: 1px solid var(--color-theme-1);">        
                                </div>
                                 <h4 style="padding-top: -5px; font-weight: bold; font-family: Modeco;">Understand how users search</h4>
-                                <p>One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices</p>
+                                <p style="color: var(--color-theme-0);">One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices</p>
                             </div>
                         </li>
                         <div style="margin-top: 30px;">
@@ -156,7 +156,7 @@
                             <hr style="margin-left: 20px; width: 80%; border: 1px solid var(--color-theme-1);">        
                                </div>
                                 <h4 style="padding-top: -5px; font-weight: bold; font-family: Modeco;">Write for humans optimize for engines</h4>
-                                <p>One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices</p>
+                                <p style="color: var(--color-theme-0);">One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices</p>
                             </div>
                         </li>
                     </ul>
@@ -170,7 +170,7 @@
                             <hr style="margin-left: 20px; width: 80%; border: 1px solid var(--color-theme-1);">        
                                </div>
                                 <h4 style="padding-top: -5px; font-weight: bold; font-family: Modeco;">Analyse your existing search traffic</h4>
-                                <p>One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices</p>
+                                <p style="color: var(--color-theme-0);">One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices</p>
                             </div>
                         </li>
                         <div style="margin-top: 30px;">
@@ -180,7 +180,7 @@
                             <hr style="margin-left: 20px; width: 80%; border: 1px solid var(--color-theme-1);">        
                                </div>
                                 <h4 style="padding-top: -5px; font-weight: bold; font-family: Modeco;">Keep updated with the latest change</h4>
-                                <p>One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices</p>
+                                <p style="color: var(--color-theme-0);">One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices</p>
                             </div>
                         </li>
                         <div style="margin-top: 30px;">
@@ -190,7 +190,7 @@
                             <hr style="margin-left: 20px; width: 80%; border: 1px solid var(--color-theme-1);">        
                                </div>
                                 <h4 style="padding-top: -5px; font-weight: bold; font-family: Modeco;">Learn the most important ranking factors</h4>
-                                <p>One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices</p>
+                                <p style="color: var(--color-theme-0);">One of the keys of great SEO is having a mobile friendly website which works smoothly on all devices</p>
                             </div>
                         </li>
                     </ul>
