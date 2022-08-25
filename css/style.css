@@ -2569,7 +2569,7 @@ a:focus {
     background-size: cover;
 }
 
-.bg-dec {
+.bg-dec .container {
     text-align: center;
     background-size: cover;
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../picture/carousel-1.jpg), no-repeat center center;
