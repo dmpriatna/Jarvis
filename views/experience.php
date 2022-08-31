@@ -20,11 +20,6 @@
         </div>
     </div>
 </div>
-
-
-
-
-
     
     <div class="container">
         <div class="row" style="padding-left: 20px; margin-top: 50px; margin-bottom: 50px;">
