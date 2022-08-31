@@ -6,14 +6,14 @@
 
         <div class="col-6">
             <div class="container p-3 py-5">
-                <div style="padding-top: 70px; margin-left: 100px">
+                <div style="padding-top: 70px;">
                     <div class="row">
                         <h1 class="p v-line-6" style="font-size: 28px;"><b>Raih Keuntungan Dengan</b><br> Pendampingan Co-Creation</h1>
                     </div>
                     <p style="padding-top: 14px; color: var(--color-theme-2);">Pendampingan  Dokumentasi Lintas disiplin
                     ilmu untuk mengembangkan, memperbaiki, &
                     Menumbuhkan Bisnis UMKM.</p><br>
-                    <p style="font-size: 16px;"><b>#TerusBerdampingan bersama Parakarsa</p>
+                    <p style="font-size: 16px; color: var(--color-theme-2);"><b>#TerusBerdampingan bersama Parakarsa</p>
 
                 </div>
             </div>
