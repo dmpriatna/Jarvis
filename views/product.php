@@ -360,7 +360,7 @@
                 <div class="col-lg-6">
                     <div class="text-container">
                         <h2 style="font-weight: bold; font-family: Modeco; color: var(--color-theme-1);">Contact Details</h2>
-                        <p style="padding-top: -10px;">For registration questions please get in touch using the contact details below. For any questions use the form.</p>
+                        <p style="padding-top: -30px;">For registration questions please get in touch using the contact details below. For any questions use the form.</p>
                         <h3 style="font-weight: bold; font-family: Modeco; color: var(--color-theme-1);">Main Office Location</h3>
                         <ul class="list-unstyled li-space-lg">
                             <li class="media">
