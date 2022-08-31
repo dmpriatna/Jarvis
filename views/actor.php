@@ -6,7 +6,6 @@
             <p style="font-family: Lora; font-size: 16px; text-align: center; color: var(--color-theme-2);">Pendampingan  Dokumentasi Lintas disiplin ilmu untuk<br> mengembangkan,memperbaiki, & Menumbuhkan Bisnis UMKM.</p>
             <p style="font-family: Lora; font-size: 12px; text-align: center; color: var(--color-theme-2);"><b>#TerusBerdampingan</b> Bersama Parakarsa</p><br>
             <button class="button1" style="margin: 0;
-  position: absolute;
   top: 50%;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
