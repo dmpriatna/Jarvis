@@ -10,11 +10,11 @@
                     <div class="row">
                         <h1 class="p v-line-6" style="margin-left: 17px;"><b>Raih Keuntungan Dengan</b><br> Pendampingan Co-Creation</h1>
                     </div>
-                    <p style="">Pendampingan  Dokumentasi Lintas disiplin</p><br>
-                    <p style="">ilmu untuk mengembangkan, memperbaiki, &</p><br>
+                    <p style="">Pendampingan  Dokumentasi Lintas disiplin</p>
+                    <p style="">ilmu untuk mengembangkan, memperbaiki, &</p>
                     <p style="">Menumbuhkan Bisnis UMKM.</p><br>
                     <p style=""><b>#TerusBerdampingan bersama Parakarsa</p>
-                    
+
                 </div>
             </div>
         </div>
