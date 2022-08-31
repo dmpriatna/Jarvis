@@ -353,22 +353,6 @@
     </div> <!-- end of basic-5 -->
     <!-- end of date -->
 
-<!-- Content 9 Start -->
-
-<div class="container-fluid p-5 section-9" style="margin-top: 50px;">
-    <h4 class="text-color" style="text-align: center;"><b>Stays updated with news by subscribing to our</b>
-    </h4>
-    <h4 class="text-color" style="text-align: center;">newslatter and our social channels
-    </h4>
-<div class="mb-2" style="margin-top: 20px; margin-left: 42%;">
-    <i class="icon-round mr-3" style="background-color: #0B473B;" data-feather="facebook"></i>
-    <i class="icon-round mr-3" style="background-color: #0B473B;" data-feather="twitter"></i>
-    <i class="icon-round mr-3" style="background-color: #0B473B;" data-feather="instagram"></i>
-    <i class="icon-round mr-3" style="background-color: #0B473B;" data-feather="linkedin"></i>
-</div>
-
-<!-- Content 9 End -->
-
 <!-- Contact -->
 <div id="contact" class="form-3" style="margin-top: 40px;">
         <div class="container">
@@ -425,6 +409,21 @@
                         </div>
                     </form>
                     <!-- end of contact form -->
+<!-- Content 9 Start -->
+
+<div class="container-fluid p-5 section-9" style="margin-top: 50px;">
+    <h4 class="text-color" style="text-align: center;"><b>Stays updated with news by subscribing to our</b>
+    </h4>
+    <h4 class="text-color" style="text-align: center;">newslatter and our social channels
+    </h4>
+<div class="mb-2" style="margin-top: 20px; margin-left: 42%;">
+    <i class="icon-round mr-3" style="background-color: #0B473B;" data-feather="facebook"></i>
+    <i class="icon-round mr-3" style="background-color: #0B473B;" data-feather="twitter"></i>
+    <i class="icon-round mr-3" style="background-color: #0B473B;" data-feather="instagram"></i>
+    <i class="icon-round mr-3" style="background-color: #0B473B;" data-feather="linkedin"></i>
+</div>
+
+<!-- Content 9 End -->
 
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
