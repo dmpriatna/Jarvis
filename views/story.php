@@ -91,13 +91,13 @@
               </div>
               <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-23 u-layout-cell-2">
                 <div class="u-container-layout">
-                  <p class="u-text u-text-4" style="color: var(color-theme-1);">Projects</p>
+                  <p class="u-text u-text-4" style="font-family: Lora; font-size: 24px; color: var(--color-theme-1);">Projects</p>
                   <p class="u-text u-text-5">Lorem ipsum dolor sit amet, consectetur adip iscing.</p>
-                  <p class="u-text u-text-6" style="color: var(color-theme-1);">Mission</p>
+                  <p class="u-text u-text-6" style="font-family: Lora; font-size: 24px; color: var(--color-theme-1);">Mission</p>
                   <p class="u-text u-text-7">Lorem ipsum dolor sit amet.</p>
-                  <p class="u-text u-text-8" style="color: var(color-theme-1);">Date</p>
+                  <p class="u-text u-text-8" style="font-family: Lora; font-size: 24px; color: var(--color-theme-1);">Date</p>
                   <p class="u-text u-text-9">12 June 2018</p>
-                  <p class="u-text u-text-10" style="color: var(color-theme-1);">Photography</p>
+                  <p class="u-text u-text-10" style="font-family: Lora; font-size: 24px; color: var(--color-theme-1);">Photography</p>
                   <p class="u-text u-text-11">Olivers Baco</p>
                 </div>
               </div>
