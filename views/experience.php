@@ -29,7 +29,7 @@
         </div>
         <div class="row" style="margin-top: 30px;">
             <div class="col-md-4">
-                <img src="/picture/project-2.jpg" alt="project-2" height="100%" width="100%" style="object-fit: cover; border-top-left-radius: 60px;">
+                <img src="/picture/project-2.jpg" alt="project-2" height="100%" width="130%" style="object-fit: cover; border-top-left-radius: 60px;">
             </div>
             <div class="col-md-8">
                 <h1 style="font-weight: bold;">Kartanesia</h1>
