@@ -21,7 +21,7 @@
             </div>
             <div class="col-md-8">
                 <h1 style="font-weight: bold;">Natar</h1>
-                <h3 style="font-weight: bold; font-size: 20px; color: var(--color-theme-0); font-family: Lora;">Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
+                <h3 style="font-weight: 400; font-size: 20px; color: var(--color-theme-0); font-family: Lora;">Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
                 <p style="font-size: 16px; color: var(--color-theme-0);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis semornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.</p>
                 <div class="btn normal" style="padding-top: 10px; text-align: center; font-family: Modeco; letter-spacing: 0.5px; font-size: 14px; height: 40px; width: 140px; font-weight: Medium;">Learn more</div>
             </div>
@@ -33,7 +33,7 @@
             </div>
             <div class="col-md-8">
                 <h1 style="font-weight: bold;">Kartanesia</h1>
-                <h3 style="font-weight: bold; font-size: 20px; color: var(--color-theme-0); font-family: Lora;">Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
+                <h3 style="font-weight: 400; font-size: 20px; color: var(--color-theme-0); font-family: Lora;">Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
                 <p style="font-size: 16px; color: var(--color-theme-0);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.</p>
                 <div class="btn normal" style="padding-top: 10px; text-align: center; font-family: Modeco; letter-spacing: 0.5px; font-size: 14px; height: 40px; width: 140px; font-weight: Medium;">Learn more</div>
             </div>
@@ -45,7 +45,7 @@
             </div>
             <div class="col-md-8">
                 <h1 style="font-weight: bold;">Temurancang</h1>
-                <h3 style="font-weight: bold; font-size: 20px; color: var(--color-theme-0); font-family: Lora;">Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
+                <h3 style="font-weight: 400; font-size: 20px; color: var(--color-theme-0); font-family: Lora;">Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
                 <p style="font-size: 16px; color: var(--color-theme-0);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.</p>
                 <div class="btn normal" style="padding-top: 10px; text-align: center; font-family: Modeco; letter-spacing: 0.5px; font-size: 14px; height: 40px; width: 140px; font-weight: Medium;">Learn more</div>
             </div>
