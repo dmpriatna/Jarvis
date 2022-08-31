@@ -6,7 +6,7 @@
 
         <div class="col-6">
             <div class="container p-3 py-5">
-                <div style="padding-top: 40px; padding-left: 50px;">
+                <div style="padding-top: 40px; padding-left: 70px;">
                     <div class="row">
                         <h2 class="p v-line-6" style=""><b>Raih Keuntungan Dengan</b><br> Pendampingan Co-Creation</h1>
                     </div>
