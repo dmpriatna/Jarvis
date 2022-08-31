@@ -1,6 +1,6 @@
 <div class="wrapper bc-2">
     <div class="row bc-1">
-        <div class="col-8" style="opacity:0.8">
+        <div class="col-5" style="opacity:0.8">
             <img class="parakarsa" style="width: 720px; height: 400px;" src="picture/parakarsa-photo.svg">
         </div>
 
