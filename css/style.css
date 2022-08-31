@@ -2582,7 +2582,7 @@ a:focus {
 .form-3 {
 	padding-top: 6.125rem;
 	padding-bottom: 5.125rem;
-	background-color: #ffbd50;
+    background-color: var(--color-theme-1);
 }
 
 .form-3 .text-container {
@@ -2594,7 +2594,7 @@ a:focus {
 }
 
 .form-3 p {
-	color: #333;
+	color: var(--color-theme-2);
 	margin-bottom: 2rem;
 }
 
@@ -2604,11 +2604,11 @@ a:focus {
 
 .form-3 .list-unstyled,
 .form-3 .list-unstyled a {
-	color: #333;
+	color: var(--color-theme-2);
 }
 
 .form-3 .list-unstyled .fas {
-	color: #333;
+	color: var(--color-theme-2);
 	font-size: 1rem;
 	line-height: 1.625rem;
 }
@@ -2624,8 +2624,8 @@ a:focus {
 
 .form-3 .form-control-input,
 .form-3 .form-control-textarea {
-	border: 1px solid #ffedd0;
-	background-color: #ffedd0;
+	border: 1px solid var(--color-theme-2);
+	background-color: var(--color-theme-2);
 }
 
 .form-3 .form-control-input:hover,
@@ -2636,17 +2636,17 @@ a:focus {
 .form-3 .help-block,
 .form-3 .checkbox,
 .form-3 .checkbox a {
-	color: #333;
+	color: var(--color-theme-2);
 }
 
 .form-3 .form-control-submit-button {
-	border: 0.125rem solid #333;
+	border: 0.125rem solid var(--color-theme-2);
 	background-color: transparent;
 }
 
 .form-3 .form-control-submit-button:hover {
-	border: 0.125rem solid #ffedd0;
-	background-color: #ffedd0;
+	border: 0.125rem solid var(--color-theme-3);
+	background-color: var(--color-theme-2);
 }
 /** Add **/
 
