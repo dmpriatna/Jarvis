@@ -31,7 +31,7 @@
             <div class="col-md-4">
                 <img src="/picture/project-2.jpg" alt="project-2" height="100%" width="120%" style="object-fit: cover; border-top-left-radius: 60px;">
             </div>
-            <div class="col-md-8" style="margin-left: 20px;">
+            <div class="col-md-8">
                 <h1 style="font-weight: bold;">Kartanesia</h1>
                 <h3 style="font-weight: 400; font-size: 20px; color: var(--color-theme-0); font-family: Lora;">Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
                 <p style="font-size: 16px; color: var(--color-theme-0);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.</p>
