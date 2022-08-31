@@ -54,7 +54,7 @@
     <div style="margin-top: 40px;">
       <hr style="width: 100%; height: 4px; border: 0 none; background-color: var(--color-theme-1);"></hr>
       <hr style="width: 100%; height: 4px; border: 0 none; background-color: var(--color-theme-1);"></hr>
-      <p style="margin-top: 35px; font-size: 60px; margin-left: auto; margin-right: auto; text-align: center; color: var(--color-theme-1); font-family: Modeco Trial;"><b>More Than</b><br> Portofolio</p>
+      <p style="margin-top: 35px; font-size: 60px; margin-left: auto; margin-right: auto; text-align: center; color: var(--color-theme-1); font-family: Modeco Trial;"><b>About</b> Parkarsa</p>
       <hr style="margin-top: 80px; transform: rotate(90deg); width: 10%; height: 2px; border: 0 none; background-color: var(--color-theme-1);"></hr>
         <p style="margin-top: -70px; text-align: right; padding-left: 44px; float: left; width:45%; display: inline-block;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard
            dummy text ever since 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more
@@ -78,8 +78,7 @@
               <div class="u-container-style u-layout-cell u-left-cell u-size-37 u-layout-cell-1">
                 <div class="u-container-layout u-container-layout-1">
                   <div class="u-border-5 u-border-palette-2-base u-line u-line-horizontal u-line-1"></div>
-                  <h1 class="u-text u-text-1"><b>About</b> Us
-                  </h1>
+                  <h1 class="u-text u-text-1"><b>More than</b> A<br> Portofolio</h1>
                   <p style="font-size: 20px; font-family: Lora; font-weight: 500; color: var(--color-theme-0);">It is our goal to help you
                     turn your ideas into successful reality. Below you’ll find the gallery that includes some of the
                     latest projects</h6>
