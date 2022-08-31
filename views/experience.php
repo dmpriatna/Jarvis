@@ -10,10 +10,10 @@
                     <div class="row">
                         <h1 class="p v-line-6" style="font-size: 28px;"><b>Raih Keuntungan Dengan</b><br> Pendampingan Co-Creation</h1>
                     </div>
-                    <p style="padding-top: 14px; color: var(--color-theme-2);">Pendampingan  Dokumentasi Lintas disiplin<br>
+                    <p style="font-family: Lora; padding-top: 14px; color: var(--color-theme-2);">Pendampingan  Dokumentasi Lintas disiplin<br>
                     ilmu untuk mengembangkan, memperbaiki, &<br>
                     Menumbuhkan Bisnis UMKM.</p><br>
-                    <p style="font-size: 16px; color: var(--color-theme-2);"><b>#TerusBerdampingan bersama Parakarsa</p>
+                    <p style="font-family: Lora; font-size: 16px; color: var(--color-theme-2);"><b>#TerusBerdampingan bersama Parakarsa</p>
 
                 </div>
             </div>
