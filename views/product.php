@@ -359,9 +359,9 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="text-container">
-                        <h2>Contact Details</h2>
-                        <p>For registration questions please get in touch using the contact details below. For any questions use the form.</p>
-                        <h3>Main Office Location</h3>
+                        <h2 style="font-weight: bold; font-family: Modeco; color: var(--color--theme-1);">Contact Details</h2>
+                        <p style="padding-top: -10px;">For registration questions please get in touch using the contact details below. For any questions use the form.</p>
+                        <h3 style="font-weight: bold; font-family: Modeco; color: var(--color--theme-1);">Main Office Location</h3>
                         <ul class="list-unstyled li-space-lg">
                             <li class="media">
                                 <i class="fas fa-map-marker-alt"></i>
@@ -417,7 +417,7 @@
 
     <!-- Content 9 Start -->
 
-<div class="container-fluid p-5 section-9" style="margin-top: 50px;">
+<div class="container-fluid p-5 section-9" style="margin-top: 35px;">
     <h4 class="text-color" style="text-align: center;"><b>Stays updated with news by subscribing to our</b>
     </h4>
     <h4 class="text-color" style="text-align: center;">newslatter and our social channels
