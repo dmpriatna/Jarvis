@@ -8,6 +8,12 @@ require_once 'core/myContext.php';
 
 $router = new Router(new Request);
 
+$router->get('/docs', function() {
+  $content = file_get_contents(dirname(__FILE__).'/views/docs.php');
+  include('views/base.page.php');
+  return;
+});
+
 $router->get('/paralancer-connect', function() {
   header('Location: https://bit.ly/fgdparalancer');
   die();
