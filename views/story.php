@@ -78,7 +78,7 @@
               <div class="u-container-style u-layout-cell u-left-cell u-size-37 u-layout-cell-1">
                 <div class="u-container-layout u-container-layout-1">
                   <div class="u-border-5 u-border-palette-2-base u-line u-line-horizontal u-line-1"></div>
-                  <h1 class="u-text u-text-1" style="font-size: 60px; color: var(--color-theme-1);"><b>More than</b> A<br> Portofolio</h1>
+                  <h1 class="u-text u-text-1" style="font-size: 72px; color: var(--color-theme-1);"><b>More than</b> A<br> Portofolio</h1>
                   <p style="font-size: 20px; font-family: Lora; font-weight: 500; color: var(--color-theme-0);">It is our goal to help you
                     turn your ideas into successful reality. Below you’ll find the gallery that includes some of the
                     latest projects</h6>
