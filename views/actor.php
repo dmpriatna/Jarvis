@@ -2,9 +2,10 @@
     <div class="row">
         <img src="picture/carousel-3.jpg" alt="carousel-3" height="350px" width="100%" style="object-fit: cover;">
         <div style="position: absolute; background: #00000080; width: 100%; height: 350px; text-align: center; align-content: center; display: grid;">
-            <h5 class="c-2">The Community Connectors</h5>
-            <h1 class="c-2">Co-create Sustainable</h1>
-            <h1 class="c-2">Engagement</h1>
+            <p style="font-size: 28px; color: var(--color-theme-2); text-align: center;"><b>Raih Keuntungan Dengan</b> Pendampingan Co-Creation</p>
+            <p style="font-size: 20px; text-align: center; color: var(--color-theme-2);">Pendampingan  Dokumentasi Lintas disiplin ilmu untuk mengembangkan,memperbaiki, & Menumbuhkan Bisnis UMKM.</p>
+            <p style="font-size: 16px; text-align: center; color: var(--color-theme-2);">
+            <button class="button1" style="font-weight: 600; font-family: Modeco; color: var(--color-theme-1);"><b>Join Our Ecosystem</b></button>
         </div>
     </div>
 </div>
