@@ -78,7 +78,7 @@
               <div class="u-container-style u-layout-cell u-left-cell u-size-37 u-layout-cell-1">
                 <div class="u-container-layout u-container-layout-1">
                   <div class="u-border-5 u-border-palette-2-base u-line u-line-horizontal u-line-1"></div>
-                  <h1 class="u-text u-text-1"><b>More than</b> A<br> Portofolio</h1>
+                  <h1 class="u-text u-text-1" style="color: var(--color-theme-1);"><b>More than</b> A<br> Portofolio</h1>
                   <p style="font-size: 20px; font-family: Lora; font-weight: 500; color: var(--color-theme-0);">It is our goal to help you
                     turn your ideas into successful reality. Below you’ll find the gallery that includes some of the
                     latest projects</h6>
@@ -89,15 +89,15 @@
                     proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                 </div>
               </div>
-              <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-23 u-layout-cell-2">
+              <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-23 u-layout-cell-2" style="margin-top: 20px;">
                 <div class="u-container-layout">
-                  <p class="u-text u-text-4" style="font-family: Lora; font-size: 24px; color: var(--color-theme-1);">Projects</p>
+                  <p class="u-text u-text-4" style="font-family: Lora; font-size: 20px; color: var(--color-theme-1);">Projects</p>
                   <p class="u-text u-text-5">Lorem ipsum dolor sit amet, consectetur adip iscing.</p>
-                  <p class="u-text u-text-6" style="font-family: Lora; font-size: 24px; color: var(--color-theme-1);">Mission</p>
+                  <p class="u-text u-text-6" style="font-family: Lora; font-size: 20px; color: var(--color-theme-1);">Mission</p>
                   <p class="u-text u-text-7">Lorem ipsum dolor sit amet.</p>
-                  <p class="u-text u-text-8" style="font-family: Lora; font-size: 24px; color: var(--color-theme-1);">Date</p>
+                  <p class="u-text u-text-8" style="font-family: Lora; font-size: 20px; color: var(--color-theme-1);">Date</p>
                   <p class="u-text u-text-9">12 June 2018</p>
-                  <p class="u-text u-text-10" style="font-family: Lora; font-size: 24px; color: var(--color-theme-1);">Photography</p>
+                  <p class="u-text u-text-10" style="font-family: Lora; font-size: 20px; color: var(--color-theme-1);">Photography</p>
                   <p class="u-text u-text-11">Olivers Baco</p>
                 </div>
               </div>
