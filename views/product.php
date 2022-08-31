@@ -417,7 +417,7 @@
 
     <!-- Content 9 Start -->
 
-<div class="container-fluid p-5 section-9" style="margin-top: 35px;">
+<div class="container-fluid p-5 section-9" style="margin-top: 30px; margin-bottom: 30px;">
     <h4 class="text-color" style="text-align: center;"><b>Stays updated with news by subscribing to our</b>
     </h4>
     <h4 class="text-color" style="text-align: center;">newslatter and our social channels
