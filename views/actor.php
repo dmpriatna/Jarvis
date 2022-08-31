@@ -1,5 +1,5 @@
 <div class="container-fluid no-gutters">
-    <div class="row">
+    <div class="row" style="margin-top: 10px;">
         <img src="picture/carousel-3.jpg" alt="carousel-3" height="350px" width="100%" style="object-fit: cover;">
         <div style="position: absolute; background: #00000080; width: 100%; height: 350px; text-align: center; align-content: center; display: grid;">
             <p style="font-family: Modeco; font-size: 28px; color: var(--color-theme-2); text-align: center;"><b>Raih Keuntungan Dengan</b><br> Pendampingan Co-Creation</p>
