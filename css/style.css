@@ -2642,12 +2642,73 @@ a:focus {
 .form-3 .form-control-submit-button {
 	border: 0.125rem solid var(--color-theme-2);
 	background-color: transparent;
+    color: var(--color-theme-2);
 }
 
 .form-3 .form-control-submit-button:hover {
 	border: 0.125rem solid var(--color-theme-3);
 	background-color: var(--color-theme-2);
 }
+
+.form-control-input:focus + .label-control,
+.form-control-input.notEmpty + .label-control,
+.form-control-textarea:focus + .label-control,
+.form-control-textarea.notEmpty + .label-control {
+	top: 0.125rem;
+	opacity: 1;
+	font-size: 0.75rem;
+	font-weight: 700;
+}
+
+.form-control-input,
+.form-control-select {
+	display: block; /* needed for proper display of the label in Firefox, IE, Edge */
+	width: 100%;
+	padding-top: 1.0625rem;
+	padding-bottom: 0.0625rem;
+	padding-left: 1.3125rem;
+	border: 1px solid #c4d8dc;
+	border-radius: 0.25rem;
+	background-color: #fff;
+	color: #555;
+	font: 400 0.875rem/1.875rem "Montserrat", sans-serif;
+	transition: all 0.2s;
+	-webkit-appearance: none; /* removes inner shadow on form inputs on ios safari */
+}
+
+.form-control-input:focus,
+.form-control-select:focus,
+.form-control-textarea:focus {
+	border: 1px solid #a1a1a1;
+	outline: none; /* Removes blue border on focus */
+}
+
+.form-control-input:hover,
+.form-control-select:hover,
+.form-control-textarea:hover {
+	border: 1px solid #a1a1a1;
+}
+
+.form-1 .form-control-input {
+	border: 1px solid #ffedd0;
+	background-color: #ffedd0;
+}
+
+.form-1 .form-control-input:hover {
+	border: 1px solid #fff;
+}
+
+.form-3 .form-control-input,
+.form-3 .form-control-textarea {
+	border: 1px solid #ffedd0;
+	background-color: #ffedd0;
+}
+
+.form-3 .form-control-input:hover,
+.form-3 .form-control-textarea:hover {
+	border: 1px solid #fff;
+}
+
 /** Add **/
 
 .testimonial-carousel .owl-item img {
