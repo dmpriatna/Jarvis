@@ -38,9 +38,9 @@
             <div class="container p-3 py-5">
                 <div style="padding-top: 40px; padding-left: 70px;">
                     <div class="row">
-                        <h2 class="p v-line-6" style="font-size: 40px;"><b>Raih Keuntungan Dengan</b><br> Pendampingan Co-Creation</h1>
+                        <h2 class="p v-line-6" style="font-size: 32px;"><b>Raih Keuntungan Dengan</b><br> Pendampingan Co-Creation</h1>
                     </div>
-                    <p style="font-family: Lora; color: var(--color-theme-2);">Pendampingan  Dokumentasi Lintas disiplin<br>
+                    <p style="font-family: Lora;padding-top: -10px; color: var(--color-theme-2);">Pendampingan  Dokumentasi Lintas disiplin<br>
                     ilmu untuk mengembangkan, memperbaiki, &<br>
                     Menumbuhkan Bisnis UMKM.</p><br>
                     <p style="font-family: Lora; font-size: 16px; color: var(--color-theme-2);"><b>#TerusBerdampingan</b> bersama Parakarsa</p>
