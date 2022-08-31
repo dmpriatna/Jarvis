@@ -5,7 +5,7 @@
         </div>
 
         <div class="col-6">
-            <div class="container">
+            <div class="container p-3 py-5">
                 <div style="padding-top: 70px; padding-left: 100px">
                     <div class="row">
                         <h1 class="p v-line-6" style="margin-left: 17px;"><b>Raih Keuntungan Dengan</b><br> Pendampingan Co-Creation</h1>
