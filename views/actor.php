@@ -4,7 +4,7 @@
         <div style="position: absolute; background: #00000080; width: 100%; height: 350px; text-align: center; align-content: center; display: grid;">
             <p style="font-family: Modeco; font-size: 28px; color: var(--color-theme-2); text-align: center;"><b>Raih Keuntungan Dengan</b><br> Pendampingan Co-Creation</p>
             <p style="font-family: Lora; font-size: 16px; text-align: center; color: var(--color-theme-2);">Pendampingan  Dokumentasi Lintas disiplin ilmu untuk<br> mengembangkan,memperbaiki, & Menumbuhkan Bisnis UMKM.</p>
-            <p style="font-family: Lora; font-size: 12px; text-align: center; color: var(--color-theme-2);">#TerusBerdampingan Bersama Parakarsa</p>
+            <p style="font-family: Lora; font-size: 12px; text-align: center; color: var(--color-theme-2);"><b>#TerusBerdampingan</b> Bersama Parakarsa</p><br>
             <button class="button1" style="font-weight: 600; font-family: Modeco; color: var(--color-theme-1);"><b>Join Our Ecosystem</b></button>
         </div>
     </div>
