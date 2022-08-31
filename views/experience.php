@@ -1,15 +1,20 @@
 <div class="wrapper bc-2">
-<div class="row bc-1">
-<div class="col-6" style="opacity:0.8">
+    <div class="row bc-1">
+        <div class="col-6" style="opacity:0.8">
             <img class="parakarsa" style="width: 640px;" src="picture/parakarsa-photo.svg">
         </div>
+
         <div class="col-6">
-            <div class="container p-3 py-5">
-                <div style="padding-top:70px; padding-left:100px">
+            <div class="container">
+                <div style="padding-top: 70px; padding-left: 100px">
                     <div class="row">
-                        <h1 class="p v-line-6" style="margin-left: 17px;"><b>Natar</b> Training Course</h1>
+                        <h1 class="p v-line-6" style="margin-left: 17px;"><b>Raih Keuntungan Dengan</b><br> Pendampingan Co-Creation</h1>
                     </div>
-                    <p class="p">Pendampingan Dokumentasi Lintas disiplin</p>
+                    <p style="">Pendampingan  Dokumentasi Lintas disiplin</p><br>
+                    <p style="">ilmu untuk mengembangkan, memperbaiki, &</p><br>
+                    <p style="">Menumbuhkan Bisnis UMKM.</p><br>
+                    <p style=""><b>#TerusBerdampingan bersama Parakarsa</p>
+                    
                 </div>
             </div>
         </div>
