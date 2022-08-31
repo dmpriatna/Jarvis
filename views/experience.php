@@ -1,16 +1,22 @@
 <div class="wrapper bc-2">
     <div class="container">
         <div class="row" style="margin: 0 -75px;">
+                <div class="col-md-4" style="padding: 0;">
+                <img src="/picture/carousel-2.jpg" alt="carousel-2" width="100%" height="100%" style="object-fit: cover;">
+            </div>
             <div class="col-md-8 bc-3" style="padding: 25px 0 25px 75px;">
                 <h1 style="font-size: 4rem; font-weight: bold;">I'm Garry Your Trainer</h1>
                 <h4>Hi everybody! I am Garry and I will be your main instructor durnig the SEO training course. I have more than 10 years experience in SEO and I am very passionate about this field. Register for the course and let's meet.</h4>
                 <div class="btn normal">Learn more</div>
             </div>
-            <div class="col-md-4" style="padding: 0;">
-                <img src="/picture/carousel-2.jpg" alt="carousel-2" width="100%" height="100%" style="object-fit: cover;">
-            </div>
         </div>
     </div>
+
+
+
+
+
+    
     <div class="container">
         <div class="row" style="padding-left: 20px; margin-top: 50px; margin-bottom: 50px;">
             <h1 class="v-line-6" style="font-weight: bold;">Online Process Oriented<br> Training Group</h1>
