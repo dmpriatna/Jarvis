@@ -29,25 +29,27 @@
   </head>
 
   <body data-home-page="Home.html" data-home-page-title="Home" class="u-body u-xl-mode">
-    <section class="u-clearfix u-palette-4-base u-section-1" id="carousel_08e2">
-      <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
-        <div class="u-layout">
-          <div class="u-layout-row">
-            <div class="u-container-style u-image u-layout-cell u-left-cell u-size-30 u-image-1">
-              <div class="u-container-layout"></div>
-            </div>
-            <div class="u-border-no-bottom u-border-no-left u-border-no-right u-border-no-top u-container-style u-layout-cell u-palette-1-base u-right-cell u-size-30 u-layout-cell-2">
-              <div class="u-container-layout"></div>
-            </div>
-          </div>
+  <div class="row bc-1">
+        <div class="col-6" style="opacity:0.8">
+            <img class="parakarsa" style="width: 620px;" src="picture/parakarsa-photo.svg">
         </div>
-      </div>
-      <div class="u-container-style u-group u-group-1">
-        <div class="u-container-layout u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-container-layout-3">
-          <h1 class="u-text u-text-body-alt-color u-title u-text-1">A branding <br>agency
-          </h1>
+
+        <div class="col-6">
+            <div class="container p-3 py-5">
+                <div style="padding-top: 40px; padding-left: 70px;">
+                    <div class="row">
+                        <h2 class="p v-line-6" style=""><b>Raih Keuntungan Dengan</b><br> Pendampingan Co-Creation</h1>
+                    </div>
+                    <p style="font-family: Lora; padding-top: 14px; color: var(--color-theme-2);">Pendampingan  Dokumentasi Lintas disiplin<br>
+                    ilmu untuk mengembangkan, memperbaiki, &<br>
+                    Menumbuhkan Bisnis UMKM.</p><br>
+                    <p style="font-family: Lora; font-size: 16px; color: var(--color-theme-2);"><b>#TerusBerdampingan</b> bersama Parakarsa</p>
+                    <button class="button1" style="font-weight: 600; font-family: Modeco; color: var(--color-theme-1);"><b>Join Our Ecosystem</b></button>
+                </div>
+            </div>
         </div>
-      </div>
+    </div>
+</div>
     </section>
 
     <section class="u-clearfix u-expanded-width-xs u-section-3">
