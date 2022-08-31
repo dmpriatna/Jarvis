@@ -1,12 +1,12 @@
 <div class="wrapper bc-2">
     <div class="row bc-1">
         <div class="col-6" style="opacity:0.8">
-            <img class="parakarsa" style="width: 640px;" src="picture/parakarsa-photo.svg">
+            <img class="parakarsa" style="width: 650px;" src="picture/parakarsa-photo.svg">
         </div>
 
         <div class="col-6">
             <div class="container p-3 py-5">
-                <div style="padding-top: 70px;">
+                <div style="padding-top: 50px;">
                     <div class="row">
                         <h2 class="p v-line-6" style=""><b>Raih Keuntungan Dengan</b><br> Pendampingan Co-Creation</h1>
                     </div>
