@@ -1,13 +1,26 @@
 <div class="container-fluid no-gutters">
-    <div class="row">
-        <img src="picture/carousel-3.jpg" alt="carousel-3" height="350px" width="100%" style="object-fit: cover;">
-        <div style="position: absolute; background: #00000080; width: 100%; height: 350px; align-content: center; display: grid; padding-left: 75px;">
-            <h1 class="c-3" style="font-size: 62px;">I’m Garry Your Trainer</h1>
-            <p class="c-2" style="padding-right: 50%;">Hi everybody! I am Garry and I will be your main instructor durnig the SEO training course. I have more than 10 years experience in SEO and I am very passionate about this field. Register for the course and let's meet.</p>
-            <button class="btn bc-3" style="width: max-content;">Learn More</button>
+<div class="row bc-1">
+        <div class="col-6" style="opacity:0.8">
+            <img class="parakarsa" style="width: 620px;" src="picture/parakarsa-photo.svg">
+        </div>
+
+        <div class="col-6">
+            <div class="container p-3 py-5">
+                <div style="padding-top: 40px; padding-left: 70px;">
+                    <div class="row">
+                        <h2 class="p v-line-6" style=""><b>Raih Keuntungan Dengan</b><br> Pendampingan Co-Creation</h1>
+                    </div>
+                    <p style="font-family: Lora; padding-top: 14px; color: var(--color-theme-2);">Pendampingan  Dokumentasi Lintas disiplin<br>
+                    ilmu untuk mengembangkan, memperbaiki, &<br>
+                    Menumbuhkan Bisnis UMKM.</p><br>
+                    <p style="font-family: Lora; font-size: 16px; color: var(--color-theme-2);"><b>#TerusBerdampingan</b> bersama Parakarsa</p>
+                    <button class="button1" style="font-weight: 600; font-family: Modeco; color: var(--color-theme-1);"><b>Join Our Ecosystem</b></button>
+                </div>
+            </div>
         </div>
     </div>
 </div>
+
 <div class="container">
     <div class="row py-5">
         <div class="col" style="text-align: center;">
@@ -22,7 +35,7 @@
             <h1><b>Para</b>Preneur</h1>
             <h3 style="font-size: 20px; font-family: Lora; font-weight: 500; color: var(--color-theme-0);">Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
             <p style="color: var(--color-theme-0);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.</p>
-            <div class="btn normal">Learn more</div>
+            <div class="btn normal" style="font-family: Modeco;">Learn more</div>
         </div>
         <p>&nbsp;</p>
     </div>
@@ -34,7 +47,7 @@
             <h1><b>Para</b>Lancer</h1>
             <h3 style="font-size: 20px; font-family: Lora; font-weight: 500; color: var(--color-theme-0);">Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
             <p style="color: var(--color-theme-0);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.</p>
-            <div class="btn normal">Learn more</div>
+            <div class="btn normal" style="font-family: Modeco;">Learn more</div>
         </div>
         <p>&nbsp;</p>
     </div>
@@ -46,7 +59,7 @@
             <h1><b>Para</b>Partner</h1>
             <h3 style="font-size: 20px; font-family: Lora; font-weight: 500; color: var(--color-theme-0);">Freelancer across disciplines formulate the best way to help SME's, which we prove explicity!</h3>
             <p style="color: var(--color-theme-0);">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.</p>
-            <div class="btn normal">Learn more</div>
+            <div class="btn normal" style="font-family: Modeco;">Learn more</div>
         </div>
         <p>&nbsp;</p>
     </div>
